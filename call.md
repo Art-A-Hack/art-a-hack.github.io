@@ -15,27 +15,26 @@ For 3 Saturdays, **June 28**, **July 12** and **July 19** we can co-create at Th
 We will then have a well-earned closing party where you can present your final work (prototype, artwork, idea), chat and network and land back on the planet.
 
 Please send your ideas to 
-[art-a-hack@jahya.net](mailto:art-a-hack@jahya.net)
-
-We really want to work with you!
+[art-a-hack@jahya.net](mailto:art-a-hack@jahya.net) - we really want to work with you!
 
 Stuff we have already have, just for the asking:
-- Google Glass
-- Oculus Rift
-- Leap Motion
-- RGBDToolkit
-- Kinect
-- Asus Xtion
-- Raspberry Pi
-- BeagleBone
-- Arduino
-- Projectors
-- Touchscreen monitor
-- Display monitor
-- PA/Sound system
-- Beacons
-- Makey Makey
-- Octolively
+
+ - Google Glass
+ - Oculus Rift
+ - Leap Motion
+ - RGBDToolkit
+ - Kinect
+ - Asus Xtion
+ - Raspberry Pi
+ - BeagleBone
+ - Arduino
+ - Projectors
+ - Touchscreen monitor
+ - Display monitor
+ - PA/Sound system
+ - Beacons
+ - Makey Makey
+ - Octolively
 
 
 
