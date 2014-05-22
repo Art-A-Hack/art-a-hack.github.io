@@ -6,9 +6,12 @@ categories: jekyll update
 ---
 We are really excited to announce our first call for participation! We are organizing a collaborative creation between three sets of artists and engineers, to take place in New York over three weekends in June/July. You can keep up to date on public showcase events by signing up at [the Volumetric Society](http://www.meetup.com/volumetric/).
 
-Are you interested in taking part? We are looking for people to join the fun - check out our **open call for participation below** and **apply now**!
+![Artists and engineers hacking in the lab](/assets/hacklab.jpg "Artists and engineers hacking in the lab")
 
-***
+Are you interested in taking part? We are looking for people to join the fun - **check out the open call below and apply now**!
+
+Open Call
+--
 
 **Art-A-Hack <sup>(TM)</sup>** is an open call for artists and engineers, serious maker/creative/technical shoot-for-the stars dreamers who would like to come together to make a BIG impact with some of the newest equipment on the planet.
 
