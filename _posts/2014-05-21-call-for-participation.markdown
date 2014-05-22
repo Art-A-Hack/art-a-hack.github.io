@@ -50,12 +50,12 @@ Stuff we have already have, just for the asking:
 **Ellen Pearlman**  
 Director and Curator  
 Volumetric Society of New York  
-[nyc.volumetric.org](nyc.volumetric.org)  
+[nyc.volumetric.org](http://nyc.volumetric.org)  
 
 **Andy McWilliams**  
 Artist, Technologist  
 ThoughtWorks  
-[www.jahya.net](www.jahya.net)  
+[www.jahya.net](http://www.jahya.net)  
 
 
 
