@@ -4,9 +4,9 @@ title:  "Call for Participation"
 date:   2014-05-21 14:07:53
 categories: jekyll update
 ---
-We are really excited to announce our first call for participation! We are organizing a collaborative creation between three sets of artists and engineers, to take place in New York over three weekends in June/July. Be kept up to date on events at [the Volumetric Society](http://www.meetup.com/volumetric/).
+We are really excited to announce our first call for participation! We are organizing a collaborative creation between three sets of artists and engineers, to take place in New York over three weekends in June/July. You can keep up to date on public showcase events by signing up at [the Volumetric Society](http://www.meetup.com/volumetric/).
 
-We are looking for people to join the fun - check out our **open call for participation below** and **apply now**!  
+Are you interested in taking part? We are looking for people to join the fun - check out our **open call for participation below** and **apply now**!
 
 ***
 
