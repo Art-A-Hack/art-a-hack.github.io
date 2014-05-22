@@ -23,7 +23,7 @@ Stuff we have already have, just for the asking:
  - Oculus Rift
  - Leap Motion
  - RGBDToolkit
- - Kinect
+ - Kinect (our friends at Microsoft have offered to supply us with Kinect 2)
  - Asus Xtion
  - Raspberry Pi
  - BeagleBone
