@@ -146,6 +146,11 @@ a:visited { color: #205caa; }
   background-color: #fff;
 }
 
+@media (max-width: 800px) { 
+  .page-content img {
+    width: 100%;
+  }
+}
 
 /* Home styles */
 /* ----------------------------------------------------------*/
