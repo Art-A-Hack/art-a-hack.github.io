@@ -152,6 +152,16 @@ a:visited { color: #205caa; }
 
 .home h1 { margin-bottom: 25px; }
 
+.home p { 
+  margin: 0.2em 0;
+  font-size: 5em;
+  line-height: 1em;
+}
+
+.home a {
+  font-size: 3em;
+}
+
 .posts { list-style-type: none; }
 
 .posts li { margin-bottom: 30px; }
