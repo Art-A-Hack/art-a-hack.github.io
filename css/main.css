@@ -160,11 +160,27 @@ a:visited { color: #205caa; }
 .home p { 
   margin: 0.2em 0;
   font-size: 5em;
-  line-height: 1em;
+  line-height: 1.1em;
 }
 
 .home a {
+  display: block;
   font-size: 3em;
+  line-height: 1.1em;
+  margin: 0.3em 0;
+}
+
+@media (max-width: 800px) { 
+  .home p {
+    margin: 0.6em 0;
+    font-size: 2em;
+  } 
+
+  .home a {
+    margin: 0.6em 0 0 0;
+    font-size: 1.5em;
+  } 
+
 }
 
 .posts { list-style-type: none; }
