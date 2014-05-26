@@ -4,11 +4,13 @@ title:  "Call for Participation"
 date:   2014-05-21 14:07:53
 categories: jekyll update
 ---
-We are really excited to announce our first call for participation! We are organizing a collaborative creation between three sets of artists and engineers, to take place in New York over three weekends in June/July. You can keep up to date on public showcase events by signing up at [the Volumetric Society](http://www.meetup.com/volumetric/).
-
-![Artists and engineers hacking in the lab](/assets/hacklab.jpg "Artists and engineers hacking in the lab")
+We are really excited to announce our first call for participation! We are organizing a collaborative creation between three sets of artists and engineers, to take place in New York over three weekends in June/July. 
 
 Are you interested in taking part? We are looking for people to join the fun - **check out the open call below and apply now**!
+Please send your ideas to 
+[art-a-hack@jahya.net](mailto:art-a-hack@jahya.net) - we really want to work with you!
+
+![Artists and engineers hacking in the lab](/assets/hacklab.jpg "Artists and engineers hacking in the lab")
 
 Open Call
 --
@@ -25,6 +27,8 @@ We will then have a well-earned closing party where you can present your final w
 
 Please send your ideas to 
 [art-a-hack@jahya.net](mailto:art-a-hack@jahya.net) - we really want to work with you!
+
+***
 
 Stuff we have already have, just for the asking:
 
@@ -45,7 +49,7 @@ Stuff we have already have, just for the asking:
  - Makey Makey
  - Octolively
 
-
+***
 
 **Ellen Pearlman**  
 Director and Curator  
