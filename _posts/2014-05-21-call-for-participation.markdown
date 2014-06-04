@@ -27,6 +27,8 @@ We will then have a well-earned closing party where you can present your final w
 
 Send us your ideas now, to [art-a-hack@jahya.net](mailto:art-a-hack@jahya.net). Tell us a project idea you want to try, or just the types of projects or technologies you'd like to get into. Send us some info about your skills, background and what you'd like to contribute.
 
+The deadline for applications is Sunday June 15th.
+
 ***
 ![Stuff we have](/assets/montage.png "Stuff we have")
 
