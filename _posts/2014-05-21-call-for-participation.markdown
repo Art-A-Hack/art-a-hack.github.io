@@ -37,6 +37,7 @@ Stuff we have already have, just for the asking:
  - Google Glass
  - Oculus Rift
  - Leap Motion
+ - NeuroSky MindWave Mobile
  - RGBDToolkit
  - Kinect (our friends at Microsoft have offered to supply us with Kinect 2)
  - Asus Xtion
