@@ -269,6 +269,9 @@ a:visited { color: #205caa; }
   margin: 0.8em 0; 
 }
 
+.post .highlight {
+  color: red;
+}
 
 .post pre,
 .post code {

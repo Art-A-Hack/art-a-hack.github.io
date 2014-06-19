@@ -4,6 +4,9 @@ title:  "Call for Participation"
 date:   2014-05-21 14:07:53
 categories: jekyll update
 ---
+<p class="highlight">The deadline has passed and submissions are no longer being accepted. <br /><br /><a href="/posts/2014/06/16/the-results-are-in/">Click here check out the selected teams!</a>.</p>
+
+***
 We are really excited to announce our first call for participation! We are organizing a collaborative creation between three pairings of artist/engineer, or of designer/maker or whatever combination makes sense based on your project proposals.
 
 Are you interested in taking part? We are looking for people to join the fun - **check out the open call below and apply now**!
