@@ -473,3 +473,6 @@ ul.posts {
     margin: 0 0 15px; }
 
 }
+.post-content > iframe {
+  margin: 0;
+}
