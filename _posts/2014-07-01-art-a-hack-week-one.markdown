@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Art-A-Hack Week 1"
+title:  "The First Week of Art-A-Hack"
 date:   2014-07-01 21:55:40
 categories: jekyll update
 ---
