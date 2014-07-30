@@ -241,6 +241,24 @@ ul.posts {
   margin-top: 5px;
 }
 
+.post-content .date, .post-content .notes {
+  color: gray;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 0;
+}
+
+.post-content .date {
+  font-size: 1.4em;
+  margin-bottom: 0.3em;
+}
+
+.post-content .byline {
+  margin: 0;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
@@ -284,6 +302,14 @@ ul.posts {
 
 .post-content ul,
 .post-content ol { padding-left: 20px; }
+
+.post-content .img {
+  margin-bottom: 0;
+}
+
+.post-content img {
+  width: 800px;
+}
 
 .post-content img[title="Stuff we have"] {
   float: right;
@@ -393,6 +419,13 @@ ul.posts {
 /* media queries */
 /* ----------------------------------------------------------*/
 
+
+@media screen and (max-width: 860px) {
+
+  .post-content img {
+    width: 100%;
+  }
+}
 
 @media screen and (max-width: 750px) {
 
