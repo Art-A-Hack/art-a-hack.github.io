@@ -383,6 +383,16 @@ ul.posts {
   width: 360px;
 }
 
+.post-content.report .landscape img {
+  width: 450px;
+}
+
+@media screen and (max-width: 790px) {
+  .post-content.report .img.landscape img {
+    width: 400px;
+  }
+}
+
 @media screen and (max-width: 640px) {
   .post-content.report .img {
     display: inline-block;
@@ -392,6 +402,15 @@ ul.posts {
   }
 
   .post-content.report img {
+    width: 100%;
+  }
+
+  .post-content.report .img.landscape {
+    width: 100%;
+    margin-bottom: 1em;
+  }
+
+  .post-content.report .img.landscape img {
     width: 100%;
   }
 }
