@@ -241,7 +241,7 @@ ul.posts {
   margin-top: 5px;
 }
 
-.post-content .date, .post-content .notes {
+.post-content .date, .post-content .notes, .post-header.report .dates{
   color: gray;
   font-size: 1.2em;
   font-weight: bold;
@@ -350,6 +350,63 @@ ul.posts {
 }
 
 .post pre.terminal code { background-color: #333; }
+
+.post-header.report {
+  margin-bottom: 1em;
+}
+
+.post-header.report h1 {
+  display: inline-block;
+}
+
+.post-header.report .dates {
+  display: inline-block;
+  float: right;
+}
+
+.post-content.report h2 {
+  font-size: 1.5em;
+  margin-top: 2em;
+}
+
+.post-content.report h3 {
+  font-size: 1.3em;
+}
+
+.post-content.report .img {
+  display: inline;
+  float: right;
+  margin: 0.2em 0 1em 2em;
+}
+
+.post-content.report img {
+  width: 360px;
+}
+
+@media screen and (max-width: 640px) {
+  .post-content.report .img {
+    display: inline-block;
+    float: none;
+    width: 67%;
+    margin: 0;
+  }
+
+  .post-content.report img {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .post-content.report .img {
+    width: 100%;
+  }
+}
+
+.post-content .team {
+  color: #666;
+  font-weight: bold;
+  font-size: 1.1em;
+}
 
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/
