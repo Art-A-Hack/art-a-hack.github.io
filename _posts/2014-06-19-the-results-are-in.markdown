@@ -9,41 +9,53 @@ Our open call has now closed, and I'm pleased to say we had an incredible mix of
 
 The Art-A-Hack crew (Ellen Pearlman, Kent Rahman and Andy McWilliams) have put together nine groups that encompass twenty-one people. The categories and people include:
 
-1. Wearables and 3D Printing
+<ol>
+  <li>
+    <p>Wearables and 3D Printing</p>
 
-   Reed Tothong, Kate Sicchio and Aaron Trocola
+    <p>Reed Tothong, Kate Sicchio and Aaron Trocola</p>
+  </li>
+  <li>
+    <p>Neuro Sky, Neuro Projection and EEG</p>
 
-2. Neuro Sky, Neuro Projection and EEG
+    <p>Aleef Mahmud, Eva Lee and Daniel Padawar</p>
+  </li>
+  <li>
+    <p>Depth and Multimedia</p>
 
-   Aleef Mahmud, Eva Lee and Daniel Padawar
+    <p>Diana Castro, Tyler Parker and Joelle Fleurantin</p>
+  </li>
+  <li>
+    <p>Performance, Depth and Oculus</p>
 
-3. Depth and Multimedia
+    <p>Noah Pivnick and Jason Levine</p>
+  </li>
+  <li>
+    <p>Oculus, Fantasy World and LED</p>
 
-   Diana Castro, Tyler Parker and Joelle Fleurantin
+    <p>Martha Hipley, Sophi Kravitz, and Takafumi Ide</p>
+  </li>
+  <li>
+    <p>Smart Technology and Environments</p>
 
-4. Performance, Depth and Oculus
+    <p>Andrew Ritchie and Chinazo Rena Anakwe</p>
+  </li>
+  <li>
+    <p>Time and Code</p>
 
-   Noah Pivnick and Jason Levine
+    <p>Kim Fisher and Olga Ast</p>
+  </li>
+  <li>
+    <p>Public Space and Theater</p>
 
-5. Oculus, Fantasy World and LED
+    <p>Annie Berman and Francisco Javier Molina</p>
+  </li>
+  <li>
+    <p>Google Glass</p>
 
-   Martha Hipley, Sophi Kravitz, and Takafumi Ide
-
-6. Smart Technology and Environments
-
-   Andrew Ritchie and Chinazo Rena Anakwe
-
-7. Time and Code
-
-   Kim Fisher and Olga Ast
-
-8. Public Space and Theater
-
-   Annie Berman and Francisco Javier Molina
-
-9. Google Glass
-
-   Mark Bolotin and Billy Keefe
+    <p>Mark Bolotin and Billy Keefe</p>
+  </li>
+</ol>
 
 Art-A-Hack will take place at Thoughtworks in Manhattan over three Saturdays in June and July. It is not open to the public, but we are working for a venue to show the public the fantastic results.
 
