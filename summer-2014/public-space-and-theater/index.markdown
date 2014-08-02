@@ -8,7 +8,7 @@ dates:  "June-July, 2014"
 
 <h2>Public Space and Theater</h2>
 
-<div class="img landscape">
+<div class="img">
 	<img src="/assets/summer-2014/5.jpg" alt="Annie Berman and Francisco Javier Molina" />
 	<div class="team">Annie Berman and Francisco Javier Molina</div>
 </div>
