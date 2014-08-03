@@ -379,7 +379,7 @@ ul.posts {
   margin: 0.2em 0 1em 2em;
 }
 
-.post-content.report img {
+.post-content.report .img, .post-content.report .img img {
   width: 360px;
 }
 
@@ -401,7 +401,7 @@ ul.posts {
     margin: 0;
   }
 
-  .post-content.report img {
+  .post-content.report .img, .post-content.report .img img {
     width: 100%;
   }
 
