@@ -14,18 +14,16 @@ dates:  "June-July, 2014"
 <div class="team">Mark Bolotin, Billy Keefe, Chantel</div>
 </div>
 
-Instant access to personal information about everyone you meet? It has become a real possibility with the rise of wearables and the pervasiveness of online identity.
+Instant access to personal information about everyone you meet has become a real possibility with the rise of wearables and the pervasiveness of online identity tracking.
 
-The premise was simple. Take a Google Glass, and feed it with data about selected individuals. The wearer becomes clairvoyant, discovering personal insights into those she interacts with in real-time.
+The team used Google Glass to source data about selected individuals and make that data available to the wearer. This enables anyone wearing the Glass to become "clairvoyant", able to discover personal insights into those she interacts with in real-time.
 
-The team crafted this concept into a performance piece, in which a fortune-teller scams an unsuspecting participant. The audience look on, the information sent to the Google Glass projected up behind the participant's back.
+The team crafted a performance piece in which a fortune-teller, Chantal the Magnificent, scammed an unsuspecting participant. Personal information about the participant was transmitted to Chantal via her Google Glass. This information is also projected onto a screen behind the participant’s back, so that the audience can clearly see the scam in action.
 
-For one subject the team was able to locate every sex offender within one block of their home, look at their mortgage, all of it was all free on the internet. For another person with an open Facebook profile there was an incredible amount of information.
-
-However even for those with a closed Facebook profile, the team were able to build up a fairly intrusive profile from public data.
+For one subject the team was able to locate every sex offender within one block of their home, and locate their mortgage. All of this information was legal and free on the internet. Another person with an open Facebook profile was exposed for being an Elvis Presley fan. Even for those with a closed Facebook profile, the team was able to show a fairly intrusive profile from public data.
 
 <h3>Technical Challenges</h3>
 
-Sending simple information to Google Glass was difficult without an experienced Java developer. There were the usual hardware issues, cell phones that did not work, etc. The team found an extension for Google Chrome which allowed them to scrape internet data.
+Sending simple information to Google Glass was difficult without an experienced Java developer. Hardware issues arose, but the team persevered and found an extension for Google Chrome that allowed them to scrape internet data.
 
-The team hacked on a Google Glass communication app prototype, which they were unable to complete without a domain expert. Instead they mocked up the scraped data into a conceptually accomplished and engaging performance work.
+The team hacked a Google Glass communication app prototype, but were unable to complete their hack without the help of a domain expert. Improvising, they still made the scraped data into a conceptually rich and engaging performance work.
