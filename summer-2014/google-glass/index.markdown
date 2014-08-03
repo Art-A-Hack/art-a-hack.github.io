@@ -9,9 +9,9 @@ dates:  "June-July, 2014"
 <h2>Privacy and Google Glass</h2>
 
 <div class="img">
-	<img src="/assets/summer-2014/1.jpg" alt="Mark Bolotin, Billy Keefe, Chantel" />
+	<img src="/assets/summer-2014/1.jpg" alt="Mark Bolotin, Billy Keefe, Chantel The Magnificent" />
 
-<div class="team">Mark Bolotin, Billy Keefe, Chantel</div>
+<div class="team">Mark Bolotin, Billy Keefe, Chantel The Magnificent</div>
 </div>
 
 Instant access to personal information about everyone you meet has become a real possibility with the rise of wearables and the pervasiveness of online identity tracking.
