@@ -13,18 +13,20 @@ dates:  "June-July, 2014"
 	<div class="team">Sophi Kravitz, Martha Hipley and Takafumi Ide</div>
 </div>
 
-In what new ways can you take an immersive experience like Oculus Rift, and make it more interactive?
+What innovations can be made on immersive Virtual Reality experiences like Oculus Rift? How can the experience become more physically interactive?
 
-This team investigated the nuances of gesture, focusing on hands, body orientation and use of weight.
+This team investigated nuances of gesture, focusing on using the hands, how the body orientates in space and use of torque, or bodyweight.
 
-To do this, they hacked the accelerometer from a cellphone and used it to prototype a weight-distribution controller. You lean forward and your virtual character moves forward. You lean back, and your character moves back.
+To do this, they hacked the accelerometer from a cellphone to prototype a weight-distribution controller. This meant if you leaned forward your virtual character moved forward. If you leaned backwards, your character stepped back.
 
-All three collaborators came from a more creative background, but decided from day one to embrace the technology and development aspect. They were on a steep learning curve, hacking with the Unity 3D modeling / programming environment, and the Leap Motion hand-gesture controller all at the same time.
+All three collaborators came from creative backgrounds, but decided early on to embrace the technology in terms of its development aspect. They were on a steep learning curve, hacking using the Unity 3D modeling / programming environment, and the Leap Motion hand-gesture controller, all over the course of just three Saturdays.
 
 The team will be showing their project at World Maker Faire NYC in September.
 
 <h3>Technical Challenges</h3>
 
-The team tried to figure out how to work with the Leap Motion in Unity where they could hold an object and bring an environment together but it did not work. With the Leap motion sensor attached to Oculus you can see your finger.
+The team brought the Leap motion sensor into a freshly-modeled Oculus world, so that you can see your hand and fingers. They wanted to hold objects in the virtual world through manipulating gestures with the Leap Motion but were unable to make it work within the time constrains.
 
-With their hacked full-body sensor, there is an issue with balance - stabilizing the active effect of a balancing tilter while wearing the Oculus. The project was coded in C# and Javascript, which was new to the team. They used a smartphone app called Unity Remote to link the phone's accelerometer with Unity 3D.
+Using an exercise balancing disc, the team created a type of full-body balance sensor. However from a user experience standpoint, stabilizing a balancing disc while standing on it wearing the Oculus Rift was difficult.
+
+The project was coded in C# and Javascript, which was new to the team. They used a smartphone app called Unity Remote to link the phone's accelerometer with Unity 3D.
