@@ -13,16 +13,14 @@ dates:  "June-July, 2014"
 	<div class="team">Tyler Parker, Joelle Fleurantin, Diana Castro</div>
 </div>
 
-Can a compelling human interaction experience be designed around disorientation and confusion? Can we offer interaction in a multimedia installation with a virtual avatar, and then take that avatar away?
+This team explored the possibilities of inferring human body shapes in public space in real-time. They created 'virtual breakpoints' which visitors can walk through.
 
-The technological paradigm of inferring human body shapes in public space in real-time is still in it's infancy. This team explored the possibilities in such interactions by creating 'virtual breakpoints' around the space which visitors can walk through.
-
-You might walk from a sunny beach, for example, and step forward to find yourself in a city at night. All the time, in each scene you find yourself in, a silhouette taunts you. You can try to approach the mystery figure, but she or he is always one step too far away.
+This means walking from a virtual sunny beach, to a city at night. All the time, a shadowy silhouette follows along. You can try to approach the mystery figure, but she or he was always one step ahead. 
 
 <h3>Technical Challenges</h3>
 
-Most of the coding was done in openFrameworks. Sound design was created with Abelton Live. The visuals with characters, players, stages, and a scene were made in Blender.
+Most of the coding was done in openFrameworks and the sound design was created with Abelton Live. The visuals, including characters, players, stages, and a scene were created in the 3D program Blender.
 
-An impressively bizarre bug was discovered emanating from one of the plug-ins' relationship with Mavericks: If you don't move the mouse all the time, the computer freezes.
+A bug was discovered from one of the plug-ins' relationship with the Mavericks OS: If you don’t keep the computer mouse moving all the time, the computer freezes and locks up.
 
-Joelle found that OpenCV and blob tracking were a big technical challenge for the time provided. Tyler had webcam issues with a squiggly blob, would like to have refined it more he made the settings in an XML file.
+Joelle found that learning and mastering OpenCV and blob tracking were big technical hurdles considering the short timeframe provided. Tyler had webcam issues with what is referred to as a squiggly blob and made the rest of the settings into an XML file.
