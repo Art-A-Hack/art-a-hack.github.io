@@ -13,18 +13,18 @@ dates:  "June-July, 2014"
 	<div class="team">Olga Ast and Rolf Levenbach</div>
 </div>
 
-Olga Ast is a designer, author and interdisciplinary artist who investigates connections between space, time and information. Rolf Levenbach is a computer and communications expert with a resume including, among others, Bell Labs, Rutgers University, and the American Museum of Natural History.
+Olga Ast is a designer, author and interdisciplinary artist. Her practice investigates connections between space, time and information. Rolf Levenbach is a computer and communications expert with a resume that includes Bell Labs, Rutgers University, NYU ITP, and the American Museum of Natural History.
 
-The two came together to investigate ideas about how we encode, decode and simulate time and space.
+The two investigated how we encode, decode and simulate time and space.
 
-The team effectively worked on two parallel tracks, feeding from each other but working on separate ideas. Olga created a physical installation which subverted the intended purpose of the human-motion detection and display hardware 'Octolively'.
+The team developed their ideas in two parallel tracks during their mutual collaboration. Olga created a physical installation which subverted the intended purpose of  human-motion detection and the light sensitive display hardware called 'Octolively'.
 
-Ast noticed that the Octolively's on-board sensors responded more vigorously to certain physical surfaces than to human hands. She created an installation in which various materials and surfaces hang just in front of a wall-mounted Octolively, inadvertently activating its lights as they sway in the breeze.
+Ast noticed Octolively's on-board sensors responded more vigorously to reflective physical surfaces than to the movement of human hands. She created an installation where different reflective materials and surfaces dangled in front of a wall-mounted Octolively, activating its lights as they swayed in the breeze.
 
-Simultaneously, Levenbach investigated flocking algorithms, attempting to show the relationship between time and action of individual elements. This is an alternative view of time to that of the 'frame-based' metaphor of clocks, video or traditional animation.
+Simultaneously, Levenbach delved into flocking algorithms. He showed the relationship between time and the action of individual elements. This is an alternative view of time to that of the 'frame-based' metaphor of clocks, video, or traditional animation.
 
 <h3>Technical Challenges</h3>
 
-In the Octolively installation, many technical challenges were circumvented. This was not about creating a new 'prototype', instead it was about investigating the properties and by-products of existing technology.
+In the Octolively installation, many technical challenges were circumvented. This was not about creating a new 'prototype' with the Octolively but about investigating the properties and by-products of existing technology.
 
-A histogram and particle generator kept track of Rolf's iterations. If it was hooked up with Arduino, it could turn on a blinking light, so use the Arduino as an input device. 
+A histogram and particle generator kept track of Rolf's iterations. If there had been more time and it had been hooked up with Arduino, it could have turned on a blinking light by using the Arduino as an input device.
