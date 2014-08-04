@@ -369,6 +369,10 @@ ul.posts {
   margin-top: 2em;
 }
 
+.post-content.report h2 a {
+  color: black;
+}
+
 .post-content.report h3 {
   font-size: 1.3em;
 }

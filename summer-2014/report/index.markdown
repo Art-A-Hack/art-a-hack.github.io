@@ -23,7 +23,7 @@ Some people have Monday to Friday to work on their ideas outside of Art-A-Hack g
 
 Art-A-Hack has been encouraging people to talk about restrictions and restraints as well as ideas and prototypes. We encourage dialogue around how they responded, how they navigate, and their creative process.
 
-<h2>Privacy and Google Glass</h2>
+<h2><a href="../google-glass">Privacy and Google Glass</a></h2>
 
 <div class="img">
 	<img src="/assets/summer-2014/1.jpg" alt="Mark Bolotin, Billy Keefe, Chantel The Magnificent" />
@@ -45,7 +45,7 @@ Sending simple information to Google Glass was difficult without an experienced 
 
 The team hacked a Google Glass communication app prototype, but were unable to complete their hack without the help of a domain expert. Improvising, they still made the scraped data into a conceptually rich and engaging performance work.
 
-<h2>Oculus, Kinect and Distorted Reality</h2>
+<h2><a href="../kinect-and-oculus-mashup">Oculus, Kinect and Extended Reality</a></h2>
 
 <div class="img">
 	<img src="/assets/summer-2014/2.jpg" alt="Mark Bolotin, Billy Keefe, Chantel" />
@@ -69,7 +69,7 @@ The hardware failed in week one, as a new power supply was needed for the Oculus
 
 The team tried using the Kinect with mirrors and sunlight, but these light sources interfered with its depth sensing capabilities. However, a particular 'Kinect aesthetic' is apparent from the incompleteness of the depth and camera data. 
 
-<h2>Depth, Boundaries and Human Interaction</h2>
+<h2><a href="../depth-boundaries-and-human-interaction">Depth, Boundaries and Human Interaction</a></h2>
 
 <div class="img landscape">
 	<img src="/assets/summer-2014/3.jpg" alt="Tyler Parker, Joelle Fleurantin, Diana Castro" />
@@ -88,7 +88,7 @@ A bug was discovered from one of the plug-ins' relationship with the Mavericks O
 
 Joelle found that learning and mastering OpenCV and blob tracking were big technical hurdles considering the short timeframe provided. Tyler had webcam issues with what is referred to as a squiggly blob and made the rest of the settings into an XML file.
 
-<h2>Oculus Rift and Fantasy World</h2>
+<h2><a href="../oculus-and-fantasy-world">Oculus Rift and Fantasy World</a></h2>
 
 <div class="img landscape">
 	<img src="/assets/summer-2014/4.jpg" alt="Sophie Kravitz, Martha Hipley and Takafumi Ide" />
@@ -113,7 +113,7 @@ Using an exercise balancing disc, the team created a type of full-body balance s
 
 The project was coded in C# and Javascript, which was new to the team. They used a smartphone app called Unity Remote to link the phone's accelerometer with Unity 3D.
 
-<h2>Public Space and Theater</h2>
+<h2><a href="../public-space-and-theater">Public Space and Theater</a></h2>
 
 <div class="img">
 	<img src="/assets/summer-2014/5.jpg" alt="Annie Berman and Francisco Javier Molina" />
@@ -136,7 +136,7 @@ Working with a low-powered device means learning about constraints. These were m
 
 When working in such heavily-guarded public space, permission is critical, and takes time to achieve.
 
-<h2>Buddhism, Meditation and the Mind</h2>
+<h2><a href="../buddhism-meditation-and-mind">Buddhism, Meditation and the Mind</a></h2>
 
 <div class="img landscape">
 	<img src="/assets/summer-2014/9.jpg" alt="Eva Lee and Ellen Pearlman" />
@@ -155,7 +155,7 @@ In one sketch, a composer used the data as discrete objects or forces taking col
 
 In another, Maya 3D was used a particle generator.
 
-<h2>Reflecting on Time</h2>
+<h2><a href="../reflecting-on-time">Reflecting on Time</a></h2>
 
 <div class="img landscape">
 	<img src="/assets/summer-2014/6.jpg" alt="Olga Ast and Rolf Levenbach" />
@@ -178,7 +178,7 @@ In the Octolively installation, many technical challenges were circumvented. Thi
 
 A histogram and particle generator kept track of Rolf's iterations. If there had been more time and it had been hooked up with Arduino, it could have turned on a blinking light by using the Arduino as an input device.
 
-<h2>Smart Technology and Environments</h2>
+<h2><a href="../smart-technology-and-environments">Smart Technology and Environments</a></h2>
 
 <div class="img landscape">
 	<img src="/assets/summer-2014/8.jpg" alt="Andrew Ritchie and Chinazo Rena Anakwe" />
@@ -199,7 +199,7 @@ The idea is that a smartphone app would pull the user's current location from GP
 
 A big part of this challenge is content management. An API back-end was built that can store locations, and the team is working on an iOS app that can hit the API and send data back. This is a development-intensive concept and the team found they hit time constraints.
 
-<h2>Wearable Technology and Performance</h2>
+<h2><a href="../wearable-tech-and-performance">Wearable Technology and Performance</a></h2>
 
 <div class="img landscape">
 	<img src="/assets/summer-2014/7.jpg" alt="Aaron Trocola and Kate Sicchio" />
