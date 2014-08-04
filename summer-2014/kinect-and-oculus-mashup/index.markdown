@@ -6,7 +6,7 @@ categories: jekyll update
 dates:  "June-July, 2014"
 ---
 
-<h2>Oculus, Kinect and Distorted Reality</h2>
+<h2>Oculus, Kinect and Extended Reality</h2>
 
 <div class="img">
 	<img src="/assets/summer-2014/2.jpg" alt="Mark Bolotin, Billy Keefe, Chantel" />
