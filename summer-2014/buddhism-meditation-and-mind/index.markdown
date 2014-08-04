@@ -13,14 +13,12 @@ dates:  "June-July, 2014"
 	<div class="team">Eva Lee, various programmers, Ellen Pearlman</div>
 </div>
 
-Eva Lee applied with the proposal of creating an installation work based on brain data. This would involve visualizing the data of neuroscientist Dr. Jose Raul Muradas, who has provided key values from electroencephalographic (EEG) studies on participants' sense of self and non-self in meditation.
+Eva Lee applied to Art-A-Hack proposing to create an installation work visualizing electroencephalographic (EEG) brain data culled from neuroscientist Dr. Jose Raul Muradas' research on prayers for self compared to prayers for others.
 
-The data reflected certain similarities and important differences when participants were mediting on the self, or on other people. The idea would be to use programmatic means to visualize and explore the data as an investigation into human identity and consciousness.
+The data displayed numeric similarities and differences that occurred when subject participants meditated on self versus meditating on others. Different programming languages were investigated as a means to visualize data to represent aspects of human identity and consciousness.
 
-During the process, different programmers cycled in and out, and as a result the outcomes were more in the form of animated sketches, sonic and visual.
+During the process Ellen Pearlman worked with Eva as different programmers lent their expertise on various methods of representation. The results were process-oriented prototypes that included sonic and animated sketches.
 
 <h3>Technical Challenges</h3>
 
-In one sketch, a composer used the data as discrete objects or forces taking columns of frequencies. There were 100 sets of numbers with short MP3s for each tone, and the volume was determined by the EEG set of data. 
-
-In another, Maya 3D was used a particle generator.
+In one presentation, the data translated brain frequencies into tones resulting in 100 short MP3s combined with spectrum visualizations. In another presentation the data sets were displayed as interacting particles built in Maya 3D.
