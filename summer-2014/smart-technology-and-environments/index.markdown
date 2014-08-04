@@ -13,16 +13,14 @@ dates:  "June-July, 2014"
 	<div class="team">Andrew Ritchie and Chinazo Rena Anakwe</div>
 </div>
 
-How can a smart environment change the way we interact socially during large communal events? Can technology in public spaces facilitate transitions from anonymity to intimacy?
+How can the ubiquity of smartphones change the way we think of the environments around us? How can geo-location change the way we engage with space?
 
-As the Art-A-Hack program got underway, the World Cup 2014 was entering it's final stages. The team found themselves watching a match over lunch at a bar. 
-
-From this they realized that they were temporarily united with strangers, other supporters who they never met, but who were cheering from across the room.
-
-How might a smart environment change the nature of that interaction? This team chose to use these questions to drive an attempt to use the GPS smartphones to virtualize their environment in response to large-scale communal events.
+This team proposed an adventure, similar to a scavenger hunt. This would use a technique called geocaching to allow smartphone users to leave and discover treasures in marked physical locations for other users to interact with.
 
 <h3>Technical Challenges</h3>
 
-The idea is that a smartphone app would pull the user's current location from GPS, and would query a backend API to see if communal events or content were located nearby. The first iteration from the user experience perspective would be to allow the user to share (or 'drop') a photo in that location. Then, other users involved in the event could see the photo and respond to it.
+For locating users, the team experimented with Estimote Beacons. They discovered beacons to be quite cumbersome for this task compared with GPS.
+
+The idea was that a smartphone app would pull the user's current location from GPS, and would query a backend API to discover treasures. The first iteration from the user experience perspective would be to allow the user to share (or 'drop') a treasure in that location. Then, other users could see the treasure and respond to it.
 
 A big part of this challenge is content management. An API back-end was built that can store locations, and the team is working on an iOS app that can hit the API and send data back. This is a development-intensive concept and the team found they hit time constraints.
