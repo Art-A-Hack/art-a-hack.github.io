@@ -383,6 +383,10 @@ ul.posts {
   width: 360px;
 }
 
+.post-content.report .fullsize.img, .post-content.report .fullsize.img img {
+  width: 100%;
+}
+
 .post-content.report .landscape img {
   width: 450px;
 }
