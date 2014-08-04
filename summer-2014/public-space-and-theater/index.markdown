@@ -27,4 +27,8 @@ The team learned to set up a Raspberry Pi, a small, low-powered computing device
 
 Working with a low-powered device means learning about constraints. These were met by using a powered USB external hub, and USB input devices (keyboard, mouse, microphone) that were compatible with the Pi (less than 1mA of current and 3.3V).
 
-When working in such heavily-guarded public space, permission is critical, and takes time to achieve.
+<h3>Logistical Challenges</h3>
+
+The team were set on utilizing the Whisper Gallery at Grand Central Terminal and knew that they needed to secure the necessary permissions. This is because mounting unattended electronics in such a high-profile public space would be considered a security risk.
+
+In order to simplify the application process, the piece was designed to be portable, offline, and battery-powered with a light technology footprint.
