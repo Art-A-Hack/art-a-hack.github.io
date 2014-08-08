@@ -22,6 +22,10 @@ a         { color: #2a7ae2; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
 a:visited { color: #205caa; }
 
+.clear {
+  clear: both;
+}
+
 /* Utility */
 
 .wrap:before,
@@ -262,6 +266,7 @@ ul.posts {
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
+.post-content .clear { margin: 0; }
 
 
 .post-content h1,
@@ -314,6 +319,64 @@ ul.posts {
 .post-content img[title="Stuff we have"] {
   float: right;
   margin: 0.8em 0; 
+}
+
+.post-content.post h2 {
+  font-size: 1.8em;
+}
+
+.post-content.post .img {
+  display: inline;
+  float: right;
+  margin: 0 0 0 2em;
+  position: relative; top: 1.3em;
+}
+
+.post-content.post .img, .post-content.post .img img {
+  width: 160px;
+  margin-bottom: 2em;
+}
+
+.post-content.post .img.fullsize, .post-content.post .img.fullsize img {
+  width: 100%;
+}
+
+.post-content.post .img.landscape, .post-content.post .img.landscape img {
+  width: 220px;
+}
+
+@media screen and (max-width: 790px) {
+  .post-content.post .img.landscape, .post-content.post .img.landscape img {
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .post-content.post .img, .post-content.post .img img {
+    display: inline-block;
+    float: none;
+    width: 67%;
+    margin: 0;
+  }
+
+  .post-content.post .img, .post-content.post .img img {
+    width: 100%;
+  }
+
+  .post-content.post .img.landscape {
+    width: 100%;
+    margin-bottom: 1em;
+  }
+
+  .post-content.post .img.landscape img {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .post-content.post .img, .post-content.post .img img {
+    width: 100%;
+  }
 }
 
 .post .highlight {
