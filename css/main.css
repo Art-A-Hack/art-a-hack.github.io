@@ -458,9 +458,17 @@ ul.posts {
   width: 450px;
 }
 
+iframe.livestream {
+  width: 750px; height: 422px; 
+}
+
 @media screen and (max-width: 790px) {
   .post-content.report .img.landscape, .post-content.report .img.landscape img {
     width: 400px;
+  }
+
+  iframe.livestream {
+    width: 629px; height: 354px; 
   }
 }
 
@@ -484,11 +492,19 @@ ul.posts {
   .post-content.report .img.landscape img {
     width: 100%;
   }
+
+  iframe.livestream {
+    width: 450px; height: 253px; 
+  }
 }
 
 @media screen and (max-width: 470px) {
   .post-content.report .img, .post-content.report .img img {
     width: 100%;
+  }
+
+  iframe.livestream {
+    width: 100%; 
   }
 }
 
