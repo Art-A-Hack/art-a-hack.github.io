@@ -30,7 +30,11 @@ function enableHeaderFixesOnScroll() {
 	var win = $(window);
 	var header = $('body>header');
 	var headerChildren = $('body>header>h1, body>header>nav');
+	var headerLogo = $('body>header>h1>a>img');
 	var headerFixed = false;
+
+	headerLogo.attr('data-large-src', headerLogo.attr('src'));
+
 	checkScrollHeaderFix();
 	win.scroll(checkScrollHeaderFix);
 	win.resize(checkScrollHeaderFix);
@@ -66,6 +70,7 @@ function enableHeaderFixesOnScroll() {
 		headerFixed = true;
 		headerChildren.hide(0);
 		header.removeClass('first-glance').addClass('fixed');
+		headerLogo.attr('src', headerLogo.attr('data-small-src'));
 		headerChildren.show(200);
 	}
 
@@ -73,6 +78,7 @@ function enableHeaderFixesOnScroll() {
 		headerFixed = false;
 		headerChildren.hide(200, function() {
 			header.removeClass('fixed');
+			headerLogo.attr('src', headerLogo.attr('data-large-src'));
 			headerChildren.show(0);
 		});
 	}
