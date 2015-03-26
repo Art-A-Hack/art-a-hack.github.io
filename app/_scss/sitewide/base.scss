@@ -12,6 +12,7 @@ $small_lineheight: 1.7em;
 html, body {
 	width: 100%; height: 100%;
 	background-color: #829192;
+	line-height: $small_lineheight;
 }
 
 a:link, a:visited {
@@ -23,9 +24,10 @@ a:hover, a:active {
 }
 
 p {
-	font-size: 1.1em;
-	line-height: 1.5em;
-	margin: 1.4em 0;
+	font-size: $largest_font;
+	letter-spacing: $large_spacing;
+	line-height: $small_lineheight;
+	padding: 1em 0;
 }
 
 h1 {
