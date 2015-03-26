@@ -2,7 +2,7 @@
 layout    : post
 title     : "Photos from Week Three"
 bodyid    : "stories"
-bodyclass : "content"
+bodyclass : "content post"
 ---
 Check out the photos from week 3! In this week many teams were finalizing their ideas, and reflecting on their process. At the end we had a showcase and discussion about the nature and future of Art-A-Hack!
 

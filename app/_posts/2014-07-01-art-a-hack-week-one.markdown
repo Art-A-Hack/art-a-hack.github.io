@@ -2,7 +2,7 @@
 layout    : post
 title     : "The First Week of Art-A-Hack"
 bodyid    : "stories"
-bodyclass : "content"
+bodyclass : "content post"
 ---
 Art-A-Hack has kicked off with a storm! Here are photos of the 9 teams hacking over the weekend.
 

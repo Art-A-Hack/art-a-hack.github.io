@@ -2,7 +2,7 @@
 layout    : post
 title     : "The Results Are In!"
 bodyid    : "stories"
-bodyclass : "content"
+bodyclass : "content post"
 ---
 Our open call has now closed, and I'm pleased to say we had an incredible mix of varied and exciting applications for participation!
 
