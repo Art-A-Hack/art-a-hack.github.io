@@ -1,4 +1,4 @@
-#join-us {
+#about {
 	>header {
 		background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0) ), url(/images/full-bleed/lab-4-1600.jpg);
 		background-position: 100% 100%;
@@ -24,7 +24,7 @@
 
 
 @media (max-width: 1299px) {
-	#join-us {
+	#about {
 		>header {
 			background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0) ), url(/images/full-bleed/lab-4-1299.jpg);
 			background-position: 100% 100%;
@@ -39,7 +39,7 @@
 }
 
 @media (max-width: 1099px) {
-	#join-us {
+	#about {
 		>header {
 			background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0) ), url(/images/full-bleed/lab-4-1099.jpg);
 			background-position: 100% 100%;
@@ -59,7 +59,7 @@
 }
 
 @media (max-width: 899px) {
-	#join-us {
+	#about {
 		>header {
 			background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0) ), url(/images/full-bleed/lab-4-899.jpg);
 			background-size: cover;
@@ -77,7 +77,7 @@
 }
 
 @media (max-width: 639px) {
-	#join-us {
+	#about {
 		>header {
 			background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0) ), url(/images/full-bleed/lab-4-639.jpg);
 			background-size: cover;
@@ -92,7 +92,7 @@
 }
 
 @media (max-width: 499px) {
-	#join-us main #map {
+	#about main #map {
 		padding-top: 65%;
 	}
 }

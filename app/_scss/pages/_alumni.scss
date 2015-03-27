@@ -1,4 +1,4 @@
-#members {
+#alumni {
 	>header {
 		background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0) ), url(/images/full-bleed/lab-3-1600.jpg);
 		background-position: center center;
@@ -36,7 +36,7 @@
 }
 
 @media (max-width: 1299px) {
-	#members>header {
+	#alumni>header {
 		background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0) ), url(/images/full-bleed/lab-3-1299.jpg);
 		background-position: center center;
 		background-size: cover;
@@ -45,7 +45,7 @@
 }
 
 @media (max-width: 1099px) {
-	#members {
+	#alumni {
 		>header {
 			background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0) ), url(/images/full-bleed/lab-3-1099.jpg);
 			background-position: center center;
@@ -66,7 +66,7 @@
 }
 
 @media (max-width: 899px) {
-	#members {
+	#alumni {
 		>header {
 			background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0) ), url(/images/full-bleed/lab-3-899.jpg);
 			background-size: cover;
@@ -95,7 +95,7 @@
 }
 
 @media (max-width: 639px) {
-	#members {
+	#alumni {
 		>header {
 			background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0) ), url(/images/full-bleed/lab-3-639.jpg);
 			background-size: cover;
