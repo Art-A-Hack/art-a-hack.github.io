@@ -15,28 +15,9 @@
 	}
 }
 
-@media (max-width: 1299px) {
-	#about {
-
-	}
-}
-
-@media (max-width: 1099px) {
-	#about {
-
-	}
-}
-
 @media (max-width: 899px) {
-	#about {
-
+	#about #image figure {
+		background: linear-gradient(rgba(239, 64, 47, 0.3), rgba(239, 64, 47, 0.3)), url('/images/full-bleed/artahack-400.jpg');
+		background-size: cover;
 	}
-}
-
-@media (max-width: 639px) {
-
-}
-
-@media (max-width: 499px) {
-
 }
