@@ -15,10 +15,8 @@ body {
 		h1 {
 			position: absolute; bottom: -6px; left: 8px;
 
-			a {
-				img {
-					height: 80px;
-				}
+			a img {
+				height: 80px;
 			}
 		}
 
@@ -37,70 +35,28 @@ body {
 				margin-left: 1em;
 			}
 		}
-
-		#tagline {
-			display: none;
-			text-align: center;
-			position: absolute; left: 0; top: 17%;
-			width: 100%;
-			margin: 0;
-
-			p {
-				width: 100%;
-				font-size: 3.7em;
-				font-weight: 400;
-				line-height: 1.5em;
-				margin: 0 auto;
-				color: white;
-			}
-		}
-	}
-
-	>header.fixed {
-		>h1, >nav {
-			margin: 0;
-			position: fixed;
-			z-index: 10;
-			background-color: #444444;
-			display: none;
-		}
-
-		h1 {
-			font-size: 2em;
-			width: 100%;
-			padding: 0.2em 0.4em 0 0.4em;
-			text-align: left;
-		}
-
-		nav {
-			li {
-				padding: 0.7em 2em 0 0;
-			}
-
-			.cta a {
-				font-size: 1.2em;
-				padding: 0;
-				background-color: #444444 !important;
-				color: white !important;
-				box-shadow: inherit;
-			}
-		}
 	}
 }
 
 @media (max-width: 1299px) {
 	body {
 		>header {
-			h1 {
-				font-size: 4em;
+			h1 a {
+				img.text {
+					height: 70px;
+				}
+
+				img.logo {
+					height: 82px;
+				}
 			}
 
-			nav .cta a {
-				font-size: 1.7em;
-			}
+			nav ul.cta li {
+				margin-left: 0.5em;
 
-			#tagline p {
-				font-size: 3.1em;
+				a {
+					font-size: 1.6em;
+				}
 			}
 		}
 	}
@@ -109,32 +65,22 @@ body {
 @media (max-width: 1099px) {
 	body {
 		>header {
-			h1 {
-				padding: 0;
-				font-size: 3.4em;
-			}
-
-			nav {
-				li {
-					padding: 0.4em 0;
-					margin-left: 0.5em;
+			h1 a {
+				img.text {
+					height: 55px;
 				}
 
-				.cta a {
+				img.logo {
+					height: 77px;
+				}
+			}
+
+			nav ul.cta li {
+				margin-left: 0.3em;
+				
+				a {
 					font-size: 1.5em;
-					padding-left: 0.5em;
-					padding-right: 0.5em;
 				}
-			}
-
-			#tagline p {
-				font-size: 2.6em;
-			}
-		}
-
-		>header.first-glance {
-			>h1 {
-				font-size: 1.9em;
 			}
 		}
 	}
@@ -146,7 +92,7 @@ body {
 			box-shadow: inherit;
 		}
 
-		>header, >header.first-glance {
+		>header {
 			margin-top: 2.4em;
 
 			>h1, >nav {
@@ -217,23 +163,13 @@ body {
 					}
 				}
 			}
-
-			#tagline {
-				position: relative; top: 50%;
-				transform: translateY(-50%);
-
-				p {
-					font-size: 2.2em;
-					padding: 0;
-				}
-			}
 		}
 	}
 }
 
 @media (max-width: 639px) {
 	body {
-		>header, >header.first-glance {
+		>header {
 			nav {
 				left: 0; right: inherit;
 
@@ -257,23 +193,13 @@ body {
 				text-align: center;
 				padding: 0.15em 0;
 			}
-
-			#tagline p {
-				font-size: 2.2em;
-				padding: 2.4em 0;
-				width: 64%;
-
-				br {
-					display: none;
-				}
-			}
 		}
 	}
 }
 
 @media (max-width: 499px) {
 	body {
-		>header, >header.first-glance {
+		>header {
 			margin-top: 2em;
 
 			h1 {
@@ -284,11 +210,6 @@ body {
 			nav a i.fa {
 				margin: 0.5em 0 0 0.6em;
 				font-size: 1.2em;
-			}
-
-			#tagline p {
-				font-size: 1.7em;
-				width: 80%;
 			}
 		}
 	} 
