@@ -89,7 +89,7 @@ body {
 @media (max-width: 899px) {
 	body {
 		>header {
-			height: 103px;
+			height: 105px;
 
 			nav {
 				#menu-button {
@@ -146,30 +146,9 @@ body {
 
 @media (max-width: 639px) {
 	body {
-		>header {
-			nav {
-				left: 0; right: inherit;
-
-				#menu-button {
-					display: block !important;
-
-					i {
-						margin: 0.5em 0 0 0.6em;
-						color: white;
-						font-size: 1.2em;
-					}
-				}
-
-				ul {
-					display: none;
-				}
-			}
-
-			h1 {
-				font-size: 1.6em;
-				text-align: center;
-				padding: 0.15em 0;
-			}
+		>header h1 a img.text {
+			height: 48px;
+			margin-left: 0.3em;
 		}
 	}
 }
@@ -177,17 +156,17 @@ body {
 @media (max-width: 499px) {
 	body {
 		>header {
-			margin-top: 2em;
+			height: 88px;
 
-			h1 {
-				font-size: 1.25em;
-				padding: 0.35em 0;
-			}
+			h1 a {
+				img.text {
+					height: 29px;
+				}
 
-			nav a i.fa {
-				margin: 0.5em 0 0 0.6em;
-				font-size: 1.2em;
+				img.logo {
+					height: 62px;
+				}
 			}
 		}
-	} 
+	}
 }
