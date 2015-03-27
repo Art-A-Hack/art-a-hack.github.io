@@ -104,75 +104,68 @@
 } 
 
 @media (max-width: 1299px) {
-	#stories {
-		>header {
-			background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1) ), url(/images/full-bleed/lab-2-1299.jpg);
-			background-position: center center;
-			background-size: cover;
-			background-attachment: fixed;
+	.post {
+		.flex-row .left {
+			width: 54%;
 		}
 
 		main {
 			article {
-				width: 70%;
+				width: 90%;
+				margin-left: 0;
 
-				header time {
-					left: 3em;
+				header {
+					position: relative;
+
+					.widgets {
+						position: absolute; left: 0; right: inherit;
+						text-align: left;
+
+						ul.social {
+							text-align: left;
+							padding-top: 0.4em;
+						}
+
+						li {
+							margin: 0 1em 0 0;
+							display: inline-block;
+						}
+					}
 				}
-			}
 
-			article, #paging {
-				margin-left: 30%;
+				.post-content {
+					margin-top: 7em;
+				}
+
+				article, #paging {
+					margin-left: 30%;
+				}
 			}
 		}
 	}
 }
 
 @media (max-width: 1099px) {
-	#stories>header {
-		background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1) ), url(/images/full-bleed/lab-2-1099.jpg);
-		background-position: center center;
-		background-size: cover;
-		background-attachment: fixed;
-	}
-}
-
-@media (max-width: 899px) {
-	#stories {
-		>header {
-			background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1) ), url(/images/full-bleed/lab-2-899.jpg);
-			background-size: cover;
-			background-position: center top;
-			background-attachment: inherit;
+	.post {
+		.flex-row .left {
+			width: 52%;
 		}
 
 		main {
 			article {
-				width: 66%;
+				width: 102%;
+			}
+		}
+	}
+}
 
+@media (max-width: 899px) {
+	.post {
+		main {
+			article {
 				header {
 					time {
 						width: 17%;
-					}
-
-					.widgets {
-						position: relative; left: 0;
-
-						ul {
-							text-align: left;
-							margin-top: 1em;
-							padding: 0;
-						}
-
-						li {
-							display: inline;
-							margin-right: 0.7em;
-						}
-
-						i {
-							top: 0;
-							font-size: 1.6em;
-						}
 					}
 				}
 			}
@@ -190,14 +183,7 @@
 }
 
 @media (max-width: 639px) {
-	#stories {
-		>header {
-			background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1) ), url(/images/full-bleed/lab-2-639.jpg);
-			background-size: cover;
-			background-position: center top;
-			background-attachment: inherit;
-		}
-
+	.post {
 		main {
 			article {
 				width: 80%;
@@ -216,7 +202,7 @@
 }
 
 @media (max-width: 499px) {
-	#stories main article {
+	.post main article {
 		width: 82%;
 	}
 }

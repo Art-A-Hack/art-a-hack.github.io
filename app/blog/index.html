@@ -25,7 +25,9 @@ bodyclass : "content post"
 					</ul>
 				</div>
 			</header>
-			{{ post.excerpt }}
+			<div class="post-content">
+				{{ post.excerpt }}
+			</div>
 			<a class="read-more" href="{{ post.url }}">Read more &gt;</a>
 			<hr />
 		</article>
