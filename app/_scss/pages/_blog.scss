@@ -161,17 +161,27 @@
 
 @media (max-width: 899px) {
 	.post {
+		.flex-row {
+			.left {
+				width: 90%;
+				padding-left: 5%;
+				padding-right: 5%;
+			}
+
+			.right {
+				display: none;
+			}
+		}
+
 		main {
 			article {
+				width: 36em;
+
 				header {
 					time {
 						width: 17%;
 					}
 				}
-			}
-
-			article, #paging {
-				margin-left: 7%;
 			}
 
 			.video {
@@ -186,7 +196,7 @@
 	.post {
 		main {
 			article {
-				width: 80%;
+				width: 100%;
 
 				header time {
 					width: inherit;
@@ -198,11 +208,5 @@
 				margin-left: 0;
 			}
 		}
-	}
-}
-
-@media (max-width: 499px) {
-	.post main article {
-		width: 82%;
 	}
 }
