@@ -1,7 +1,7 @@
 ---
 layout    : post
 title     : "Mid-way Through Our Hack"
-bodyid    : "stories"
+bodyid    : "blog"
 bodyclass : "content post"
 ---
 Session number two of the co-creation experiment Art-A-Hack took place at <a href="http://info.thoughtworks.com/new-york/">ThoughtWorks NYC</a> yesterday.
