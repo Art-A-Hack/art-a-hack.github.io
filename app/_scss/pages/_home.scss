@@ -47,16 +47,7 @@
 @media (max-width: 899px) {
 	#home {
 		#homepage {
-			background-image: url('/images/full-bleed/existential-899.jpg');
-			background-size: 100% auto;
-
-			.small-screens {
-				display: block;
-			}
-
-			.large-screens {
-				display: none;
-			}
+			background-image: url('/images/full-bleed/artahack-1200.jpg');
 		}
 	}
 }
@@ -64,7 +55,8 @@
 @media (max-width: 639px) {
 	#home {
 		#homepage {
-			background-image: url('/images/full-bleed/existential-639.jpg');
+			background-image: url('/images/full-bleed/artahack-800.jpg');
+			background-size: 100% auto;
 		}
 	}
 }
