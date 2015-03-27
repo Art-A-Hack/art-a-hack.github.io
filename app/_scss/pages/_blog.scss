@@ -1,11 +1,15 @@
 .post {
+	.flex-row .left {
+		width: 62%;
+	}
+
 	main {
 		article {
-			width: 66%;
+			width: 65%;
 
 			header {
 				.widgets {
-					position: absolute; right: 80%;
+					position: absolute; right: 84%;
 
 					ul {
 						list-style-type: none;
@@ -78,7 +82,7 @@
 		}
 
 		article, #paging {
-			margin-left: 33%;
+			margin-left: 28%;
 		}
 
 		.video {
