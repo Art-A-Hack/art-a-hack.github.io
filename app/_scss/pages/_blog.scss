@@ -11,10 +11,14 @@
 				.widgets {
 					position: absolute; right: 84%;
 
-					ul {
+					ul.social {
 						list-style-type: none;
 						text-align: right;
 						padding-top: 2.6em;
+					}
+
+					ul.social.simple {
+						padding-top: 0.4em;
 					}
 
 					li {
