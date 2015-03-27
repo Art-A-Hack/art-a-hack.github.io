@@ -24,7 +24,7 @@ body {
 			position: absolute; bottom: 0; right: 0;
 
 			#menu-button {
-				display: none !important;
+				display: none;
 			}
 
 			h2 {
@@ -88,47 +88,24 @@ body {
 
 @media (max-width: 899px) {
 	body {
-		main {
-			box-shadow: inherit;
-		}
-
 		>header {
-			margin-top: 2.4em;
-
-			>h1, >nav {
-				margin: 0;
-				position: fixed;
-				background-color: #444444;
-				z-index: 10;
-			}
-
-			>nav >ul >li >a, >div {
-				box-shadow: inherit;
-			}
-
-			h1 {
-				font-size: 2em;
-				width: 100%;
-				padding: 0.1em 0.5em;
-				margin: 0;
-				text-align: left;
-				bottom: inherit; top: 0;
-			}
+			height: 103px;
 
 			nav {
-				ul {
-					padding-right: 1em;
+				#menu-button {
+					display: block;
+					
+					.fa-bars {
+						display: block;
+					}
+
+					.fa-times {
+						display: none;
+					}
 				}
 
-				li {
-					padding: 0.8em 0.4em 0 0;
-				}
-
-				.cta a {
-					font-size: 1em;
-					padding: 0;
-					background-color: #444444 !important;
-					color: white !important;
+				ul.cta {
+					display: none;
 				}
 			}
 
@@ -143,13 +120,12 @@ body {
 					}
 				}
 
-				.cta {
+				ul.cta {
 					display: block;
 					position: fixed; top: 0; left: 0; bottom: 0; right: 0;
 					width: 100%; height: 100%;
 					text-align: center;
-					background-color: rgba(68, 68, 68, .95);
-					margin-top: 1.9em;
+					background-color: rgba(68, 68, 68, .96);
 					padding-top: 7%;
 
 					li {
@@ -160,6 +136,7 @@ body {
 					a {
 						font-size: 2em;
 						background-color: rgba(0, 0, 0, 0) !important;
+						color: #EF402F;
 					}
 				}
 			}
