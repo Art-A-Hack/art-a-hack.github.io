@@ -4,7 +4,6 @@
 # 3. config.yml
 
 name: art-a-hack.github.io
-description: Every Wednesday in NYC
 author:
   name: Andrew McWilliams
   email: andy@jahya.net
@@ -20,9 +19,9 @@ future: true
 show_drafts: true
 excerpt_separator: <!--excerpt-ends-->
 
-permalink: /stories/:title
+permalink: /blog/:title
 paginate: 7
-paginate_path: "/stories/page:num/"
+paginate_path: "/blog/page:num/"
 
 # Markdown library
 markdown: kramdown
