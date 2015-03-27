@@ -1,0 +1,70 @@
+#home {
+	display: flex;
+	flex-flow: column;
+
+	h1, h2, p {
+		cursor: default;
+	}
+
+	>section {
+		font-size: 1.2em;
+		text-align: center;
+		line-height: 1.5em;
+		width: 100%;
+	}
+
+	#homepage {
+		flex: 1 0 auto;
+		background-image: url('/images/full-bleed/artahack-2400.jpg');
+		background-position: top center;
+		background-size: cover;
+		background-color: #000000;
+		background-repeat: no-repeat;
+		margin: 0;
+
+		.small-screens {
+			display: none;
+		}
+	}
+}
+
+@media (max-width: 1299px) {
+	#home {
+		#homepage {
+			background-image: url('/images/full-bleed/gravity-1299.jpg');
+		}
+	}
+}
+
+@media (max-width: 1099px) {
+	#home {
+		#homepage {
+			background-image: url('/images/full-bleed/gravity-1099.jpg');
+		}
+	}
+}
+
+@media (max-width: 899px) {
+	#home {
+		#homepage {
+			background-image: url('/images/full-bleed/existential-899.jpg');
+			background-size: 100% auto;
+
+			.small-screens {
+				display: block;
+			}
+
+			.large-screens {
+				display: none;
+			}
+		}
+	}
+}
+
+@media (max-width: 639px) {
+	#home {
+		#homepage {
+			background-image: url('/images/full-bleed/existential-639.jpg');
+		}
+	}
+}
