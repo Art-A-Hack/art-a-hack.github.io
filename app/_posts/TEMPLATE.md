@@ -1,7 +1,7 @@
 ---
 layout    : post
 title     : "Meet the Brain Hackers"
-bodyid    : "stories"
+bodyid    : "blog"
 bodyclass : "content post"
 ---
 <p>There's something very odd, but also very obvious about what <a href="http://openbci.com">OpenBCI</a> founders Conor Russomanno and Joel Murphy are doing.</p>
