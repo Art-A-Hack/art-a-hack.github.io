@@ -8,7 +8,9 @@ Session number two of the co-creation experiment Art-A-Hack took place at <a hre
 
 We are now right in the middle of our experiment. The teams have had time to double-down on their work, or to re-form, switch ideas, and to discover and push the limits around them.
 
-<iframe src="https://www.flickr.com/photos/125924023@N07/14460770879/in/set-72157645671555414/player/" width="100%" style="min-height: 450px;" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<figure class="video">
+	<iframe src="https://www.flickr.com/photos/125924023@N07/14460770879/in/set-72157645671555414/player/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+</figure>
 
 <!--excerpt-ends-->
 
