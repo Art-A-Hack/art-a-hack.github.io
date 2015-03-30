@@ -142,6 +142,10 @@
 		main {
 			article {
 				width: 102%;
+
+				header .widgets i {
+					font-size: 2em;
+				}
 			}
 		}
 	}
@@ -169,6 +173,14 @@
 					time {
 						width: 17%;
 					}
+
+					.widgets i {
+						font-size: 1.9em;
+					}
+				}
+
+				.post-content {
+					margin-top: 6em;
 				}
 			}
 
