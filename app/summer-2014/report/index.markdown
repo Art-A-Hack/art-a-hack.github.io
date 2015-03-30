@@ -4,8 +4,8 @@ title     : "Art-A-Hack&#8482; Report"
 bodyid    : "report"
 bodyclass : "content post"
 ---
-<div class="date">June-July, 2014</div>
-<div class="notes">Principles: Ellen Pearlman, Andy McWilliams</div>
+<div class="info large">June-July, 2014</div>
+<div class="info small">Principles: Ellen Pearlman, Andy McWilliams</div>
 
 It's not the just the end result, it's also the process. Art is privileged here, because in this process there is no right or wrong. Art is a good place to challenge people.
 

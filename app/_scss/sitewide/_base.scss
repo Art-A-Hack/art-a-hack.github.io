@@ -47,6 +47,13 @@ h2 {
 	font-weight: 400;
 }
 
+h3 {
+	margin: 1.5em 0 0.3em 0;
+	font-size: 1.5em;
+	line-height: $smallest_lineheight;
+	font-weight: 300;
+}
+
 figure {
 	margin-bottom: 2.5em;
 
@@ -162,6 +169,19 @@ ul.cta, ol.cta {
 
 ul.cta li, ol.cta li {
 	display: inline-block;
+}
+
+.info {
+	font-weight: 400;
+	margin-bottom: 0.4em;
+}
+
+.info.large {
+	font-size: 1.4em;
+}
+
+.info.small {
+	font-size: 1em;
 }
 
 .no-margin {
