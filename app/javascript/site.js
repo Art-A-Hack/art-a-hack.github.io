@@ -8,9 +8,9 @@ function enableMenuButton() {
 
 	$('#menu-button').click(function() {
 		if(menuOverlaid){
-			$('body>header>nav').removeClass('popout');
+			$('header.main>nav').removeClass('popout');
 		} else {
-			$('body>header>nav').addClass('popout');
+			$('header.main>nav').addClass('popout');
 		}
 		menuOverlaid = !menuOverlaid;
 	});
