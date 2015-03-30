@@ -9,7 +9,7 @@ Our first group of artists and hackers have completed our inaugural round of Art
 You can look through a full <a href="/summer-2014/report">one-page report of all the team's activities here</a>. You can also check out the summaries below and click through for detail on each team.
 
 <div class="img">
-	<img src="/assets/summer-2014/1.jpg" alt="Mark Bolotin, Billy Keefe, Chantel The Magnificent" />
+	<img src="/images/reports/summer-2014/1.jpg" alt="Mark Bolotin, Billy Keefe, Chantel The Magnificent" />
 </div>
 
 <!--excerpt-ends-->
@@ -23,7 +23,7 @@ Where does Big Data meet fortune-telling? This team used public social media pro
 <div class="clear"></div>
 
 <div class="img">
-	<img src="/assets/summer-2014/2.jpg" alt="Mark Bolotin, Billy Keefe, Chantel" />
+	<img src="/images/reports/summer-2014/2.jpg" alt="Mark Bolotin, Billy Keefe, Chantel" />
 
 </div>
 <h2><a href="/summer-2014/kinect-and-oculus-mashup">Oculus, Kinect and Extended Reality</a></h2>
@@ -35,7 +35,7 @@ There is an intimate connection between constructed virtual reality, and the rea
 <div class="clear"></div>
 
 <div class="img landscape">
-	<img src="/assets/summer-2014/3.jpg" alt="Tyler Parker, Joelle Fleurantin, Diana Castro" />
+	<img src="/images/reports/summer-2014/3.jpg" alt="Tyler Parker, Joelle Fleurantin, Diana Castro" />
 </div>
 
 <h2><a href="/summer-2014/depth-boundaries-and-human-interaction">Depth, Boundaries and Human Interaction</a></h2>
@@ -47,7 +47,7 @@ This team explored full-body interaction with virtual spaces. This means walking
 <div class="clear"></div>
 
 <div class="img landscape">
-	<img src="/assets/summer-2014/4.jpg" alt="Sophie Kravitz, Martha Hipley and Takafumi Ide" />
+	<img src="/images/reports/summer-2014/4.jpg" alt="Sophie Kravitz, Martha Hipley and Takafumi Ide" />
 </div>
 
 <h2><a href="/summer-2014/oculus-and-fantasy-world">Oculus Rift and Fantasy World</a></h2>
@@ -59,7 +59,7 @@ What innovations can be made on immersive Virtual Reality experiences like Oculu
 <div class="clear"></div>
 
 <div class="img landscape">
-	<img src="/assets/summer-2014/5.jpg" alt="Annie Berman and Francisco Javier Molina" />
+	<img src="/images/reports/summer-2014/5.jpg" alt="Annie Berman and Francisco Javier Molina" />
 </div>
 
 <h2><a href="/summer-2014/public-space-and-theater">Public Space and Theater</a></h2>
@@ -71,7 +71,7 @@ How do we communicate in public space? This team came to be captivated by the Wh
 <div class="clear"></div>
 
 <div class="img landscape">
-	<img src="/assets/summer-2014/9.jpg" alt="Eva Lee and Ellen Pearlman" />
+	<img src="/images/reports/summer-2014/9.jpg" alt="Eva Lee and Ellen Pearlman" />
 </div>
 
 <h2><a href="/summer-2014/buddhism-meditation-and-mind">Buddhism, Meditation and the Mind</a></h2>
@@ -83,7 +83,7 @@ Eva Lee applied to Art-A-Hack proposing visualization of electroencephalographic
 <div class="clear"></div>
 
 <div class="img landscape">
-	<img src="/assets/summer-2014/6.jpg" alt="Olga Ast and Rolf Levenbach" />
+	<img src="/images/reports/summer-2014/6.jpg" alt="Olga Ast and Rolf Levenbach" />
 </div>
 
 <h2><a href="/summer-2014/reflecting-on-time">Reflecting on Time</a></h2>
@@ -95,7 +95,7 @@ This project was a collaboration, investigating how we encode, decode and simula
 <div class="clear"></div>
 
 <div class="img landscape">
-	<img src="/assets/summer-2014/8.jpg" alt="Andrew Ritchie and Chinazo Rena Anakwe" />
+	<img src="/images/reports/summer-2014/8.jpg" alt="Andrew Ritchie and Chinazo Rena Anakwe" />
 </div>
 
 <h2><a href="/summer-2014/smart-technology-and-environments">Smart Technology and Environments</a></h2>
@@ -107,7 +107,7 @@ How can the ubiquity of smartphones change the way we think of the environments 
 <div class="clear"></div>
 
 <div class="img landscape">
-	<img src="/assets/summer-2014/7.jpg" alt="Aaron Trocola and Kate Sicchio" />
+	<img src="/images/reports/summer-2014/7.jpg" alt="Aaron Trocola and Kate Sicchio" />
 </div>
 
 <h2><a href="/summer-2014/wearable-tech-and-performance">Wearable Technology and Performance</a></h2>
