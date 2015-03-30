@@ -5,7 +5,7 @@ bodyid    : "blog"
 bodyclass : "content post"
 redirect_from: /posts/2014/06/16/the-results-are-in/
 ---
-Our open call has now closed, and I'm pleased to say we had an incredible mix of varied and exciting applications for participation!
+Our open call has now closed, and we're pleased to say we had an incredible mix of varied and exciting applications for participation!
 
 The Art-A-Hack crew (Ellen Pearlman, Kent Rahman and Andy McWilliams) have put together nine groups that encompass twenty-one people. 
 
