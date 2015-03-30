@@ -9,9 +9,12 @@ bodyclass : "content post"
 
 It's not the just the end result, it's also the process. Art is privileged here, because in this process there is no right or wrong. Art is a good place to challenge people.
 
-<div class="img fullsize"><img src="/images/reports/summer-2014/andy-mcwilliams.jpg" alt="Andy McWilliams draws it out" /></div>
-
-<div class="team">Andy McWilliams draws it out</div>
+<figure>
+	<img src="/images/reports/summer-2014/andy-mcwilliams.jpg" alt="Andy McWilliams draws it out" />
+	<figcaption>
+		Andy McWilliams draws it out
+	</figcaption>
+</figure>
 
 In this inaugural iteration of Art-A-Hack, participants were grouped based on their interests and ideas. Regardless of discipline or subject area, all groups have something in common - they start off on Day 1, and finish up at some end-point.
 
