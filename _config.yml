@@ -39,3 +39,6 @@ markdown: kramdown
 #     coderay_css: style
 
 pygments: true
+
+gems:
+  - jekyll-redirect-from

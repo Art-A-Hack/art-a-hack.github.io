@@ -3,6 +3,7 @@ layout    : post
 title     : "The First Week of Art-A-Hack"
 bodyid    : "blog"
 bodyclass : "content post"
+redirect_from: /posts/2014/07/01/art-a-hack-week-one/
 ---
 Art-A-Hack has kicked off with a storm! Here are photos of the 9 teams hacking over the weekend.
 
