@@ -1,5 +1,5 @@
 body {
-	>header {
+	header.main {
 		height: 130px;
 		position: relative;
 
@@ -35,7 +35,7 @@ body {
 
 @media (max-width: 1299px) {
 	body {
-		>header {
+		header.main {
 			h1 a {
 				img.text {
 					height: 70px;
@@ -59,7 +59,7 @@ body {
 
 @media (max-width: 1099px) {
 	body {
-		>header {
+		header.main {
 			h1 a {
 				img.text {
 					height: 55px;
@@ -83,7 +83,7 @@ body {
 
 @media (max-width: 899px) {
 	body {
-		>header {
+		header.main {
 			height: 105px;
 
 			nav {
@@ -141,7 +141,7 @@ body {
 
 @media (max-width: 639px) {
 	body {
-		>header h1 a img.text {
+		header.main h1 a img.text {
 			height: 48px;
 			margin-left: 0.3em;
 		}
@@ -150,7 +150,7 @@ body {
 
 @media (max-width: 499px) {
 	body {
-		>header {
+		header.main {
 			height: 88px;
 
 			h1 a {
@@ -168,7 +168,7 @@ body {
 
 @media (max-width: 379px) {
 	body {
-		>header {
+		header.main {
 			height: 88px;
 
 			h1, nav {

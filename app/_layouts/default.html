@@ -23,26 +23,34 @@
     <link rel="shortcut icon" href="/images/favicon.png">
   </head>
   <body id="{{ page.bodyid }}" class="{{ page.bodyclass }}">
-    <header role="banner">
-      <h1>
-        <a href="/">
-          <img class="logo" src="/images/artahack-logo-heart.jpg" alt="Art-A-Hack" />
-          <img class="text" src="/images/artahack-logo-text.jpg" alt="Art-A-Hack" />
-        </a>
-      </h1>
-      <nav role="navigation">
-        <h2>Navigation</h2>
-        <a id="menu-button" href="#">
-          <i class="fa fa-bars"></i>
-          <i class="fa fa-times"></i>
-        </a>
-        <ul class="cta">
-          <li><a href="/about/">About</a></li>
-          <li><a href="/alumni/">Alumni</a></li>
-          <li><a href="/blog/">Blog</a></li>
-        </ul>
-      </nav>
-    </header>
+    {% if page.bodyid == 'home' %}
+    <div class="flex-col">
+    {% endif %}
+      <header role="banner" class="main top">
+        <h1>
+          <a href="/">
+            <img class="logo" src="/images/artahack-logo-heart.jpg" alt="Art-A-Hack" />
+            <img class="text" src="/images/artahack-logo-text.jpg" alt="Art-A-Hack" />
+          </a>
+        </h1>
+        <nav role="navigation">
+          <h2>Navigation</h2>
+          <a id="menu-button" href="#">
+            <i class="fa fa-bars"></i>
+            <i class="fa fa-times"></i>
+          </a>
+          <ul class="cta">
+            <li><a href="/about/">About</a></li>
+            <li><a href="/alumni/">Alumni</a></li>
+            <li><a href="/blog/">Blog</a></li>
+          </ul>
+        </nav>
+      </header>
+    {% if page.bodyid == 'home' %}
+      <figure id="image-grid" class="bottom">
+      </figure>
+    </div>
+    {% endif %}
     {{ content }}
     <!-- build:js(app) /javascript/script.js -->
     <script src="/javascript/jquery.js"></script>

@@ -1,6 +1,9 @@
 #home {
-	display: flex;
-	flex-flow: column;
+	.flex-col {
+		display: flex;
+		flex-flow: column;
+		height: 100%;
+	}
 
 	h1, h2, p {
 		cursor: default;
