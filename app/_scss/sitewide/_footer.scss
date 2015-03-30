@@ -1,6 +1,7 @@
 body {
 	#sponsors {
-		padding: 2em 20%;
+		width: 750px;
+		margin: 0 auto;
 		text-align: center;
 
 		h1 {
@@ -8,48 +9,43 @@ body {
 		}
 
 		ul {
+			margin-bottom: 5em;
+
 			li {
 				display: inline;
 				list-style-type: none;
 				margin: 0 1.1em;
 				line-height: 4em;
+
+				img {
+					height: 92px;
+				}
 			}
 		}
 	}
 }
 
-@media (max-width: 1299px) {
+@media (max-width: 799px) {
 	body {
+		#sponsors {
+			width: 100%;
 
-	}
-}
-
-@media (max-width: 1099px) {
-	body {
-
-	}
-}
-
-@media (max-width: 899px) {
-	body {
-
+			ul li img {
+				height: 81px;
+			}
+		}
 	}
 }
 
 @media (max-width: 639px) {
 	body {
+		#sponsors {
+			width: 100%;
 
-	}
-}
-
-@media (max-width: 499px) {
-	body {
-
-	}
-}
-
-@media (max-width: 379px) {
-	body {
-
+			ul li {
+				display: block;
+				line-height: 2em;
+			}
+		}
 	}
 }
