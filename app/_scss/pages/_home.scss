@@ -13,7 +13,7 @@
 		width: 100%;
 	}
 
-	#homepage {
+	#image-grid {
 		flex: 1 0 auto;
 		background-image: url('/images/full-bleed/artahack-2400.jpg');
 		background-position: top center;
@@ -30,7 +30,7 @@
 
 @media (max-width: 1299px) {
 	#home {
-		#homepage {
+		#image-grid {
 			background-image: url('/images/full-bleed/artahack-2000.jpg');
 		}
 	}
@@ -38,7 +38,7 @@
 
 @media (max-width: 1099px) {
 	#home {
-		#homepage {
+		#image-grid {
 			background-image: url('/images/full-bleed/artahack-1600.jpg');
 		}
 	}
@@ -46,7 +46,7 @@
 
 @media (max-width: 899px) {
 	#home {
-		#homepage {
+		#image-grid {
 			background-image: url('/images/full-bleed/artahack-1200.jpg');
 		}
 	}
@@ -54,7 +54,7 @@
 
 @media (max-width: 639px) {
 	#home {
-		#homepage {
+		#image-grid {
 			background-image: url('/images/full-bleed/artahack-800.jpg');
 			background-size: 100% auto;
 		}
