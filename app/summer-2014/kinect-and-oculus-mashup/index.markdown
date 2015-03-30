@@ -7,13 +7,14 @@ bodyclass : "content post"
 
 <h2>Oculus, Kinect and Extended Reality</h2>
 
-<div class="img">
-	<img src="/images/reports/summer-2014/2.jpg" alt="Mark Bolotin, Billy Keefe, Chantel" />
-
-<div class="team">Jason Levine &amp; Noah Pivick</div>
-</div>
-
 What happens when we create a virtual boundary that combines two levels of perceptual reality? What happens when we create a virtual boundary through which we can view a window into reality?
+
+<figure>
+	<img src="/images/reports/summer-2014/2.jpg" alt="Mark Bolotin, Billy Keefe, Chantel" />
+	<figcaption>
+		Jason Levine &amp; Noah Pivick
+	</figcaption>
+</figure>
 
 These were the questions Jason Levine and Noah Pivick addressed in their experiments mashing the Kinect depth sensor with the Oculus Rift.
 

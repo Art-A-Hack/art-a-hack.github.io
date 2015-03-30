@@ -28,13 +28,14 @@ Art-A-Hack has been encouraging people to talk about restrictions and restraints
 
 <h2><a href="../google-glass">Privacy and Google Glass</a></h2>
 
-<div class="img">
-	<img src="/images/reports/summer-2014/1.jpg" alt="Mark Bolotin, Billy Keefe, Chantel The Magnificent" />
-
-<div class="team">Mark Bolotin, Billy Keefe, Chantel The Magnificent</div>
-</div>
-
 Instant access to personal information about everyone you meet has become a real possibility with the rise of wearables and the pervasiveness of online identity tracking.
+
+<figure>
+	<img src="/images/reports/summer-2014/1.jpg" alt="Mark Bolotin, Billy Keefe, Chantel The Magnificent" />
+	<figcaption>
+		Mark Bolotin, Billy Keefe, Chantel The Magnificent
+	</figcaption>
+</figure>
 
 The team used Google Glass to source data about selected individuals and make that data available to the wearer. This enables anyone wearing the Glass to become "clairvoyant", able to discover personal insights into those she interacts with in real-time.
 
@@ -50,13 +51,14 @@ The team hacked a Google Glass communication app prototype, but were unable to c
 
 <h2><a href="../kinect-and-oculus-mashup">Oculus, Kinect and Extended Reality</a></h2>
 
-<div class="img">
-	<img src="/images/reports/summer-2014/2.jpg" alt="Mark Bolotin, Billy Keefe, Chantel" />
-
-<div class="team">Jason Levine &amp; Noah Pivick</div>
-</div>
-
 What happens when we create a virtual boundary that combines two levels of perceptual reality? What happens when we create a virtual boundary through which we can view a window into reality?
+
+<figure>
+	<img src="/images/reports/summer-2014/2.jpg" alt="Jason Levine &amp; Noah Pivick" />
+	<figcaption>
+		Jason Levine &amp; Noah Pivick
+	</figcaption>
+</figure>
 
 These were the questions Jason Levine and Noah Pivick addressed in their experiments mashing the Kinect depth sensor with the Oculus Rift.
 
@@ -74,12 +76,14 @@ The team tried using the Kinect with mirrors and sunlight, but these light sourc
 
 <h2><a href="../depth-boundaries-and-human-interaction">Depth, Boundaries and Human Interaction</a></h2>
 
-<div class="img landscape">
-	<img src="/images/reports/summer-2014/3.jpg" alt="Tyler Parker, Joelle Fleurantin, Diana Castro" />
-	<div class="team">Tyler Parker, Joelle Fleurantin, Diana Castro</div>
-</div>
-
 This team explored the possibilities of inferring human body shapes in public space in real-time. They created 'virtual breakpoints' which visitors can walk through.
+
+<figure>
+	<img src="/images/reports/summer-2014/3.jpg" alt="Tyler Parker, Joelle Fleurantin, Diana Castro" />
+	<figcaption>
+		Tyler Parker, Joelle Fleurantin, Diana Castro
+	</figcaption>
+</figure>
 
 This means walking from a virtual sunny beach, to a city at night. All the time, a shadowy silhouette follows along. You can try to approach the mystery figure, but she or he was always one step ahead. 
 
@@ -93,12 +97,14 @@ Joelle found that learning and mastering OpenCV and blob tracking were big techn
 
 <h2><a href="../oculus-and-fantasy-world">Oculus Rift and Fantasy World</a></h2>
 
-<div class="img landscape">
-	<img src="/images/reports/summer-2014/4.jpg" alt="Sophie Kravitz, Martha Hipley and Takafumi Ide" />
-	<div class="team">Sophi Kravitz, Martha Hipley and Takafumi Ide</div>
-</div>
-
 What innovations can be made on immersive Virtual Reality experiences like Oculus Rift? How can the experience become more physically interactive?
+
+<figure>
+	<img src="/images/reports/summer-2014/4.jpg" alt="Sophie Kravitz, Martha Hipley and Takafumi Ide" />
+	<figcaption>
+		Sophi Kravitz, Martha Hipley and Takafumi Ide
+	</figcaption>
+</figure>
 
 This team investigated nuances of gesture, focusing on using the hands, how the body orientates in space and use of torque, or bodyweight.
 
@@ -118,12 +124,14 @@ The project was coded in C# and Javascript, which was new to the team. They used
 
 <h2><a href="../public-space-and-theater">Public Space and Theater</a></h2>
 
-<div class="img">
-	<img src="/images/reports/summer-2014/5.jpg" alt="Annie Berman and Francisco Javier Molina" />
-	<div class="team">Annie Berman and Francisco Javier Molina</div>
-</div>
-
 How can computing and portable sound devices change the way we communicate in public spaces? This team explored that question relentlessly, posing and critiquing several location-specific augmentations.
+
+<figure>
+	<img src="/images/reports/summer-2014/5.jpg" alt="Annie Berman and Francisco Javier Molina" />
+	<figcaption>
+		Annie Berman and Francisco Javier Molina
+	</figcaption>
+</figure>
 
 The team came to be captivated by the Whispering Gallery at Grand Central Station. This space has a natural acoustic property that emerges from the arched ceiling architecture. If you stand in one corner and speak, somebody way over in the other corner can listen and hear you clearly - even though those people standing in-between cannot.
 
@@ -145,12 +153,14 @@ In order to simplify the application process, the piece was designed to be porta
 
 <h2><a href="../buddhism-meditation-and-mind">Buddhism, Meditation and the Mind</a></h2>
 
-<div class="img landscape">
-	<img src="/images/reports/summer-2014/9.jpg" alt="Eva Lee and Ellen Pearlman" />
-	<div class="team">Eva Lee, various programmers, Ellen Pearlman</div>
-</div>
-
 Eva Lee applied to Art-A-Hack proposing to create an installation work visualizing electroencephalographic (EEG) brain data culled from neuroscientist Dr. Jose Raul Muradas' research on prayers for self compared to prayers for others.
+
+<figure>
+	<img src="/images/reports/summer-2014/9.jpg" alt="Eva Lee and Ellen Pearlman" />
+	<figcaption>
+		Eva Lee, various programmers, Ellen Pearlman
+	</figcaption>
+</figure>
 
 The data displayed numeric similarities and differences that occurred when subject participants meditated on self versus meditating on others. Different programming languages were investigated as a means to visualize data to represent aspects of human identity and consciousness.
 
@@ -162,12 +172,14 @@ In one presentation, the data translated brain frequencies into tones resulting 
 
 <h2><a href="../reflecting-on-time">Reflecting on Time and Space</a></h2>
 
-<div class="img landscape">
-	<img src="/images/reports/summer-2014/6.jpg" alt="Olga Ast and Rolf Levenbach" />
-	<div class="team">Olga Ast and Rolf Levenbach</div>
-</div>
-
 Olga Ast is a designer, author and interdisciplinary artist. Her practice investigates connections between space, time and information. Rolf Levenbach is an ex-teacher (ITP at NYU) and ex-computer tech support person (Bell Labs, Rutgers University, and the American Museum of Natural History).
+
+<figure>
+	<img src="/images/reports/summer-2014/6.jpg" alt="Olga Ast and Rolf Levenbach" />
+	<figcaption>
+		Olga Ast and Rolf Levenbach
+	</figcaption>
+</figure>
 
 The pair investigated some of Olga's ideas on the emergence of the solar system using a simulation environment called NetLogo. Olga's previous explorations into the nature of time were part of the background of the collaboration, an extension of many years of meeting at various art & science events.
  
@@ -183,12 +195,14 @@ NetLogo allows the easy use of user interface elements such as sliders to allow 
 
 <h2><a href="../smart-technology-and-environments">Smart Technology and Environments</a></h2>
 
-<div class="img landscape">
-	<img src="/images/reports/summer-2014/8.jpg" alt="Andrew Ritchie and Chinazo Rena Anakwe" />
-	<div class="team">Andrew Ritchie and Chinazo Rena Anakwe</div>
-</div>
-
 How can the ubiquity of smartphones change the way we think of the environments around us? How can geo-location change the way we engage with space?
+
+<figure>
+	<img src="/images/reports/summer-2014/8.jpg" alt="Andrew Ritchie and Chinazo Rena Anakwe" />
+	<figcaption>
+		Andrew Ritchie and Chinazo Rena Anakwe
+	</figcaption>
+</figure>
 
 This team proposed an adventure, similar to a scavenger hunt. This would use a technique called geocaching to allow smartphone users to leave and discover treasures in marked physical locations for other users to interact with.
 
@@ -202,12 +216,14 @@ A big part of this challenge is content management. An API back-end was built th
 
 <h2><a href="../wearable-tech-and-performance">Wearable Technology and Performance</a></h2>
 
-<div class="img landscape">
-	<img src="/images/reports/summer-2014/7.jpg" alt="Aaron Trocola and Kate Sicchio" />
-	<div class="team">Aaron Trocola and Kate Sicchio</div>
-</div>
-
 In what ways can the haptic possibilities of smartphones be channeled into dance? How can custom-designed wearables enhance or change the nature of a performance?
+
+<figure>
+	<img src="/images/reports/summer-2014/7.jpg" alt="Aaron Trocola and Kate Sicchio" />
+	<figcaption>
+		Aaron Trocola and Kate Sicchio
+	</figcaption>
+</figure>
 
 This team set out to answer these questions, and this resulted in a chest-mounted performance wearable which allows a dancer's body to control sound.
 

@@ -7,12 +7,14 @@ bodyclass : "content post"
 
 <h2>Oculus Rift and Fantasy World</h2>
 
-<div class="img landscape">
-	<img src="/images/reports/summer-2014/4.jpg" alt="Sophie Kravitz, Martha Hipley and Takafumi Ide" />
-	<div class="team">Sophi Kravitz, Martha Hipley and Takafumi Ide</div>
-</div>
-
 What innovations can be made on immersive Virtual Reality experiences like Oculus Rift? How can the experience become more physically interactive?
+
+<figure>
+	<img src="/images/reports/summer-2014/4.jpg" alt="Sophie Kravitz, Martha Hipley and Takafumi Ide" />
+	<figcaption>
+		Sophi Kravitz, Martha Hipley and Takafumi Ide
+	</figcaption>
+</figure>
 
 This team investigated nuances of gesture, focusing on using the hands, how the body orientates in space and use of torque, or bodyweight.
 

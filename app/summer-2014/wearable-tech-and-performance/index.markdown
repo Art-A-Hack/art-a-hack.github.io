@@ -7,12 +7,14 @@ bodyclass : "content post"
 
 <h2>Wearable Technology and Performance</h2>
 
-<div class="img landscape">
-	<img src="/images/reports/summer-2014/7.jpg" alt="Aaron Trocola and Kate Sicchio" />
-	<div class="team">Aaron Trocola and Kate Sicchio</div>
-</div>
-
 In what ways can the haptic possibilities of smartphones be channeled into dance? How can custom-designed wearables enhance or change the nature of a performance?
+
+<figure>
+	<img src="/images/reports/summer-2014/7.jpg" alt="Aaron Trocola and Kate Sicchio" />
+	<figcaption>
+		Aaron Trocola and Kate Sicchio
+	</figcaption>
+</figure>
 
 This team set out to answer these questions, and this resulted in a chest-mounted performance wearable which allows a dancer's body to control sound.
 

@@ -7,13 +7,14 @@ bodyclass : "content post"
 
 <h2>Privacy and Google Glass</h2>
 
-<div class="img">
-	<img src="/images/reports/summer-2014/1.jpg" alt="Mark Bolotin, Billy Keefe, Chantel The Magnificent" />
-
-<div class="team">Mark Bolotin, Billy Keefe, Chantel The Magnificent</div>
-</div>
-
 Instant access to personal information about everyone you meet has become a real possibility with the rise of wearables and the pervasiveness of online identity tracking.
+
+<figure>
+	<img src="/images/reports/summer-2014/1.jpg" alt="Mark Bolotin, Billy Keefe, Chantel The Magnificent" />
+	<figcaption>
+		Mark Bolotin, Billy Keefe, Chantel The Magnificent
+	</figcaption>
+</figure>
 
 The team used Google Glass to source data about selected individuals and make that data available to the wearer. This enables anyone wearing the Glass to become "clairvoyant", able to discover personal insights into those she interacts with in real-time.
 

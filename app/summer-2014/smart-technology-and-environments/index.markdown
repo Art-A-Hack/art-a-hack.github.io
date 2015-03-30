@@ -7,12 +7,14 @@ bodyclass : "content post"
 
 <h2>Smart Technology and Environments</h2>
 
-<div class="img landscape">
-	<img src="/images/reports/summer-2014/8.jpg" alt="Andrew Ritchie and Chinazo Rena Anakwe" />
-	<div class="team">Andrew Ritchie and Chinazo Rena Anakwe</div>
-</div>
-
 How can the ubiquity of smartphones change the way we think of the environments around us? How can geo-location change the way we engage with space?
+
+<figure>
+	<img src="/images/reports/summer-2014/8.jpg" alt="Andrew Ritchie and Chinazo Rena Anakwe" />
+	<figcaption>
+		Andrew Ritchie and Chinazo Rena Anakwe
+	</figcaption>
+</figure>
 
 This team proposed an adventure, similar to a scavenger hunt. This would use a technique called geocaching to allow smartphone users to leave and discover treasures in marked physical locations for other users to interact with.
 

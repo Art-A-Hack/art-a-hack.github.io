@@ -7,12 +7,14 @@ bodyclass : "content post"
 
 <h2>Buddhism, Meditation and the Mind</h2>
 
-<div class="img landscape">
-	<img src="/images/reports/summer-2014/9.jpg" alt="Eva Lee and Ellen Pearlman" />
-	<div class="team">Eva Lee, various programmers, Ellen Pearlman</div>
-</div>
-
 Eva Lee applied to Art-A-Hack proposing to create an installation work visualizing electroencephalographic (EEG) brain data culled from neuroscientist Dr. Jose Raul Muradas' research on prayers for self compared to prayers for others.
+
+<figure>
+	<img src="/images/reports/summer-2014/9.jpg" alt="Eva Lee and Ellen Pearlman" />
+	<figcaption>
+		Eva Lee, various programmers, Ellen Pearlman
+	</figcaption>
+</figure>
 
 The data displayed numeric similarities and differences that occurred when subject participants meditated on self versus meditating on others. Different programming languages were investigated as a means to visualize data to represent aspects of human identity and consciousness.
 

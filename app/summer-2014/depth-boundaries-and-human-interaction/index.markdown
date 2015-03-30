@@ -7,12 +7,14 @@ bodyclass : "content post"
 
 <h2>Depth, Boundaries and Human Interaction</h2>
 
-<div class="img landscape">
-	<img src="/images/reports/summer-2014/3.jpg" alt="Tyler Parker, Joelle Fleurantin, Diana Castro" />
-	<div class="team">Tyler Parker, Joelle Fleurantin, Diana Castro</div>
-</div>
-
 This team explored the possibilities of inferring human body shapes in public space in real-time. They created 'virtual breakpoints' which visitors can walk through.
+
+<figure>
+	<img src="/images/reports/summer-2014/3.jpg" alt="Tyler Parker, Joelle Fleurantin, Diana Castro" />
+	<figcaption>
+		Tyler Parker, Joelle Fleurantin, Diana Castro
+	</figcaption>
+</figure>
 
 This means walking from a virtual sunny beach, to a city at night. All the time, a shadowy silhouette follows along. You can try to approach the mystery figure, but she or he was always one step ahead. 
 

@@ -7,12 +7,14 @@ bodyclass : "content post"
 
 <h2>Reflecting on Time and Space</h2>
 
-<div class="img landscape">
-	<img src="/images/reports/summer-2014/6.jpg" alt="Olga Ast and Rolf Levenbach" />
-	<div class="team">Olga Ast and Rolf Levenbach</div>
-</div>
-
 Olga Ast is a designer, author and interdisciplinary artist. Her practice investigates connections between space, time and information. Rolf Levenbach is an ex-teacher (ITP at NYU) and ex-computer tech support person (Bell Labs, Rutgers University, and the American Museum of Natural History).
+
+<figure>
+	<img src="/images/reports/summer-2014/6.jpg" alt="Olga Ast and Rolf Levenbach" />
+	<figcaption>
+		Olga Ast and Rolf Levenbach
+	</figcaption>
+</figure>
 
 The pair investigated some of Olga's ideas on the emergence of the solar system using a simulation environment called NetLogo. Olga's previous explorations into the nature of time were part of the background of the collaboration, an extension of many years of meeting at various art & science events.
  

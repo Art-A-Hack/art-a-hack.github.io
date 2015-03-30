@@ -7,12 +7,14 @@ bodyclass : "content post"
 
 <h2>Public Space and Theater</h2>
 
-<div class="img">
-	<img src="/images/reports/summer-2014/5.jpg" alt="Annie Berman and Francisco Javier Molina" />
-	<div class="team">Annie Berman and Francisco Javier Molina</div>
-</div>
-
 How can computing and portable sound devices change the way we communicate in public spaces? This team explored that question relentlessly, posing and critiquing several location-specific augmentations.
+
+<figure>
+	<img src="/images/reports/summer-2014/5.jpg" alt="Annie Berman and Francisco Javier Molina" />
+	<figcaption>
+		Annie Berman and Francisco Javier Molina
+	</figcaption>
+</figure>
 
 The team came to be captivated by the Whispering Gallery at Grand Central Station. This space has a natural acoustic property that emerges from the arched ceiling architecture. If you stand in one corner and speak, somebody way over in the other corner can listen and hear you clearly - even though those people standing in-between cannot.
 
