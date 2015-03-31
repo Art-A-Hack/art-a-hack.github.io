@@ -291,7 +291,7 @@ module.exports = function (grunt) {
     buildcontrol: {
       dist: {
         options: {
-          remote: 'https://github.com/hardware-hack-lab/hardware-hack-lab.github.io.git',
+          remote: 'https://github.com/Art-A-Hack/art-a-hack.github.io.git',
           branch: 'master',
           commit: true,
           push: true
