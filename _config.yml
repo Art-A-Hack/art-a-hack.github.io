@@ -4,6 +4,7 @@
 # 3. config.yml
 
 name: artahack.io
+url: 'http://artahack.io'
 author:
   name: Andrew McWilliams
   email: andy@jahya.net
