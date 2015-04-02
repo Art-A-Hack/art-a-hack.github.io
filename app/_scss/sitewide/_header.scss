@@ -131,7 +131,7 @@ body {
 					position: fixed; top: 0; left: 0; bottom: 0; right: 0;
 					width: 100%; height: 100%;
 					text-align: center;
-					background-color: rgba(68, 68, 68, .96);
+					background-color: rgba(68, 68, 68, 0.96);
 					padding-top: 7%;
 					z-index: 1;
 
@@ -143,7 +143,7 @@ body {
 					a {
 						font-size: 2em;
 						background-color: rgba(0, 0, 0, 0) !important;
-						color: #EF402F;
+						color: #ef402f;
 					}
 				}
 			}
