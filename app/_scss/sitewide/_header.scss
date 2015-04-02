@@ -1,6 +1,6 @@
 body {
 	header.main {
-		height: 130px;
+		height: 143px;
 		position: relative;
 
 		>h1, >nav {
@@ -43,6 +43,8 @@ body {
 @media (max-width: 1299px) {
 	body {
 		header.main {
+			height: 133px;
+
 			h1 a {
 				img.text {
 					height: 70px;
@@ -67,6 +69,8 @@ body {
 @media (max-width: 1099px) {
 	body {
 		header.main {
+			height: 120px;
+
 			h1 a {
 				img.text {
 					height: 55px;
@@ -91,7 +95,7 @@ body {
 @media (max-width: 899px) {
 	body {
 		header.main {
-			height: 105px;
+			height: 115px;
 
 			nav {
 				#menu-button {
