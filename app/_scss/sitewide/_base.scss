@@ -24,7 +24,7 @@ a:hover, a:active {
 	text-decoration: none;
 }
 
-p {
+p, ul, ol {
 	font-size: $largest_font;
 	letter-spacing: $large_spacing;
 	line-height: $small_lineheight;
@@ -220,7 +220,7 @@ ul.cta li, ol.cta li {
 		font-size: 1.4em;
 	}
 
-	p, address {
+	p, ul, ol {
 		font-size: 1.05em;
 	}
 
@@ -243,7 +243,7 @@ ul.cta li, ol.cta li {
 		font-size: 1.25em;
 	}
 
-	p, address {
+	p, ul, ol {
 		font-size: 1em;
 	}
 

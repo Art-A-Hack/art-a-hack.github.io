@@ -44,12 +44,6 @@
 			}
 
 			.post-content {
-				li, blockquote {
-					font-size: $largest_font;
-					letter-spacing: $large_spacing;
-					line-height: $small_lineheight;
-				}
-
 				blockquote {
 					padding: 1em 0;
 					margin: 0 2em;
@@ -62,7 +56,7 @@
 				}
 
 				ul, ol {
-					margin: 0.5em 0;
+					margin: 0.5em 0.2em;
 				}
 
 				figure {
@@ -132,6 +126,10 @@
 				}
 			}
 		}
+	}
+
+	#simple main article .post-content {
+		margin-top: 5em;
 	}
 }
 
