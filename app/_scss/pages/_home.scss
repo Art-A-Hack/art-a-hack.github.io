@@ -31,7 +31,35 @@
 		p {
 			text-align: center;
 			font-size: 3em;
-			margin: 1.2em 5em;
+			margin: 1.2em auto;
+			max-width: 19em;
+			padding: 0 2em;
+		}
+
+		.progress {
+			width: 100%;
+			text-align: center;
+			margin: 6em 0;
+
+			a {
+				padding: 0.6em 0.8em;
+				border-radius: 0.4em;
+			}
+
+			a:link, a:visited {
+				background-color: #ef402f;
+				color: #ffffff;
+			}
+
+			a:hover, a:active {
+				background-color: #ffffff;
+				color: #ef402f;
+			}
+
+			a:after {
+				content: '\003e';
+				position: relative; right: -0.25em; top: -0.05em;
+			}
 		}
 	}
 }
@@ -42,8 +70,18 @@
 			background-image: url('/images/full-bleed/artahack-2000.jpg');
 		}
 
-		#tagline p {
-			font-size: 2.4em;
+		#tagline {
+			p {
+				font-size: 2.6em;
+				margin: 1.2em auto;
+			}
+
+			.progress {
+				margin: 4.5em 0;
+				a {
+					font-size: 1.7em;
+				}
+			}
 		}
 	}
 }
@@ -54,9 +92,19 @@
 			background-image: url('/images/full-bleed/artahack-1600.jpg');
 		}
 
-		#tagline p {
-			font-size: 2.2em;
-			margin: 1.2em 3.4em;
+		#tagline {
+			p {
+				font-size: 2.2em;
+				margin: 1.2em auto;
+			}
+
+			.progress {
+				margin: 6em 0 4.5em 0;
+
+				a {
+					font-size: 1.5em;
+				}
+			}
 		}
 	}
 }
@@ -67,9 +115,19 @@
 			background-image: url('/images/full-bleed/artahack-1200.jpg');
 		}
 
-		#tagline p {
-			font-size: 1.9em;
-			margin: 1.2em 2.1em;
+		#tagline {
+			p {
+				font-size: 1.9em;
+				margin: 1.2em auto;
+			}
+
+			.progress {
+				margin: 6em 0 4.5em 0;
+
+				a {
+					font-size: 1.4em;
+				}
+			}
 		}
 	}
 }
@@ -85,9 +143,28 @@
 			background-size: cover;
 		}
 
-		#tagline p {
-			font-size: 1.1em;
-			margin: 2.5em 1.5em;
+		#tagline {
+			p {
+				font-size: 1.8em;
+				margin: 2.5em auto;
+			}
+
+			.progress {
+				a {
+					font-size: 1.3em;
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 499px) {
+	#home {
+		#tagline {
+			p {
+				padding: 0 0.85em;
+				font-size: 1.6em;
+			}
 		}
 	}
 }

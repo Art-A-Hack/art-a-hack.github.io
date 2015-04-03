@@ -158,32 +158,6 @@ a.cta:hover, a.cta:active {
 	color: #4d2822;
 }
 
-.progress {
-	width: 100%;
-	text-align: center;
-	margin: 0 0 5em 0;
-
-	a {
-		padding: 0.6em 0.8em;
-		border-radius: 0.4em;
-	}
-
-	a:link, a:visited {
-		background-color: #ef402f;
-		color: #ffffff;
-	}
-
-	a:hover, a:active {
-		background-color: #ffffff;
-		color: #ef402f;
-	}
-
-	a:after {
-		content: '\003e';
-		position: relative; right: -0.25em; top: -0.05em;
-	}
-}
-
 ul.cta, ol.cta {
 	a {
 		font-size: 2em;
