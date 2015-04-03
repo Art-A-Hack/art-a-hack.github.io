@@ -1,7 +1,7 @@
 body {
 	#sponsors {
 		padding: 2em 0;
-		width: 750px;
+		width: 100%;
 		margin: 0 auto;
 		text-align: center;
 
@@ -10,7 +10,8 @@ body {
 		}
 
 		ul {
-			margin: 0.4em 0 0 0;
+			width: 750px;
+			margin: 0.4em auto 0 auto;
 
 			li {
 				display: inline;
@@ -33,10 +34,12 @@ body {
 @media (max-width: 799px) {
 	body {
 		#sponsors {
-			width: 100%;
+			ul {
+				width: 100%;
 
-			ul li img {
-				height: 81px;
+				li img {
+					height: 81px;
+				}
 			}
 		}
 	}
@@ -45,8 +48,6 @@ body {
 @media (max-width: 639px) {
 	body {
 		#sponsors {
-			width: 100%;
-
 			ul li {
 				display: block;
 				line-height: 2em;
