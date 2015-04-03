@@ -15,49 +15,40 @@ The categories and people include:
 
 <ol>
   <li>
-    <p>Wearables and 3D Printing</p>
-
-    <p>Reed Tothong, Kate Sicchio and Aaron Trocola</p>
+    <em>Wearables and 3D Printing</em><br />
+    Reed Tothong, Kate Sicchio and Aaron Trocola
   </li>
   <li>
-    <p>Neuro Sky, Neuro Projection and EEG</p>
-
-    <p>Aleef Mahmud, Eva Lee and Daniel Padawar</p>
+    <em>Neuro Sky, Neuro Projection and EEG</em><br />
+    Aleef Mahmud, Eva Lee and Daniel Padawar
   </li>
   <li>
-    <p>Depth and Multimedia</p>
-
-    <p>Diana Castro, Tyler Parker and Joelle Fleurantin</p>
+    <em>Depth and Multimedia</em><br />
+    Diana Castro, Tyler Parker and Joelle Fleurantin
   </li>
   <li>
-    <p>Performance, Depth and Oculus</p>
-
-    <p>Noah Pivnick and Jason Levine</p>
+    <em>Performance, Depth and Oculus</em><br />
+    Noah Pivnick and Jason Levine
   </li>
   <li>
-    <p>Oculus, Fantasy World and LED</p>
-
-    <p>Martha Hipley, Sophi Kravitz, and Takafumi Ide</p>
+    <em>Oculus, Fantasy World and LED</em><br />
+    Martha Hipley, Sophi Kravitz, and Takafumi Ide
   </li>
   <li>
-    <p>Smart Technology and Environments</p>
-
-    <p>Andrew Ritchie and Chinazo Rena Anakwe</p>
+    <em>Smart Technology and Environments</em><br />
+    Andrew Ritchie and Chinazo Rena Anakwe
   </li>
   <li>
-    <p>Time and Code</p>
-
-    <p>Kim Fisher and Olga Ast</p>
+    <em>Time and Code</em><br />
+    Kim Fisher and Olga Ast
   </li>
   <li>
-    <p>Public Space and Theater</p>
-
-    <p>Annie Berman and Francisco Javier Molina</p>
+    <em>Public Space and Theater</em><br />
+    Annie Berman and Francisco Javier Molina
   </li>
   <li>
-    <p>Google Glass</p>
-
-    <p>Mark Bolotin and Billy Keefe</p>
+    <em>Google Glass</em><br />
+    Mark Bolotin and Billy Keefe
   </li>
 </ol>
 
