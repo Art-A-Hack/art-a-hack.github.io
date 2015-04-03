@@ -145,6 +145,7 @@
 	#home {
 		.flex-col {
 			min-height: 400px;
+			max-height: 100%; // Firefox mobile
 		}
 
 		#image-grid {
