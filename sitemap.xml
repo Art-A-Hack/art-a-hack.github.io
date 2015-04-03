@@ -31,13 +31,13 @@
     <loc>http://artahack.io/alumni/</loc>
   </url>
   <url>
-    <loc>http://artahack.io/</loc>
-  </url>
-  <url>
     <loc>http://artahack.io/blog/</loc>
   </url>
   <url>
     <loc>http://artahack.io/summer-2014/call/</loc>
+  </url>
+  <url>
+    <loc>http://artahack.io/</loc>
   </url>
   <url>
     <loc>http://artahack.io/summer-2015/call/</loc>
@@ -46,31 +46,34 @@
     <loc>http://artahack.io/summer-2014/depth-boundaries-and-human-interaction/</loc>
   </url>
   <url>
-    <loc>http://artahack.io/summer-2014/buddhism-meditation-and-mind/</loc>
+    <loc>http://artahack.io/summer-2014/oculus-and-fantasy-world/</loc>
   </url>
   <url>
     <loc>http://artahack.io/summer-2014/google-glass/</loc>
   </url>
   <url>
-    <loc>http://artahack.io/summer-2014/oculus-and-fantasy-world/</loc>
-  </url>
-  <url>
-    <loc>http://artahack.io/summer-2014/public-space-and-theater/</loc>
-  </url>
-  <url>
     <loc>http://artahack.io/summer-2014/reflecting-on-time/</loc>
-  </url>
-  <url>
-    <loc>http://artahack.io/summer-2014/report/</loc>
   </url>
   <url>
     <loc>http://artahack.io/summer-2014/smart-technology-and-environments/</loc>
   </url>
   <url>
-    <loc>http://artahack.io/summer-2014/wearable-tech-and-performance/</loc>
+    <loc>http://artahack.io/summer-2014/public-space-and-theater/</loc>
   </url>
   <url>
     <loc>http://artahack.io/summer-2014/kinect-and-oculus-mashup/</loc>
+  </url>
+  <url>
+    <loc>http://artahack.io/summer-2014/report/</loc>
+  </url>
+  <url>
+    <loc>http://artahack.io/summer-2014/buddhism-meditation-and-mind/</loc>
+  </url>
+  <url>
+    <loc>http://artahack.io/summer-2014/wearable-tech-and-performance/</loc>
+  </url>
+  <url>
+    <loc>http://artahack.io/alumni/index2.html</loc>
   </url>
   <url>
     <loc>http://artahack.io/posts/2014/06/16/the-results-are-in/</loc>
