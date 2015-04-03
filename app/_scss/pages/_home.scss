@@ -76,6 +76,10 @@
 
 @media (max-width: 639px) {
 	#home {
+		.flex-col {
+			min-height: 400px;
+		}
+
 		#image-grid {
 			background-image: url('/images/full-bleed/artahack-800.jpg');
 			background-size: cover;
