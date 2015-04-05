@@ -76,6 +76,8 @@
 @media (max-width: 899px) {
 	.content {
 		main {
+			padding: 3% 5%;
+			
 			.cta {
 				padding-bottom: 3em;
 			}
@@ -102,9 +104,9 @@
 	.content {
 		.flex-row {
 			.left {
-				width: 80%;
-				padding-left: 10%;
-				padding-right: 10%;
+				width: 90%;
+				padding-left: 5%;
+				padding-right: 5%;
 			}
 
 			.right {
