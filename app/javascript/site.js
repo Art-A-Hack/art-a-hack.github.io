@@ -2,6 +2,7 @@ $(document).ready(function() {
 	function init() {
 		enableMenuButton();
 		enableSocialLinks();
+		fixResizableHeights();
 	}
 
 	function enableMenuButton() {
@@ -33,6 +34,15 @@ $(document).ready(function() {
 			window.open(url, 'social-share', opts);
 			event.preventDefault();
 		});
+	}
+
+	function fixResizableHeights() {
+		//Fixes problem with viewport height changing on mobile, as the URL bar disappears
+		if($(window).width() <= 639) {
+			$('.flex-col').each(function(index, value) {
+				$(this).css('height', $(this).height() + 'px');
+			});
+		}
 	}
 
 	init();
