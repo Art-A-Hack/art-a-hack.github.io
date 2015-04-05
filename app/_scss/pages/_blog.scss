@@ -146,6 +146,15 @@
 				header .widgets i {
 					font-size: 2em;
 				}
+
+				.post-content {
+					figure {
+						img, iframe {
+							width: 99%;
+							border: 0;
+						}
+					}
+				}
 			}
 		}
 	}
