@@ -37,6 +37,32 @@ body {
 				}
 			}
 		}
+
+		.open-call {
+			width: 100%;
+			text-align: center;
+			height: 20px;
+			position: absolute;
+			bottom: -20px;
+
+			a {
+				background-color: #ef402f;
+				color: #ffffff;
+				display: block;
+				z-index: 1000;
+				position: relative;
+				padding: 0.2em;
+				text-decoration: underline;
+			}
+
+			a:link, a:visited {
+				text-decoration: none;
+			}
+
+			a:hover, a:active {
+				text-decoration: underline;
+			}
+		}
 	}
 }
 
