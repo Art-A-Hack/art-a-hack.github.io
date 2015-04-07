@@ -2,6 +2,9 @@ body {
 	header.main {
 		height: 143px;
 		position: relative;
+		
+		//Temporary during open call
+		margin-bottom: 26px;
 
 		>h1, >nav {
 			margin: 14px 16px;
@@ -37,9 +40,6 @@ body {
 				}
 			}
 		}
-
-		//Temporary during open call
-		margin-bottom: 26px;
 
 		.open-call {
 			width: 100%;
