@@ -38,12 +38,15 @@ body {
 			}
 		}
 
+		//Temporary during open call
+		margin-bottom: 26px;
+
 		.open-call {
 			width: 100%;
 			text-align: center;
-			height: 20px;
+			height: 26px;
 			position: absolute;
-			bottom: -20px;
+			bottom: -26px;
 
 			a {
 				background-color: #ef402f;
@@ -51,7 +54,7 @@ body {
 				display: block;
 				z-index: 1000;
 				position: relative;
-				padding: 0.2em;
+				padding: 3px;
 				text-decoration: underline;
 			}
 
