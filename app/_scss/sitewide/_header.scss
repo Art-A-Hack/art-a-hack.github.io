@@ -3,9 +3,6 @@ body {
 		height: 143px;
 		position: relative;
 
-		//Temporary during open call
-		margin-bottom: 26px;
-
 		>h1, >nav {
 			margin: 14px 16px;
 		}
@@ -38,33 +35,6 @@ body {
 				li {
 					margin-left: 1em;
 				}
-			}
-		}
-
-		.open-call {
-			width: 100%;
-			text-align: center;
-			height: 26px;
-			position: absolute;
-			bottom: -26px;
-
-			a {
-				background-color: #ef402f;
-				color: #ffffff;
-				display: block;
-				z-index: 1000;
-				position: relative;
-				padding: 8px;
-				text-decoration: underline;
-				font-weight: bold;
-			}
-
-			a:link, a:visited {
-				text-decoration: none;
-			}
-
-			a:hover, a:active {
-				text-decoration: underline;
 			}
 		}
 	}
