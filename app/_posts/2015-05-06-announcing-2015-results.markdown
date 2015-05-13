@@ -47,7 +47,7 @@ The themes listed are driven by the applicants themselves during the open call. 
   </li>
   <li>
     <em>Oculus Fiber</em><br />
-    Jessica Graves, Greg Dutcher, Nina Mirahabibi, Rebecca Lieberman<br />
+    Jessica Graves, Greg Dutcher, Nina Mirhabibi, Rebecca Lieberman<br />
   </li>
 </ol>
 
