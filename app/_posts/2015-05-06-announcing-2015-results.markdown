@@ -39,7 +39,7 @@ The themes listed are driven by the applicants themselves during the open call. 
   </li>
   <li>
     <em>Drone Victory App</em><br />
-    Kirk Zamieroski, Amy Cheng, Stef Wong, Rick Couzzi<br /><br />
+    Kirk Zamieroski, Stef Wong, Rick Couzzi<br /><br />
   </li>
   <li>
     <em>Deep Thought</em><br />
