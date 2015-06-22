@@ -15,7 +15,7 @@ The themes listed are driven by the applicants themselves during the open call. 
 <ol>
   <li>
     <em>Utopia</em><br />
-    Annie Berman, Lee Tusman, Brett Burton, Dave Tennent<br /><br />
+    Annie Berman, Lee Tusman, Dave Tennent<br /><br />
   </li>
   <li>
     <em>Imbalances In Tech</em><br />
@@ -30,16 +30,8 @@ The themes listed are driven by the applicants themselves during the open call. 
     Katherine Bennett, Julio Montas, Betty Quinn<br /><br />
   </li>
   <li>
-    <em>Online Harassment</em><br />
-    Caroline Sinders, Mario Augustin Vivas, Roopa Vasudevan<br /><br />
-  </li>
-  <li>
     <em>The Multi-Faceted Cello</em><br />
     Manwai Che, Rose Kue, Samuel Wells, Gene Kogan<br /><br />
-  </li>
-  <li>
-    <em>Drone Victory App</em><br />
-    Kirk Zamieroski, Stef Wong, Rick Couzzi<br /><br />
   </li>
   <li>
     <em>Deep Thought</em><br />
