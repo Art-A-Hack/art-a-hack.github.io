@@ -30,7 +30,7 @@ The themes listed are driven by the applicants themselves during the open call. 
     Katherine Bennett, Julio Montas, Betty Quinn<br /><br />
   </li>
   <li>
-    <em>The Multi-Faceted Cello</em><br />
+    <em>The Multi-Faceted Bass</em><br />
     Manwai Che, Rose Kue, Samuel Wells, Gene Kogan<br /><br />
   </li>
   <li>
