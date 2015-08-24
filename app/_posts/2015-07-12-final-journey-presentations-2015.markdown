@@ -1,6 +1,6 @@
 ---
 layout    : post
-title     : "Final Presentations for 2015"
+title     : "Final Presentations for Art-A-Hack 2015"
 bodyid    : "blog"
 bodyclass : "content post"
 ---
