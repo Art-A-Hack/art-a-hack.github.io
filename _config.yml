@@ -39,7 +39,7 @@ markdown: kramdown
 #     coderay_bold_every: 10
 #     coderay_css: style
 
-pygments: true
+highlighter: true
 
 gems:
   - jekyll-redirect-from
