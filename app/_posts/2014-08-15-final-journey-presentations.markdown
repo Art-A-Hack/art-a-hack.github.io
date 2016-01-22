@@ -10,7 +10,7 @@ redirect_from:
 Having completed our first round of hacking, our teams walked us through their journeys at the awesome new events space <a href="http://new.livestream.com/">Livestream Public</a> in Bushwick.
 
 <figure class="video">
-	<iframe class="livestream" src="http://new.livestream.com/accounts/8720916/events/3256081/player?autoPlay=true&amp;mute=false" frameborder="0" scrolling="no"> </iframe>
+	<iframe class="livestream" src="//new.livestream.com/accounts/8720916/events/3256081/player?autoPlay=true&amp;mute=false" frameborder="0" scrolling="no"> </iframe>
 </figure>
 
 Each team presented on-stage and showed us some of their outcomes and demos. Thanks to Livestream we have archived video of the whole show.
