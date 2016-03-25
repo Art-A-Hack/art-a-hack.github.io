@@ -70,6 +70,13 @@ body {
 	}
 }
 
+//Temporary during open call
+body.no-call-banner {
+	header.main {
+		margin-bottom: 0;
+	}
+}
+
 @media (max-width: 1299px) {
 	body {
 		header.main {
