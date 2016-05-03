@@ -35,6 +35,10 @@ p, ul, ol, figcaption {
 	padding: 0.9em 0;
 }
 
+ul li ol, ol li ul, figcaption {
+	font-size: 1em;
+}
+
 h1 {
 	font-size: 2.2em;
 	line-height: $smallest_lineheight;
