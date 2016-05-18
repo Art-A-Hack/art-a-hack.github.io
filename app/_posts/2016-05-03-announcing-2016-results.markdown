@@ -51,7 +51,6 @@ However, as always, the projects are led by the teams themselves. Here is a full
       <li>Javier Molina</li>
       <li>Zhen Liu</li>
       <li>John Portnov</li>
-      <li>Debbie Deas</li>
     </ul>
   </li>
   <li>
@@ -59,8 +58,6 @@ However, as always, the projects are led by the teams themselves. Here is a full
     <ul>
       <li>Eva Lee</li>
       <li>Aaron Trocola</li>
-      <li>Robert Lisek</li>
-      <li>Gasper Rey</li>
       <li>Wu Qiuyi</li>
     </ul>
   </li>
@@ -102,7 +99,7 @@ However, as always, the projects are led by the teams themselves. Here is a full
       <li>David Tracey</li>
       <li>Sharon De La Cruz</li>
       <li>Sadah (Espii) Proctor</li>
-      <li>John Benton</li>
+      <li>Debbie Deas</li>
       <li>Greg Dutcher</li>
     </ul>
   </li>
