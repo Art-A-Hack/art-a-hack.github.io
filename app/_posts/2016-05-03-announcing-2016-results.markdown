@@ -58,7 +58,7 @@ However, as always, the projects are led by the teams themselves. Here is a full
     <ul>
       <li>Eva Lee</li>
       <li>Aaron Trocola</li>
-      <li>Wu Qiuyi</li>
+      <li>Pat Shiu</li>
     </ul>
   </li>
   <li>
@@ -88,7 +88,7 @@ However, as always, the projects are led by the teams themselves. Here is a full
       <li>Loren Abdulezer</li>
       <li>Chris Lobello</li>
       <li>Filip Baba</li>
-      <li>Pat Shiu</li>
+      <li>Wu Qiuyi</li>
       <li>Zach Krall</li>
       <li>Pierre Bernard</li>
     </ul>
