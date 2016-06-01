@@ -59,6 +59,7 @@ However, as always, the projects are led by the teams themselves. Here is a full
       <li>Eva Lee</li>
       <li>Aaron Trocola</li>
       <li>Pat Shiu</li>
+      <li>Gabriel Ibagon</li>
     </ul>
   </li>
   <li>
