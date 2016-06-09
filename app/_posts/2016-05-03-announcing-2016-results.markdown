@@ -10,7 +10,7 @@ The 2016 season of Art-A-Hack is a partnership between <a href="https://www.thou
 
 <!--excerpt-ends-->
 
-However, as always, the projects are led by the teams themselves. Here is a full listing of each of the 10 teams, with their members:
+However, as always, the projects are led by the teams themselves. Here is a full listing of each of the 9 teams, with their members:
 
 <ol class="team-list">
   <li>
@@ -43,6 +43,7 @@ However, as always, the projects are led by the teams themselves. Here is a full
       <li>Allie Quintano</li>
       <li>Wi­-Moto Nyoka</li>
       <li>Linda Raftree</li>
+      <li>David Crawford</li>
     </ul>
   </li>
   <li>
@@ -63,16 +64,6 @@ However, as always, the projects are led by the teams themselves. Here is a full
     </ul>
   </li>
   <li>
-    <em>Shadows of Fruit</em>
-    <ul>
-      <li>Ann Bennett</li>
-      <li>Kevin Barry</li>
-      <li>Gal Nissim</li>
-      <li>Lisa Russell</li>
-      <li>David Crawford</li>
-    </ul>
-  </li>
-  <li>
     <em>Echoing Ego</em>
     <ul>
       <li>Gordey Chernyy</li>
@@ -89,6 +80,7 @@ However, as always, the projects are led by the teams themselves. Here is a full
       <li>Loren Abdulezer</li>
       <li>Chris Lobello</li>
       <li>Filip Baba</li>
+      <li>Lisa Russell</li>
       <li>Wu Qiuyi</li>
       <li>Zach Krall</li>
       <li>Pierre Bernard</li>
