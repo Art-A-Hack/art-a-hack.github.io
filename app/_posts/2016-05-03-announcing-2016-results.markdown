@@ -21,7 +21,6 @@ However, as always, the projects are led by the teams themselves. Here is a full
       <li>Ace Ji</li>
       <li>Marie Patterson</li>
       <li>Rachel Stevens</li>
-      <li>Peter Locharernkul</li>
     </ul>
   </li>
   <li>
