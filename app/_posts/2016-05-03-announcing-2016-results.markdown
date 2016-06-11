@@ -57,6 +57,7 @@ However, as always, the projects are led by the teams themselves. Here is a full
     <em>Dual Brains</em>
     <ul>
       <li>Eva Lee</li>
+      <li>Gal Nissim</li>
       <li>Aaron Trocola</li>
       <li>Pat Shiu</li>
       <li>Gabriel Ibagon</li>
