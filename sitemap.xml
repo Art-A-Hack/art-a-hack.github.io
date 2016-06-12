@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://artahack.io/blog/first-day-of-coworking</loc>
+    <lastmod>2016-06-12T00:00:00-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://artahack.io/blog/2016-social-at-thoughtworks</loc>
     <lastmod>2016-06-09T00:00:00-04:00</lastmod>
   </url>
@@ -137,5 +141,11 @@
   </url>
   <url>
     <loc>http://artahack.io/posts/2015/05/21/call-for-participation/</loc>
+  </url>
+  <url>
+    <loc>http://artahack.io/blog/page2/</loc>
+  </url>
+  <url>
+    <loc>http://artahack.io/blog/page3/</loc>
   </url>
 </urlset>
