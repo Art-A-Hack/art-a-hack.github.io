@@ -27,7 +27,6 @@ However, as always, the projects are led by the teams themselves. Here is a full
     <em>Sonic Equations</em>
     <ul>
       <li>Christopher Edwards</li>
-      <li>Bjorn Roche</li>
       <li>Nga Nguyen</li>
       <li>Julia Barry</li>
       <li>Laura Mun</li>
@@ -40,7 +39,6 @@ However, as always, the projects are led by the teams themselves. Here is a full
       <li>Leonardo Malave</li>
       <li>Jackson Tam</li>
       <li>Allie Quintano</li>
-      <li>Wi­-Moto Nyoka</li>
       <li>Linda Raftree</li>
       <li>David Crawford</li>
     </ul>
