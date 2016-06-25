@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://artahack.io/blog/week-2-check-in-kinect-vr</loc>
+    <lastmod>2016-06-22T00:00:00-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://artahack.io/blog/second-week-of-co-creation-2016</loc>
     <lastmod>2016-06-18T00:00:00-04:00</lastmod>
   </url>
@@ -145,11 +149,5 @@
   </url>
   <url>
     <loc>http://artahack.io/posts/2015/05/21/call-for-participation/</loc>
-  </url>
-  <url>
-    <loc>http://artahack.io/blog/page2/</loc>
-  </url>
-  <url>
-    <loc>http://artahack.io/blog/page3/</loc>
   </url>
 </urlset>
