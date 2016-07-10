@@ -2,5 +2,6 @@
   "name": "art-a-hackgithubio",
   "version": "0.0.0",
   "dependencies": {
+    "ideal-image-slider": "~1.5.1"
   }
 }
