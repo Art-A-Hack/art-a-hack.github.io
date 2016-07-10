@@ -46,3 +46,8 @@ highlighter: true
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
+
+collections:
+  alumni:
+    output: false
+    permalink: /alumni/:title/
