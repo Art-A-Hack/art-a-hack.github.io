@@ -7,7 +7,7 @@ bodyclass : "content post"
 In this week, teams who had nailed down their conceptual frameworks were doubling down on experiments in making and technology.
 
 <figure class="video">
-	<iframe src="https://www.flickr.com/photos/125924023@N07/27675235092/in/set-72157669883211566/player/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+	<iframe src="https://www.flickr.com/photos/125924023@N07/27164038564/in/set-72157669883211566/player/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 </figure>
 
 Some teams were still unclear on direction, with the program organizers working to help unblock and get the teams started.
