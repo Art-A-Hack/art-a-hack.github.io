@@ -28,5 +28,4 @@ links:
    icon     : "fa-globe"
 ---
 
-##Tell us a little about what you do
-Enki is a person. I'm currently obsessed with WebGL, Eurorack Modular Synths and Thermal Photography.
+Nulla nec cursus ante. Proin at lorem vitae mauris pellentesque auctor vel ac felis. Maecenas euismod eros id orci maximus pharetra. Pellentesque at eros aliquet, venenatis dui et, placerat odio. Ut placerat nisl fermentum, luctus lectus non, vestibulum lectus. In dui ante, feugiat id metus ac, maximus mollis lorem.
