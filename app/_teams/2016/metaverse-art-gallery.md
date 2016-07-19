@@ -1,6 +1,6 @@
 ---
-layout    : project
-bodyid    : "projects"
+layout    : team
+bodyid    : "teams"
 bodyclass : "content"
 year      : 2016
 

@@ -1,0 +1,19 @@
+---
+layout    : default
+title     : Teams - Art-A-Hack
+bodyid    : "teams"
+bodyclass : "content grid-page"
+---
+<main>
+	<article role="article">
+		<h1>Art-A-Hack&#8482; 2016</h1>
+		<div class="grid">
+			{% for team in site.teams %}
+			<figure>
+				<img src="/images/teams/{{ team.year }}/{{ team.photo }}" />
+				<figcaption><h2><a href="{{ team.url }}">{{ team.title }}</a></h2></figcaption>
+			</figure>
+			{% endfor %}
+		</div>
+	</article>
+</main>
