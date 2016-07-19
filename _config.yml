@@ -47,3 +47,8 @@ gems:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-paginate
+
+collections:
+  alumni:
+    output: false
+    permalink: /alumni/:title/

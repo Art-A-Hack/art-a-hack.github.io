@@ -7,6 +7,23 @@ bodyclass : "content"
 ---
 <main>
 	<article role="article">
+		<h1>Art-A-Hack&#8482; 2016</h1>
+		<div class="grid">
+			{% for alum in site.alumni %}
+			<figure>
+				<img src="/images/alumni/{{ alum.year }}/{{ alum.photo }}" />
+				<figcaption><h2>{{ alum.title }}</h2></figcaption>
+				<p>{{ alum.occupation }}</p>
+				<ul class="links">
+					{% for link in alum.links %}
+					{% if link.url != "" %}
+					<li><a href="{{ link.url }}"><i class="fa {{ link.icon }}"></i></a></li>
+					{% endif %}
+					{% endfor %}
+				</ul>
+			</figure>
+			{% endfor %}
+		</div>
 		<h1>Art-A-Hack&#8482; 2015</h1>
 		<div class="grid">
 			<figure>
