@@ -2,6 +2,7 @@
 layout    : default
 bodyid    : "alumni"
 bodyclass : "content"
+year      : 2016
 
 title       : Mala Kumar
 photo       : "mala.jpg"

@@ -3,6 +3,7 @@ layout    : default
 title     : Madhu Sivaramakrishnan
 bodyid    : "alumni"
 bodyclass : "content"
+year      : 2016
 
 photo       : "madhu.jpg"
 occupation  : "Idea Follower"

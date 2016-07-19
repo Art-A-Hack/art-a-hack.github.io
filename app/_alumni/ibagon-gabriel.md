@@ -2,6 +2,7 @@
 layout    : default
 bodyid    : "alumni"
 bodyclass : "content"
+year      : 2016
 
 title       : Gabriel Ibagon
 photo       : "gabriel.jpg"

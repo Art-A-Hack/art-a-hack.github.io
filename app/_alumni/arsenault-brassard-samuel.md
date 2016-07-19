@@ -1,9 +1,10 @@
 ---
 layout    : default
-title     : "Samuel Arsenault-Brassard"
 bodyid    : "alumni"
 bodyclass : "content"
+year      : 2016
 
+title       : "Samuel Arsenault-Brassard"
 photo       : "sam-ab.jpg"
 occupation  : "Artist, Architecture Specialist"
 

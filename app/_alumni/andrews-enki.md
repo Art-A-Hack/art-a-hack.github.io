@@ -1,10 +1,11 @@
 ---
 layout    : default
-title     : Enki Andrews
 bodyid    : "alumni"
 bodyclass : "content"
+year      : 2016
 
 photo       : "enki.jpg"
+title       : Enki Andrews
 occupation  : "Distortionist, Interactive Artist"
 
 links:

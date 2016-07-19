@@ -11,7 +11,7 @@ bodyclass : "content"
 		<div class="grid">
 			{% for alum in site.alumni %}
 			<figure>
-				<img src="/images/alumni/{{ alum.photo }}" />
+				<img src="/images/alumni/{{ alum.year }}/{{ alum.photo }}" />
 				<figcaption><h2>{{ alum.title }}</h2></figcaption>
 				<p>{{ alum.occupation }}</p>
 				<ul class="links">
