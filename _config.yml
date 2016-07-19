@@ -54,4 +54,4 @@ collections:
     permalink: /alumni/:title/
   projects:
     output: false
-    permalink: /project/:title/
+    permalink: /projects/:title/

@@ -2,7 +2,7 @@
 layout    : default
 title     : Projects - Art-A-Hack
 bodyid    : "projects"
-bodyclass : "content"
+bodyclass : "content grid-page"
 ---
 <main>
 	<article role="article">
@@ -11,8 +11,7 @@ bodyclass : "content"
 			{% for project in site.projects %}
 			<figure>
 				<img src="/images/projects/{{ project.year }}/{{ project.photo }}" />
-				<figcaption><h2>{{ project.title }}</h2></figcaption>
-				<p>{{ project.content }}</p>
+				<figcaption><h2><a href="{{ project.url }}">{{ project.title }}</a></h2></figcaption>
 			</figure>
 			{% endfor %}
 		</div>
