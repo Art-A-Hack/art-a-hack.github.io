@@ -50,3 +50,6 @@ DEPENDENCIES
   kramdown
   sass (>= 3.2)
   scss_lint (>= 0.18.0)
+
+BUNDLED WITH
+   1.12.5
