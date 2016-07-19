@@ -1,10 +1,4 @@
 $(document).ready(function() {
-	function init() {
-		enableMenuButton();
-		enableSocialLinks();
-		fixResizableHeights();
-	}
-
 	function enableMenuButton() {
 		var menuOverlaid = false;
 
@@ -43,6 +37,12 @@ $(document).ready(function() {
 				$(this).css('height', $(this).height() + 'px');
 			});
 		}
+	}
+
+	function init() {
+		enableMenuButton();
+		enableSocialLinks();
+		fixResizableHeights();
 	}
 
 	init();
