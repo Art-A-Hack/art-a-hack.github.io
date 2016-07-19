@@ -20,6 +20,16 @@ layout: default
             </li>
           </ul>
         </div>
+        <ul class="members">
+          {% for member in page.members %}
+          {% assign alum = site.alumni | where:"title", member.name | first %}
+          <figure>
+            <img src="/images/alumni/{{ alum.year }}/{{ alum.photo }}" />
+            <figcaption><h2>{{ alum.title }}</h2></figcaption>
+            <p>{{ alum.occupation }}</p>
+          </figure>
+          {% endfor %}
+        </ul>
       </header>
       <div class="post-content">
         {{ content }}

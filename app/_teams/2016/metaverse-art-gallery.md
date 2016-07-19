@@ -6,6 +6,13 @@ year      : 2016
 
 title       : Metaverse Art Gallery
 photo       : "metaverse.jpg"
+
+members:
+ - name     : "Samuel Arsenault-Brassard"
+ - name     : "Madhu Sivaramakrishnan"
+ - name     : "Ace Ji"
+ - name     : "Marie Patterson"
+ - name     : "Rachel Stevens"
 ---
 
 The Metaverse Art Gallery team pellentesque at eros aliquet, venenatis dui et, placerat odio. Ut placerat nisl fermentum, luctus lectus non, vestibulum lectus. In dui ante, feugiat id metus ac, maximus mollis lorem. Nulla nec cursus ante. Proin at lorem vitae mauris pellentesque auctor vel ac felis.
