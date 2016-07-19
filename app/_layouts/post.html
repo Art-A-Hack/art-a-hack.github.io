@@ -29,10 +29,10 @@ layout: default
     
     <ul id="paging" class="cta">
       {% if page.previous %}
-      <li><a href="{{ page.previous.url }}">Previous post</a></li>
+      <li><a href="{{ page.previous.url }}" class="previous">Previous post</a></li>
       {% endif %}
       {% if page.next %}
-      <li><a href="{{ page.next.url }}">Next post</a></li>
+      <li><a href="{{ page.next.url }}" class="next">Next post</a></li>
       {% endif %}
     </ul>
   </main>

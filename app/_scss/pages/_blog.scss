@@ -97,6 +97,20 @@
 		article, #paging {
 			margin-left: 28%;
 		}
+
+		#paging a.previous::before {
+			content: '<';
+			position: relative;
+			left: -0.3em;
+			top: -0.07em;
+		}
+
+		#paging a.next::after {
+			content: '>';
+			position: relative;
+			left: 0.3em;
+			top: -0.07em;
+		}
 	}
 }
 
