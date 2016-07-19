@@ -1,5 +1,5 @@
 ---
-layout    : default
+layout    : project
 bodyid    : "projects"
 bodyclass : "content"
 year      : 2016
