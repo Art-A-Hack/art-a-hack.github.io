@@ -1,14 +1,14 @@
 ---
 layout    : team
 bodyid    : "teams"
-bodyclass : "content"
+bodyclass : "content post"
 year      : 2016
 
 title       : Metaverse Art Gallery
 photo       : "metaverse.jpg"
 ---
 
-<figure>
+<figure class="video">
 	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
 </figure>
 
