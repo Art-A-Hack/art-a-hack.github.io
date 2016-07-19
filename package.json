@@ -24,7 +24,7 @@
     "grunt-filerev": "*",
     "grunt-jekyll": "*",
     "grunt-svgmin": "*",
-    "grunt-usemin": "*",
+    "grunt-usemin": "=3.0.0",
     "jshint-stylish": "*",
     "load-grunt-tasks": "*",
     "time-grunt": "*"
