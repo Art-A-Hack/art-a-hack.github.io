@@ -5,9 +5,9 @@ layout: default
   <main class="left">
     <article role="article" itemscope itemtype="http://schema.org/BlogPosting">
       <header>
-        <h1>{{ page.title }}</h1>
+        <h1>Team Profile: "{{ page.title }}"</h1>
+        <p>Art-A-Hack Summer {{ page.year }}</p>
         <div class="widgets">
-          <time itemprop="dateCreated" datetime="{{ page.year }}">Summer {{ page.year }}</time>
           <ul class="social">
             <li>
               <a href="http://twitter.com/share?text={{ page.title | uri_escape }}&amp;url=http://{{ site.name }}{{ page.url | uri_escape }}&amp;via=art_a_hack"><i class="fa fa-twitter-square"></i></a>

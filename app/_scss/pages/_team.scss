@@ -4,12 +4,36 @@
 		width: 100%;
 		background-color: rgba(51, 51, 51, 0.08);
 
-		ul {
+		ul.alumni {
+			padding-top: 9em;
+			padding-bottom: 3em;
 			list-style-type: none;
 		}
 
 		figure {
 			width: 13.5em;
 		}
+
+		div {
+			width: 13.5em;
+			text-align: center;
+
+			h1 {
+				font-size: 1.4em;
+				font-weight: normal;
+			}
+		}
+
+		h2 {
+			font-size: 1.3rem;
+		}
+
+		p {
+			font-size: 1.1rem;
+		}
 	}
+}
+
+#teams.post main article header .widgets ul.social {
+	padding-top: 0.25em;
 }
