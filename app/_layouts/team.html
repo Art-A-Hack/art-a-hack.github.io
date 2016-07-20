@@ -34,15 +34,9 @@ layout: default
     <ul class="alumni">
       {% for member in page.members %}
       {% assign alum = site.alumni | where:"title", member.name | first %}
-      <li>
-        <figure>
-          <img src="/images/alumni/{{ alum.year }}/{{ alum.photo }}" />
-          <figcaption>
-            <h2>{{ alum.title }}</h2>
-            <p>{{ alum.occupation }}</p>
-          </figcaption>
-        </figure>
-      </li>
+        <li>
+          {% include alum.html alum=alum %}
+        </li>
       {% endfor %}
     </ul>
   </section>
