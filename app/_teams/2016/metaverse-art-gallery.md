@@ -9,9 +9,9 @@ photo       : "metaverse.jpg"
 
 members:
  - name     : "Samuel Arsenault-Brassard"
- - name     : "Madhu Sivaramakrishnan"
  - name     : "Ace Ji"
  - name     : "Marie Patterson"
+ - name     : "Madhu Sivaramakrishnan"
  - name     : "Rachel Stevens"
 ---
 
