@@ -20,16 +20,6 @@ layout: default
             </li>
           </ul>
         </div>
-        <div class="grid">
-          {% for member in page.members %}
-          {% assign alum = site.alumni | where:"title", member.name | first %}
-          <figure>
-            <img src="/images/alumni/{{ alum.year }}/{{ alum.photo }}" />
-            <figcaption><h2>{{ alum.title }}</h2></figcaption>
-            <p>{{ alum.occupation }}</p>
-          </figure>
-          {% endfor %}
-        </div>
       </header>
       <div class="post-content">
         {{ content }}
@@ -40,7 +30,20 @@ layout: default
       <li><a href="/teams/" class="previous">All teams</a></li>
     </ul>
   </main>
-  <section id="image" class="right">
-    <figure></figure>
+  <section id="members" class="right">
+    <ul class="alumni">
+      {% for member in page.members %}
+      {% assign alum = site.alumni | where:"title", member.name | first %}
+      <li>
+        <figure>
+          <img src="/images/alumni/{{ alum.year }}/{{ alum.photo }}" />
+          <figcaption>
+            <h2>{{ alum.title }}</h2>
+            <p>{{ alum.occupation }}</p>
+          </figcaption>
+        </figure>
+      </li>
+      {% endfor %}
+    </ul>
   </section>
 </div>

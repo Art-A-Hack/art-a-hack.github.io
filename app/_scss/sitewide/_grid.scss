@@ -15,7 +15,9 @@
 	text-align: justify;
 	position: relative; left: -0.5em;
 	width: 100%;
+}
 
+.alumni {
 	figure {
 		display: inline-block;
 		width: 17.5%;
@@ -28,18 +30,18 @@
 		padding: 0;
 
 		h2 {
-			margin: 0.5em 0 0 0;
-			font-size: 1.4em;
+			margin: 0.5rem 0 0 0;
+			font-size: 1.4rem;
 		}
 	}
 
 	p {
-		font-size: 1.15em;
-		padding: 0.6em 0 0.3em 0;
+		font-size: 1.15rem;
+		padding: 0.6rem 0 0.3rem 0;
 	}
 
 	img {
-		border-radius: 5em;
+		border-radius: 5rem;
 	}
 
 	img, figcaption, p, ul {
@@ -51,21 +53,21 @@
 		list-style: none;
 		list-style-type: none;
 		display: inline-block;
-		padding: 0.5em 0;
+		padding: 0.5rem 0;
 
 		li {
 			display: inline-block;
-			margin: 0 0.3em;
+			margin: 0 0.3rem;
 
 			i {
-				font-size: 1.6em;
+				font-size: 1.6rem;
 			}
 		}
 	}
 }
 
 @media (max-width: 1299px) {
-	.grid {
+	.alumni {
 		img {
 			border-radius: 4em;
 		}
@@ -73,7 +75,7 @@
 }
 
 @media (max-width: 1099px) {
-	.grid {
+	.alumni {
 		figure {
 			width: 18.3%;
 			margin: 1.5% 3.15% 5% 3.15%;
@@ -82,7 +84,7 @@
 }
 
 @media (max-width: 1019px) {
-	.grid {
+	.alumni {
 		figure {
 			width: 23%;
 			margin: 1.5% 4.95% 5% 4.95%;
@@ -91,7 +93,7 @@
 }
 
 @media (max-width: 789px) {
-	.grid {
+	.alumni {
 		text-align: center;
 
 		figure {
@@ -102,16 +104,16 @@
 }
 
 @media (max-width: 559px) {
-	.grid {
+	.alumni {
 		figure {
 			width: 60%;
-			margin: 0 auto 4.3em auto;
+			margin: 0 auto 4.3rem auto;
 		}
 	}
 }
 
 @media (max-width: 509px) {
-	.grid {
+	.alumni {
 		figure {
 			width: 70%;
 		}
