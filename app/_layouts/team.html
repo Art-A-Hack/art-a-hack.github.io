@@ -20,7 +20,7 @@ layout: default
             </li>
           </ul>
         </div>
-        <ul class="members">
+        <div class="grid">
           {% for member in page.members %}
           {% assign alum = site.alumni | where:"title", member.name | first %}
           <figure>
@@ -29,7 +29,7 @@ layout: default
             <p>{{ alum.occupation }}</p>
           </figure>
           {% endfor %}
-        </ul>
+        </div>
       </header>
       <div class="post-content">
         {{ content }}
