@@ -10,7 +10,7 @@ bodyclass : "content grid-page grid-container"
 		<div class="grid">
 			{% for team in site.teams %}
 			<figure>
-				<img src="/images/teams/{{ team.year }}/{{ team.photo }}" />
+				<img src="/images/teams/{{ team.year }}/{{ team.teamid }}/{{ team.teamid }}.jpg" />
 				<figcaption><h2><a href="{{ team.url }}">{{ team.title }}</a></h2></figcaption>
 			</figure>
 			{% endfor %}
