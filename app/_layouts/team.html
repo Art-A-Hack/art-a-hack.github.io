@@ -30,7 +30,7 @@ layout: default
       <li><a href="/teams/" class="previous">All teams</a></li>
     </ul>
   </main>
-  <section id="members" class="right">
+  <section id="members" class="right grid-container">
     <ul class="alumni">
       {% for member in page.members %}
       {% assign alum = site.alumni | where:"title", member.name | first %}
