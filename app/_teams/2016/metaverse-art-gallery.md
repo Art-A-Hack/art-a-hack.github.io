@@ -17,7 +17,7 @@ members:
 
 The Metaverse Art Gallery team built an art curation platform for the metaverse. The [metaverse](https://en.wikipedia.org/wiki/Metaverse) is social, virtual space on the internet, occupied by visitors using Virtual Reality and 3D applications around the world.
 
-<figure class="video ratio-54">
+<figure class="video ratio-54 with-caption">
 	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
 	<figcaption>[[This will be replaced with the correct video]]</figcaption>
 </figure>
