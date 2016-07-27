@@ -58,7 +58,6 @@ By splitting the work on this project between artwork and software and doing pap
 The Echoing Ego team is an interactive project with many moving parts like music, text and visuals. By the end of the day they were able to show examples of interactive sketches working with sound. The project let’s people experience stripping away your ego as you perform tasks in the ‘game’, as the user completes these tasks they will be rewarded with poems.
 
 {% slider 4:3 %}
-  ![Art-A-Hack](/images/blog/2016/IMG_1427.jpg)
   ![Art-A-Hack](/images/blog/2016/IMG_1435.jpg)
   ![Art-A-Hack](/images/blog/2016/IMG_1437.jpg)
   ![Art-A-Hack](/images/blog/2016/IMG_1454.jpg)
