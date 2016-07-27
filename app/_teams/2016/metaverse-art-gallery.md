@@ -17,11 +17,6 @@ members:
 
 The Metaverse Art Gallery team built an art curation platform for the metaverse. The [metaverse](https://en.wikipedia.org/wiki/Metaverse) is social, virtual space on the internet, occupied by visitors using Virtual Reality and 3D applications around the world.
 
-<figure class="video ratio-54 with-caption">
-	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
-	<figcaption>[[This will be replaced with the correct video]]</figcaption>
-</figure>
-
 The team's goal was to allow artists, galleries and curators to import 3D art into the metaverse without requiring technical skills. This would allow the metaverse to be used for speculative art shows in virtual-reality spaces.
 
 <figure>
@@ -47,4 +42,9 @@ The team found themselves learning the AltspaceVR development platform, as well 
 	<figcaption>A working prototype in AltSpaceVR</figcaption>
 </figure>
 
-The prototype developed was demonstrated for vistors at the Final Presentations in July 2016. The prototype is a work-in-progress, and the intention is to develop it further. 
+The prototype developed was demonstrated for vistors at the Final Presentations in July 2016. The prototype is a work-in-progress, and the intention is to develop it further in the coming months toward the goal of making it accessible to gallerists and curators. 
+
+<figure class="video ratio-54 with-caption">
+	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
+	<figcaption>[[This will be replaced with the correct video]]</figcaption>
+</figure>
