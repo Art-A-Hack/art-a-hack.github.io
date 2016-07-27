@@ -14,9 +14,11 @@ At the halfway point of Art-A-Hack teams reach a critical point where they itera
   ![Sonic Equations](/images/blog/2016/IMG_1397.jpg)
 {% endslider %}
 
+‘Sonic Equations’ initial idea was to explore the frustrations around not being able to communicate clearly. After talking through ideas and influences they decided to create a physical installation and knew a game-like experience would be a good way engage people.
+
 <!--excerpt-ends-->
 
-‘Sonic Equations’ initial idea was to explore the frustrations around not being able to communicate clearly. After talking through ideas and influences they decided to create a physical installation and knew a game-like experience would be a good way engage people. Because game-making is new to the members of this team, Chris brought in a colleague, Sarah, to help them turn concepts into physical, playable interactions.
+Because game-making is new to the members of this team, Chris brought in a colleague, Sarah, to help them turn concepts into physical, playable interactions.
 
 They have narrowed their focus on a ‘telephone game’ like mechanic and are now playing around with how much information needs to get through to understand what someone is saying vs. how much sound needs to be lost to make you frustrated.
 
@@ -43,7 +45,9 @@ The Metaverse Art team came into ArtAHack with an idea too large to build only d
   ![Superficial Substantive](/images/blog/2016/IMG_1493.jpg)
 {% endslider %}
 
-Last week, the team behind Superficial Substantive revised their initial idea to develop a new concept. They are now creating a satirical ‘app for social good’ to highlight the disconnect between audiences with access to technology who are ‘using’ apps and the community those apps support. By splitting the work on this project between artwork and software and doing paper prototyping this team was able to develop a playable demo by the end of the day.
+Last week, the team behind Superficial Substantive revised their initial idea to develop a new concept. They are now creating a satirical ‘app for social good’ to highlight the disconnect between audiences with access to technology who are ‘using’ apps and the community those apps support.
+
+By splitting the work on this project between artwork and software and doing paper prototyping this team was able to develop a playable demo by the end of the day.
 
 {% slider 4:3 %}
   ![Echoing Ego](/images/blog/2016/IMG_1419.jpg)
