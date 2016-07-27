@@ -68,7 +68,7 @@ module Jekyll
         slider_script += "height:#{@slider_height}"
         slider_script += "});"
         slider_script += "slider.addCaptions();" if @slider_captions
-        slider_script += "slider.start();"
+        #slider_script += "slider.start();"
         slider_script += "</script>"
         slider_array = context.environments.first['site']['slider_array']
         slider_array << slider_script
