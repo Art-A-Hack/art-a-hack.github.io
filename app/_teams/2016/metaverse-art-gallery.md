@@ -42,7 +42,7 @@ Challenges the team faced included learning the AltspaceVR development platform,
 	<figcaption>A working prototype in AltSpaceVR</figcaption>
 </figure>
 
-The prototype developed was demonstrated for vistors at the Final Presentations in July 2016. The prototype is a work-in-progress, and the intention is to develop it further in the coming months toward the goal of making it accessible to gallerists and curators. 
+The prototype developed was demonstrated for visitors at the Final Presentations in July 2016. The prototype is a work-in-progress, and the intention is to develop it further in the coming months toward the goal of making it accessible to gallerists and curators. 
 
 <figure class="video ratio-54 with-caption">
 	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
