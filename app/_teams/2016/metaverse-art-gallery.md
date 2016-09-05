@@ -42,9 +42,11 @@ Challenges the team faced included learning the AltspaceVR development platform,
 	<figcaption>A working prototype in AltSpaceVR</figcaption>
 </figure>
 
-The prototype developed was demonstrated for visitors at the Final Presentations in July 2016. The prototype is a work-in-progress, and the intention is to develop it further in the coming months toward the goal of making it accessible to gallerists and curators. 
+The prototype developed was demonstrated for visitors at the Final Presentations in July 2016. The prototype is a work-in-progress, and the intention is to develop it further toward the goal of making it accessible to gallerists and curators.
 
 <figure class="video ratio-54 with-caption">
 	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
 	<figcaption>[[This will be replaced with the correct video]]</figcaption>
 </figure>
+
+As of August 2016 the project is being supported by the Altspace Developer Initiative. The grant will allow Samuel to work alongside a developer towards the project, now titled “Cultvr.Space”. Progress and updates will be available on the project’s [new site](http://cultvr.space/). 
