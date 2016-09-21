@@ -49,4 +49,4 @@ The prototype developed was demonstrated for visitors at the Final Presentations
 	<figcaption>[[This will be replaced with the correct video]]</figcaption>
 </figure>
 
-As of August 2016 the project is being supported by the Altspace Developer Initiative. The grant will allow Samuel to work alongside a developer towards the project, now titled “Cultvr.Space”. Progress and updates will be available on the project’s [new site](http://cultvr.space/). 
+As of August 2016 the project is being supported by the Altspace Developer Initiative. The grant will allow team lead Samuel Arsenault-­Brassard to work alongside a developer towards the project, now titled “Cultvr.Space”. Progress and updates will be available on the project’s [new site](http://cultvr.space/). 
