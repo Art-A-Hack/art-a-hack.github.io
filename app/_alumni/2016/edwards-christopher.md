@@ -4,7 +4,7 @@ bodyid    : "alumni"
 bodyclass : "content"
 year      : 2016
 
-title       : Christopher Taylor Edwards
+title       : Christopher Edwards
 photo       : "christopher.jpg"
 occupation  : "Experience Designer, Artist"
 
