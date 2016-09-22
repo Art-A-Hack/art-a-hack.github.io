@@ -14,7 +14,7 @@ members:
  - name     : "Linda Raftree"
 ---
 
-Why do so many well-intentioned Western efforts to solve African crises fail? It’s because organizers often have superficial understandings deep problems.
+Why do so many well-intentioned Western efforts to solve African crises fail? It’s because organizers often have superficial understandings of deep problems.
 
 That’s the view explored by the “Superficial / Substantive” team during the Art-A-Hack 2016 season. On the team were two [tech for development](https://en.wikipedia.org/wiki/Information_and_communication_technologies_for_development) experts, Mala Kumar and Linda Raftree, alongside creative technologists Allie Quintano and Leonardo Malave.
 
@@ -32,16 +32,18 @@ The team contend that while those organizations have superficial understandings 
 	<figcaption>Screens from the mobile app</figcaption>
 </figure>
 
-To explore these ideas, the team created a mobile app and VR experience. The app is a satirical take on the way superficial technologically-driven initiatives are structured. The app highlights the way focus is often heavily tilted towards marketing and media, instead of research and understanding of the long-term situation on the ground.
+To explore these ideas, the team created a mobile app prototype and VR experience. The app is a satirical take on the way superficial technologically-driven initiatives are structured.
 
-The VR experience places users in a scene from the other side of the equation. Users are positioned next to a water fountain, with shipments of supplies coming in left, right and center. They are then tasked with getting the fountain to produce water, by installing parts from the supply shipments.
+The app highlights the way focus is often heavily tilted towards marketing and media, instead of research and understanding of the long-term situation on the ground, and the potential for a technological solution to actually contribute to resolving a problem.
+
+The VR experience places users in a scene from the other side of the equation. They are positioned next to a water pump, with shipments of supplies coming in left, right and center. They are then tasked with getting the pump to produce water, by installing parts from the supply shipments.
 
 <figure>
 	<img src="/images/teams/2016/superficial-substantive/unity-application.gif" alt="A screen capture from the VR experience" />
 	<figcaption>A screen capture from the VR experience</figcaption>
 </figure>
 
-The supplies are a mixture of essential components, and useless components sent based on the misconceptions of the marketing campaign and app users funding the initiative. Ultimately, the task of producing water is so prohibitively time-consuming that it negates the original intentions behind the initiative — to provide access to clean water.
+The supplies are a mixture of essential components, and useless components sent based on the misconceptions of the marketing campaign and app users funding the initiative. Ultimately, the task of producing water is so prohibitively time-consuming and haphazard that it negates the original intentions behind the initiative — to provide access to clean water.
 
 The VR application was created using [HTC Vive](http://www.vive.com/), [Unity](https://unity3d.com/), custom C# code and the [Newton VR](http://www.vrinflux.com/newton-vr-physics-based-interaction-on-the-vive/) physics engine. The team created the application using hardware in the [ThoughtWorks VR lab](https://thoughtworksarts.io/blog/inside-our-brand-new-hack-lab/).
 
