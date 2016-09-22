@@ -6,6 +6,7 @@ year      : 2016
 
 title       : Dual Brains
 teamid      : "dual-brains"
+teaser		: "Visualizing empathy with brain-computer interface"
 
 members:
  - name     : "Eva Lee"

@@ -6,6 +6,7 @@ year      : 2016
 
 title       : Echoing Ego
 teamid      : "echoing-ego"
+teaser		: "Exploring the concept of ego"
 
 members:
  - name     : "Mariya Mishurenko"

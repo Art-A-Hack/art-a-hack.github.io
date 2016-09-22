@@ -6,6 +6,7 @@ year      : 2016
 
 title       : Superficial / Substantive
 teamid      : "superficial-substantive"
+teaser		: "Solving all the wrong problems with VR"
 
 members:
  - name     : "Mala Kumar"

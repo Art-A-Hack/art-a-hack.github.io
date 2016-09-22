@@ -6,6 +6,7 @@ year      : 2016
 
 title       : Kinect VR
 teamid      : "kinect-vr"
+teaser		: "Full-body room-scale mobile VR"
 
 members:
  - name     : "Filip Baba"

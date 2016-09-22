@@ -6,6 +6,7 @@ year      : 2016
 
 title       : Afro Futuristic Carnival
 teamid      : "afro-futuristic-carnival"
+teaser		: "An interactive Afro-Cuban VR experience"
 
 members:
  - name     : "Sharon De La Cruz"

@@ -6,6 +6,7 @@ year      : 2016
 
 title       : Metaverse Art Gallery
 teamid      : "metaverse-art-gallery"
+teaser		: "An art curation platform for the metaverse"
 
 members:
  - name     : "Samuel Arsenault-Brassard"
