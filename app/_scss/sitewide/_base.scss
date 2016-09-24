@@ -16,8 +16,8 @@ html, body {
 	line-height: $small_lineheight;
 }
 
-a {
-	transition: color 0.12s;
+a, i {
+	transition: all 0.12s;
 }
 
 a:link, a:visited {
@@ -70,7 +70,7 @@ figure {
 	}
 }
 
-time {
+.when {
 	font-size: 1em;
 	padding-top: 0.15em;
 }
@@ -97,30 +97,45 @@ figure.video {
 	width: 100%; height: 0;
 	padding-bottom: 57%;
 
+	figcaption {
+		text-align: center;
+		position: absolute;
+		top: 105%;
+		width: 100%;
+	}
+
 	>iframe {
 		position: absolute; top: 0; left: 0;
 		width: 100%; height: 100%;
 	}
+}
 
-	.ratio-55 {
-		padding-bottom: 55.25%;
-	}
+figure.with-caption {
+	margin-bottom: 4.5em !important;
+}
 
-	.ratio-56 {
-		padding-bottom: 56.25%;
-	}
+figure.video.ratio-54 {
+	padding-bottom: 54.8%;
+}
 
-	.ratio-59 {
-		padding-bottom: 59.65%;
-	}
+figure.video.ratio-55 {
+	padding-bottom: 55.25%;
+}
 
-	.ratio-71 {
-		padding-bottom: 71.15%;
-	}
+figure.video.ratio-56 {
+	padding-bottom: 56.25%;
+}
 
-	.ratio-80 {
-		padding-bottom: 80%;
-	}
+figure.video.ratio-59 {
+	padding-bottom: 59.65%;
+}
+
+figure.video.ratio-71 {
+	padding-bottom: 71.15%;
+}
+
+figure.video.ratio-80 {
+	padding-bottom: 80%;
 }
 
 .center {
@@ -223,7 +238,7 @@ ul.cta li, ol.cta li {
 		font-size: 1.6em;
 	}
 
-	time {
+	.when {
 		font-size: 0.95em;
 		padding-top: 0.2em;
 	}
@@ -250,9 +265,9 @@ ul.cta li, ol.cta li {
 		font-size: 1.5em;
 	}
 
-	time {
+	.when {
 		font-size: 0.88em;
-		padding-top: 0.3em;
+		padding: 0.3em 0 0 0;
 	}
 }
 

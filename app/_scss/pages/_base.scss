@@ -35,7 +35,7 @@
 			flex: 0 0 auto;
 		}
 
-		.right {
+		#image.right {
 			flex: 1 1 auto;
 			position: relative;
 
@@ -89,7 +89,7 @@
 				width: 59%;
 			}
 
-			.right figure {
+			#image.right figure {
 				background: linear-gradient(rgba(201, 201, 201, 0.3), rgba(201, 201, 201, 0.3)), url('/images/full-bleed/artahack-400.jpg');
 				background-size: 100% auto;
 			}
@@ -110,7 +110,7 @@
 				padding-right: 5%;
 			}
 
-			.right {
+			#image.right {
 				display: none;
 			}
 		}

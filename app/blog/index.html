@@ -11,7 +11,7 @@ bodyclass : "content post"
 			<header>
 				<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 				<div class="widgets">
-					<time itemprop="dateCreated" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%A %-d %B %Y" }}</time>
+					<time class="when" itemprop="dateCreated" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%A %-d %B %Y" }}</time>
 					<ul class="social">
 						<li>
 							<a href="http://twitter.com/share?text={{ post.title | uri_escape }}&amp;url=http://{{ site.name }}{{ post.url | uri_escape }}&amp;via=art_a_hack"><i class="fa fa-twitter-square"></i></a>
@@ -36,13 +36,13 @@ bodyclass : "content post"
 		<ul id="paging" class="cta">
 			{% if paginator.previous_page %}
 				{% if paginator.previous_page == 1 %}
-					<li><a href="/blog/">Previous page</a></li>
+					<li><a href="/blog/" class="previous">Previous page</a></li>
 				{% else %}
-					<li><a href="/blog/page{{ paginator.previous_page }}/">Previous page</a></li>
+					<li><a href="/blog/page{{ paginator.previous_page }}/" class="previous">Previous page</a></li>
 				{% endif %}
 			{% endif %}
 			{% if paginator.next_page %}
-				<li><a href="/blog/page{{ paginator.next_page }}/">Next page</a></li>
+				<li><a href="/blog/page{{ paginator.next_page }}/" class="next">Next page</a></li>
 			{% endif %}
 		</ul>
 	</main>

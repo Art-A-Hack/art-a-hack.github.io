@@ -3,29 +3,18 @@ layout    : default
 title     : Alumni - Art-A-Hack
 header    : Who do we have here?
 bodyid    : "alumni"
-bodyclass : "content"
+bodyclass : "content grid-page"
 ---
 <main>
-	<article role="article">
+	<article role="article" class="grid-container">
 		<h1>Art-A-Hack&#8482; 2016</h1>
-		<div class="grid">
+		<div class="grid alumni">
 			{% for alum in site.alumni %}
-			<figure>
-				<img src="/images/alumni/{{ alum.year }}/{{ alum.photo }}" />
-				<figcaption><h2>{{ alum.title }}</h2></figcaption>
-				<p>{{ alum.occupation }}</p>
-				<ul class="links">
-					{% for link in alum.links %}
-					{% if link.url != "" %}
-					<li><a href="{{ link.url }}"><i class="fa {{ link.icon }}"></i></a></li>
-					{% endif %}
-					{% endfor %}
-				</ul>
-			</figure>
+				{% include alum.html alum=alum %}
 			{% endfor %}
 		</div>
 		<h1>Art-A-Hack&#8482; 2015</h1>
-		<div class="grid">
+		<div class="grid alumni">
 			<figure>
 				<img src="/images/alumni/2014/annie.jpg" />
 				<figcaption><h2>Annie Berman</h2></figcaption>
@@ -258,7 +247,7 @@ bodyclass : "content"
 			</figure>
 		</div>
 		<h1>Art-A-Hack&#8482; 2014</h1>
-		<div class="grid">
+		<div class="grid alumni">
 			<figure>
 				<img src="/images/alumni/2014/rena.jpg" />
 				<figcaption><h2>Rena Anakwe</h2></figcaption>
