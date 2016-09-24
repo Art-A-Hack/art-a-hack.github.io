@@ -12,11 +12,11 @@ bodyclass : "content grid-page"
 			<figure>
 				<a href="{{ team.url }}">
 					<img src="/images/teams/{{ team.year }}/{{ team.teamid }}/{{ team.teamid }}.jpg" />
+					<figcaption>
+						<h2>{{ team.title }}</h2>
+					</figcaption>
 				</a>
-				<figcaption>
-					<h2><a href="{{ team.url }}">{{ team.title }}</a></h2>
-					<p>{{ team.teaser }}</p>
-				</figcaption>
+				<p>{{ team.teaser }}</p>
 			</figure>
 			{% endfor %}
 		</div>
