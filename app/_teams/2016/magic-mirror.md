@@ -6,7 +6,7 @@ year      : 2016
 
 title       : Magic Mirror
 teamid      : "magic-mirror"
-teaser		: "Control a crystal with your mind"
+teaser		: "Using your thoughts to control a crystal ball"
 
 members:
  - name     : "Ria Rajan"

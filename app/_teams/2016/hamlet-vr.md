@@ -6,7 +6,7 @@ year      : 2016
 
 title       : Hamlet VR
 teamid      : "hamlet-vr"
-teaser		: "The world's first Shakespeare in VR"
+teaser		: "The world's first Shakespeare play in VR"
 
 members:
  - name     : "Javier Molina"

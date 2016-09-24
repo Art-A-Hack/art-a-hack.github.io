@@ -6,7 +6,7 @@ year      : 2016
 
 title       : Sonic Equations
 teamid      : "sonic-equations"
-teaser		: "Exposing the limits of sonic communication"
+teaser		: "Exploring the limits of sonic communication"
 
 members:
  - name     : "Christopher Edwards"
