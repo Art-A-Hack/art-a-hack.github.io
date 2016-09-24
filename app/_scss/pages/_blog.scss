@@ -26,14 +26,12 @@
 						margin-bottom: 2.8em;
 					}
 
-					a:link, a:visited {
-						opacity: 0.2;
-						filter: alpha(opacity=20);
+					a:link i, a:visited i {
+						color: #c6c6c6;
 					}
 
-					a:hover, a:active {
-						opacity: 0.9;
-						filter: alpha(opacity=90);
+					a:hover i, a:active i {
+						color: #222222;
 					}
 
 					i {

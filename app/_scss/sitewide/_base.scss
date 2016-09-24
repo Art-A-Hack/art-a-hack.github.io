@@ -16,8 +16,8 @@ html, body {
 	line-height: $small_lineheight;
 }
 
-a {
-	transition: color 0.12s;
+a, i {
+	transition: all 0.12s;
 }
 
 a:link, a:visited {
