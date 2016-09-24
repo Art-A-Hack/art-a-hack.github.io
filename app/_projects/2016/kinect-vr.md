@@ -1,11 +1,11 @@
 ---
-layout    : team
-bodyid    : "teams"
+layout    : project
+bodyid    : "projects"
 bodyclass : "content post"
 year      : 2016
 
 title       : Kinect VR
-teamid      : "kinect-vr"
+projectid      : "kinect-vr"
 teaser		: "Mobile VR just became full-body at room-scale"
 
 members:
@@ -29,7 +29,7 @@ This approach to body tracking allows participants to feel totally immersed in t
 The project was based on the existing [KinectVR](http://kinectvr.com/) open-source [Unity](https://unity3d.com/) plugin, which allows access to the depth and body-tracking features of a [Microsoft Kinect](https://developer.microsoft.com/en-us/windows/kinect).
 
 <figure>
-	<img src="/images/teams/2016/kinect-vr/explanation.png" alt="How the KinectVR system works" />
+	<img src="/images/projects/2016/kinect-vr/explanation.png" alt="How the KinectVR system works" />
 	<figcaption>How the KinectVR system works</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ This was the largest team in Art-A-Hack 2016, with a total of six team members. 
 During the final Art-A-Hack showcase, players trying out the demo were able to navigate around the different worlds freely, and discover the properties of each.
 
 <figure>
-	<img src="/images/teams/2016/kinect-vr/team.jpg" alt="The Kinect VR team at the final Art-A-Hack showcase" />
+	<img src="/images/projects/2016/kinect-vr/team.jpg" alt="The Kinect VR team at the final Art-A-Hack showcase" />
 	<figcaption>The Kinect VR team at the final Art-A-Hack showcase</figcaption>
 </figure>
 

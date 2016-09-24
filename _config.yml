@@ -52,6 +52,6 @@ collections:
   alumni:
     output: false
     permalink: /alumni/:title/
-  teams:
+  projects:
     output: true
-    permalink: /teams/:title/
+    permalink: /projects/:title/

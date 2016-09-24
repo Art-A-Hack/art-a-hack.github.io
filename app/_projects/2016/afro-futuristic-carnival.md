@@ -1,11 +1,11 @@
 ---
-layout    : team
-bodyid    : "teams"
+layout    : project
+bodyid    : "projects"
 bodyclass : "content post"
 year      : 2016
 
 title       : Afro Futuristic Carnival
-teamid      : "afro-futuristic-carnival"
+projectid      : "afro-futuristic-carnival"
 teaser		: "Meet the Goddess Yermaya in virtual reality"
 
 members:
@@ -19,7 +19,7 @@ members:
 The Afro Futuristic Carnival team used created an interactive virtual reality experience, exploring the Afro Cuban religion of Santeria. In the VR experience, audience members see the graceful dancing of the Goddess Yermaya.
 
 <figure>
-	<img src="/images/teams/2016/afro-futuristic-carnival/screencapture.jpg" alt="Animation of Goddess Yermaya dancing" />
+	<img src="/images/projects/2016/afro-futuristic-carnival/screencapture.jpg" alt="Animation of Goddess Yermaya dancing" />
 	<figcaption>Animation of Goddess Yermaya dancing</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ The team created an initial prototype of this experience during Art-A-Hack 2016.
 To capture the smooth movements of dancer Debbie Dias for the Goddess Yermaya avatar, the team used the Mocap studio at the [NYU Tandon School of Engineering](http://engineering.nyu.edu/academics/programs/integrated-digital-media-ms). The school partnered with Art-A-Hack for the 2016 season of projects.
 
 <figure>
-	<img src="/images/teams/2016/afro-futuristic-carnival/team.jpg" alt="The team working with partners at NYU Tandon" />
+	<img src="/images/projects/2016/afro-futuristic-carnival/team.jpg" alt="The team working with partners at NYU Tandon" />
 	<figcaption>The team working with partners at NYU Tandon</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ One of the unique challenges faced by the team was developing a consistent narra
 The the team broke down their story elements using the hero’s journey. It proved to be an effective strategy, they learned that narrative does not have to be linear to be cohesive.
 
 <figure>
-	<img src="/images/teams/2016/afro-futuristic-carnival/debbie-deas.jpg" alt="Debbie Deas in the motion capture studio" />
+	<img src="/images/projects/2016/afro-futuristic-carnival/debbie-deas.jpg" alt="Debbie Deas in the motion capture studio" />
 	<figcaption>Debbie Deas in the motion capture studio</figcaption>
 </figure>
 

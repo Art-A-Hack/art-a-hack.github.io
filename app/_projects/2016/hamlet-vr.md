@@ -1,11 +1,11 @@
 ---
-layout    : team
-bodyid    : "teams"
+layout    : project
+bodyid    : "projects"
 bodyclass : "content post"
 year      : 2016
 
 title       : Hamlet VR
-teamid      : "hamlet-vr"
+projectid      : "hamlet-vr"
 teaser		: "The world's first Shakespeare play in VR"
 
 members:
@@ -18,7 +18,7 @@ members:
 Once inside the VR theatre, audiences walk the battlements of Elsinore Castle with Hamlet as he confronts the ghost of his murdered father. What makes this project unique is that it is performed live with an actor in the virtual space so both the participant and actor are aware of each other’s presence. 
 
 <figure>
-	<img src="/images/teams/2016/hamlet-vr/mocap.jpg" alt="Using the motion capture studio at NYU Tandon" />
+	<img src="/images/projects/2016/hamlet-vr/mocap.jpg" alt="Using the motion capture studio at NYU Tandon" />
 	<figcaption>Using the motion capture studio at NYU Tandon</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ During Art-A-Hack 2016, the Hamlet VR team created an initial prototype of what 
 The team’s largest challenge was learning how to translate a classic theater experience into virtual reality, which has a new set of dynamics to consider. Another major concern was working out how to make the Mocap environment work within the constrained “viewing space” of the Vive.
 
 <figure>
-	<img src="/images/teams/2016/hamlet-vr/zhen-liu.jpg" alt="Zhen Liu working on the prototype for the Art-A-Hack showcase" />
+	<img src="/images/projects/2016/hamlet-vr/zhen-liu.jpg" alt="Zhen Liu working on the prototype for the Art-A-Hack showcase" />
 	<figcaption>Zhen Liu working on the prototype for the Art-A-Hack showcase</figcaption>
 </figure>
 

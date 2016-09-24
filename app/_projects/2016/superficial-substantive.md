@@ -1,11 +1,11 @@
 ---
-layout    : team
-bodyid    : "teams"
+layout    : project
+bodyid    : "projects"
 bodyclass : "content post"
 year      : 2016
 
 title       : Superficial / Substantive
-teamid      : "superficial-substantive"
+projectid      : "superficial-substantive"
 teaser		: "Solving all the wrong problems with technology"
 
 members:
@@ -20,7 +20,7 @@ Why do so many well-intentioned Western efforts to solve African crises fail? It
 That’s the view explored by the “Superficial / Substantive” team during the Art-A-Hack 2016 season. On the team were two [tech for development](https://en.wikipedia.org/wiki/Information_and_communication_technologies_for_development) experts, Mala Kumar and Linda Raftree, alongside creative technologists Allie Quintano and Leonardo Malave.
 
 <figure>
-	<img src="/images/teams/2016/superficial-substantive/mala-linda.jpg" alt="Mala Kumar and Linda Raftree" />
+	<img src="/images/projects/2016/superficial-substantive/mala-linda.jpg" alt="Mala Kumar and Linda Raftree" />
 	<figcaption>Mala Kumar and Linda Raftree</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ The team examined how new technologies, like mobile, virtual and augmented reali
 The team contend that while those organizations have superficial understandings of deep problems, organizations like Uber and SnapChat have the reverse: deep understandings of superficial problems.
 
 <figure>
-	<img src="/images/teams/2016/superficial-substantive/pump-it-up.jpg" alt="Screens from the mobile app" />
+	<img src="/images/projects/2016/superficial-substantive/pump-it-up.jpg" alt="Screens from the mobile app" />
 	<figcaption>Screens from the mobile app</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ The app highlights the way focus is often heavily tilted towards marketing and m
 The VR experience places users in a scene from the other side of the equation. They are positioned next to a water pump, with shipments of supplies coming in left, right and center. They are then tasked with getting the pump to produce water, by installing parts from the supply shipments.
 
 <figure>
-	<img src="/images/teams/2016/superficial-substantive/unity-application.gif" alt="A screen capture from the VR experience" />
+	<img src="/images/projects/2016/superficial-substantive/unity-application.gif" alt="A screen capture from the VR experience" />
 	<figcaption>A screen capture from the VR experience</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ The supplies are a mixture of essential components, and useless components sent 
 The VR application was created using [HTC Vive](http://www.vive.com/), [Unity](https://unity3d.com/), custom C# code and the [Newton VR](http://www.vrinflux.com/newton-vr-physics-based-interaction-on-the-vive/) physics engine. The team created the application using hardware in the [ThoughtWorks VR lab](https://thoughtworksarts.io/blog/inside-our-brand-new-hack-lab/).
 
 <figure>
-	<img src="/images/teams/2016/superficial-substantive/allie-leo.jpg" alt="Allie Quintano and Leonardo Malave" />
+	<img src="/images/projects/2016/superficial-substantive/allie-leo.jpg" alt="Allie Quintano and Leonardo Malave" />
 	<figcaption>Allie Quintano and Leonardo Malave</figcaption>
 </figure>
 

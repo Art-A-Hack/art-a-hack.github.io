@@ -1,11 +1,11 @@
 ---
-layout    : team
-bodyid    : "teams"
+layout    : project
+bodyid    : "projects"
 bodyclass : "content post"
 year      : 2016
 
 title       : Echoing Ego
-teamid      : "echoing-ego"
+projectid      : "echoing-ego"
 teaser		: "Interactive performance exploring the concept of ego"
 
 members:
@@ -20,7 +20,7 @@ members:
 What if a person could “virtually dissect” their ego, and discover its components parts?
 
 <figure>
-	<img src="/images/teams/2016/echoing-ego/your-ego.jpg" alt="The team’s performance at the final presentation" />
+	<img src="/images/projects/2016/echoing-ego/your-ego.jpg" alt="The team’s performance at the final presentation" />
 	<figcaption>The team’s performance at the final presentation</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ This was the question asked by the “Echoing Ego” team, leading to the creati
 Each team member contributed something unique to the process, and the team worked hard trying to incorporate all the contributions into a seamless whole.
 
 <figure>
-	<img src="/images/teams/2016/echoing-ego/team.jpg" alt="The team working together on the project" />
+	<img src="/images/projects/2016/echoing-ego/team.jpg" alt="The team working together on the project" />
 	<figcaption>The team working together on the project</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Gordey Chernyy wrote visual code in [paper.js](http://paperjs.org/), helped by A
 Enki Andrews worked on interaction design, while Mariya Mishurenko coordinated and created the beautiful illustrations used in the interactive projections.
 
 <figure>
-	<img src="/images/teams/2016/echoing-ego/emotions.png" alt="A sketch of a character used in the performance" />
+	<img src="/images/projects/2016/echoing-ego/emotions.png" alt="A sketch of a character used in the performance" />
 	<figcaption>A sketch of a character used in the performance</figcaption>
 </figure>
 

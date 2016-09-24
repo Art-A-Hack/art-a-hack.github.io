@@ -1,11 +1,11 @@
 ---
-layout    : team
-bodyid    : "teams"
+layout    : project
+bodyid    : "projects"
 bodyclass : "content post"
 year      : 2016
 
 title       : Magic Mirror
-teamid      : "magic-mirror"
+projectid      : "magic-mirror"
 teaser		: "Using your thoughts to control a crystal ball"
 
 members:
@@ -27,7 +27,7 @@ In the initial prototype, the team controlled the lighting environment inside a 
 A crystal was placed in the box with the mirrors, with the moving reflected light becoming a point of focus for the meditative action of the participant.
 
 <figure>
-	<img src="/images/teams/2016/magic-mirror/ria-chris.jpg" alt="Ria and Chris soldering components" />
+	<img src="/images/projects/2016/magic-mirror/ria-chris.jpg" alt="Ria and Chris soldering components" />
 	<figcaption>Ria and Chris soldering components</figcaption>
 </figure>
 

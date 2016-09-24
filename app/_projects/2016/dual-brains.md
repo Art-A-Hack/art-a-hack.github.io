@@ -1,11 +1,11 @@
 ---
-layout    : team
-bodyid    : "teams"
+layout    : project
+bodyid    : "projects"
 bodyclass : "content post"
 year      : 2016
 
 title       : Dual Brains
-teamid      : "dual-brains"
+projectid      : "dual-brains"
 teaser		: "Visualizing empathy with brain-computer interface"
 
 members:
@@ -19,7 +19,7 @@ members:
 The Dual Brains team created a real-time visual performance driven by the brain data of two performers. The team were inspired by recent neuroscientific research indicating human brains are fundamentally hard wired for empathy.
 
 <figure>
-	<img src="/images/teams/2016/dual-brains/performance.jpg" alt="Eval Lee and Aaron Trocola at the live performance" />
+	<img src="/images/projects/2016/dual-brains/performance.jpg" alt="Eval Lee and Aaron Trocola at the live performance" />
 	<figcaption>Eval Lee and Aaron Trocola at the live performance</figcaption>
 </figure>
 
@@ -28,14 +28,14 @@ The goal was to present a creative view of human neural interaction, taking into
 Spectators saw the change in neural state visualized through projections. They also heard the effects on the performer’s bodies, as sounds were created from brain wave activity — both [EEG](https://en.wikipedia.org/wiki/Electroencephalography) and [ECG](https://en.wikipedia.org/wiki/Electrocardiography) data.
 
 <figure>
-	<img src="/images/teams/2016/dual-brains/printed-headsets.jpg" alt="Gabriel Ibagon helps his team-mates try on the 3D-printed headgear" />
+	<img src="/images/projects/2016/dual-brains/printed-headsets.jpg" alt="Gabriel Ibagon helps his team-mates try on the 3D-printed headgear" />
 	<figcaption>Gabriel Ibagon helps his team-mates try on the 3D-printed headgear</figcaption>
 </figure>
 
 The team created their prototype using the open source brain-computer interfacing toolkit, OpenBCI. Data from the [OpenBCI](http://openbci.com/) headsets was translated and passed to a real-time graphics interface, created using the [Processing](http://processing.org/) creative coding environment. 
 
 <figure>
-	<img src="/images/teams/2016/dual-brains/team.jpg" alt="From left to right: Artists Gal Nissim, Eva Lee, Programmer Gabe Ibagon, Artist Pat Shiu, Designer Aaron Trocola" />
+	<img src="/images/projects/2016/dual-brains/team.jpg" alt="From left to right: Artists Gal Nissim, Eva Lee, Programmer Gabe Ibagon, Artist Pat Shiu, Designer Aaron Trocola" />
 	<figcaption>From left to right: Artists Gal Nissim, Eva Lee, Programmer Gabe Ibagon, Artist Pat Shiu, Designer Aaron Trocola</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Any project with this many variables will face challenges. Early on, the team wr
 At the same time, programmers Gabriel Ibagon and Aaron Trocola focused on the real-time translation of brain wave data. This data was passed to Processing where Pat Shiu and Gal Nissim worked to dynamically draw the visuals. The result of this real time syncing ensured the visuals matched the emotional sub-context behind all the data.
 
 <figure>
-	<img src="/images/teams/2016/dual-brains/sketch.jpg" alt="The interface showing the raw brainwave data" />
+	<img src="/images/projects/2016/dual-brains/sketch.jpg" alt="The interface showing the raw brainwave data" />
 	<figcaption>The interface showing the raw brainwave data</figcaption>
 </figure>
 
