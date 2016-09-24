@@ -8,6 +8,10 @@
 			padding-top: 9em;
 			padding-bottom: 3em;
 			list-style-type: none;
+
+			li {
+				margin-bottom: 0.7rem;
+			}
 		}
 
 		figure {
@@ -34,31 +38,44 @@
 	}
 
 	#members-short {
-		p {
-			display: inline;
-		}
-
-		ul.alumni {
-			display: inline;
-			list-style-type: none;
-
-			li {
-				display: inline;
-			}
-
-			li:after {
-				content: ',';
-				position: relative;
-				left: -0.2em;
-			}
-
-			li:last-child:after {
-				content: '';
-			}
-		}
+		display: none;
 	}
 }
 
-#teams.post main article header .widgets ul.social {
-	padding-top: 0.25em;
+@media (max-width: 899px) {
+	#teams {
+		#members-short {
+			display: block;
+			border-top: 2px solid #c6c6c6;
+			border-bottom: 2px solid #c6c6c6;
+			margin-bottom: 1.5em;
+			padding-bottom: 1em;
+			position: relative;
+			top: 0.6em;
+
+			p {
+				display: inline-block;
+				padding-bottom: 0;
+			}
+
+			ul.alumni {
+				display: inline;
+				list-style-type: none;
+
+				li {
+					display: inline;
+					margin: 0;
+					padding: 0;
+				}
+
+				li:after {
+					content: ',';
+				}
+
+				li:last-child:after {
+					content: '';
+				}
+			}
+		}
+	}
 }

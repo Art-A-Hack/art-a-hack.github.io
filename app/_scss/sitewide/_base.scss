@@ -70,7 +70,7 @@ figure {
 	}
 }
 
-time {
+.when {
 	font-size: 1em;
 	padding-top: 0.15em;
 }
@@ -238,7 +238,7 @@ ul.cta li, ol.cta li {
 		font-size: 1.6em;
 	}
 
-	time {
+	.when {
 		font-size: 0.95em;
 		padding-top: 0.2em;
 	}
@@ -265,9 +265,9 @@ ul.cta li, ol.cta li {
 		font-size: 1.5em;
 	}
 
-	time {
+	.when {
 		font-size: 0.88em;
-		padding-top: 0.3em;
+		padding: 0.3em 0 0 0;
 	}
 }
 

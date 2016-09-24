@@ -6,24 +6,8 @@ layout: default
     <article role="article" itemscope itemtype="http://schema.org/BlogPosting">
       <header>
         <h1>{{ page.title }}</h1>
-        <p>Season: Summer {{ page.year }}</p>
-        <div id="members-short">
-          <p>Team members:</p>
-          <ul class="alumni">
-            {% for member in page.members %}
-              {% assign alum = site.alumni | where:"title", member.name | first %}
-              {% for link in alum.links %}
-                {% if link.url != "" %}
-                  {% assign url = link.url %}
-                {% endif %}
-              {% endfor %}
-              <li>
-                <a href="{{ url }}">{{ alum.title }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-        </div>
         <div class="widgets">
+          <p class="when">Season: Summer {{ page.year }}</p>
           <ul class="social">
             <li>
               <a href="http://twitter.com/share?text={{ page.title | uri_escape }}&amp;url=http://{{ site.name }}{{ page.url | uri_escape }}&amp;via=art_a_hack"><i class="fa fa-twitter-square"></i></a>
@@ -38,6 +22,20 @@ layout: default
         </div>
       </header>
       <div class="post-content">
+        <div id="members-short">
+          <p>Team members:</p>
+          <ul class="alumni">
+            {% for member in page.members %}
+              {% assign alum = site.alumni | where:"title", member.name | first %}
+              {% for link in alum.links %}
+                {% if link.url != "" %}
+                  {% assign url = link.url %}
+                {% endif %}
+              {% endfor %}
+              <li><a href="{{ url }}">{{ alum.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
         {{ content }}
       </div>
       <hr />

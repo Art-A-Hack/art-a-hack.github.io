@@ -209,10 +209,6 @@
 				width: 36em;
 
 				header {
-					time {
-						width: 17%;
-					}
-
 					.widgets i {
 						font-size: 1.9em;
 					}
@@ -236,7 +232,7 @@
 			article {
 				width: 100%;
 
-				header time {
+				header .when {
 					width: inherit;
 					position: relative; left: 0;
 				}
