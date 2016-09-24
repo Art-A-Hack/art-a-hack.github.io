@@ -5,8 +5,24 @@ layout: default
   <main class="left">
     <article role="article" itemscope itemtype="http://schema.org/BlogPosting">
       <header>
-        <h1>Team Profile: "{{ page.title }}"</h1>
-        <p>Art-A-Hack Summer {{ page.year }}</p>
+        <h1>{{ page.title }}</h1>
+        <p>Team Profile: Art-A-Hack {{ page.year }}</p>
+        <div id="members-short">
+          <p>Team members:</p>
+          <ul class="alumni">
+            {% for member in page.members %}
+              {% assign alum = site.alumni | where:"title", member.name | first %}
+              {% for link in alum.links %}
+                {% if link.url != "" %}
+                  {% assign url = link.url %}
+                {% endif %}
+              {% endfor %}
+              <li>
+                <a href="{{ url }}">{{ alum.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
         <div class="widgets">
           <ul class="social">
             <li>
