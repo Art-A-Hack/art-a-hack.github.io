@@ -75,7 +75,7 @@
 }
 
 @media (max-width: 1299px) {
-	.alumni {
+	.grid-container .grid {
 		img {
 			border-radius: 4em;
 		}
@@ -83,7 +83,7 @@
 }
 
 @media (max-width: 1099px) {
-	.alumni {
+	.grid-container .grid {
 		figure {
 			width: 18.3%;
 			margin: 1.5% 3.15% 5% 3.15%;
@@ -92,7 +92,7 @@
 }
 
 @media (max-width: 1019px) {
-	.alumni {
+	.grid-container .grid {
 		figure {
 			width: 23%;
 			margin: 1.5% 4.95% 5% 4.95%;
@@ -101,7 +101,7 @@
 }
 
 @media (max-width: 789px) {
-	.alumni {
+	.grid-container .grid {
 		text-align: center;
 
 		figure {
@@ -112,7 +112,7 @@
 }
 
 @media (max-width: 559px) {
-	.alumni {
+	.grid-container .grid {
 		figure {
 			width: 60%;
 			margin: 0 auto 4.3rem auto;
@@ -121,7 +121,7 @@
 }
 
 @media (max-width: 509px) {
-	.alumni {
+	.grid-container .grid {
 		figure {
 			width: 70%;
 		}
