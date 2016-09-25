@@ -15,7 +15,13 @@ module.exports = function (grunt) {
   require('load-grunt-tasks')(grunt);
 
   grunt.initConfig({
-    // Configurable paths
+    auto_install: {
+      local: {
+        options: {
+          npm: false
+        }
+      }
+    },
     yeoman: {
       app: 'app',
       dist: 'dist'
@@ -339,6 +345,7 @@ module.exports = function (grunt) {
     }
 
     grunt.task.run([
+      'auto_install',
       'clean:server',
       'concurrent:server',
       'autoprefixer:server',
@@ -370,6 +377,7 @@ module.exports = function (grunt) {
   grunt.registerTask('build', [
     'clean',
     // Jekyll cleans files from the target directory, so must run first
+    'auto_install',
     'jekyll:dist',
     'concurrent:dist',
     'useminPrepare',
@@ -385,6 +393,7 @@ module.exports = function (grunt) {
     ]);
 
   grunt.registerTask('deploy', [
+    'auto_install',
     'check',
     'test',
     'build',

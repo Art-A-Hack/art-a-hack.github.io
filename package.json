@@ -25,6 +25,7 @@
     "grunt-jekyll": "*",
     "grunt-svgmin": "*",
     "grunt-usemin": "=3.0.0",
+    "grunt-auto-install": "*",
     "jshint-stylish": "*",
     "load-grunt-tasks": "*",
     "time-grunt": "*"
