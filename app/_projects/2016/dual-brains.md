@@ -48,7 +48,7 @@ At the same time, programmers Gabriel Ibagon and Aaron Trocola focused on the re
 	<figcaption>The interface showing the raw brainwave data</figcaption>
 </figure>
 
-A work-in-progress prototype was developed and demonstrated for visitors at the final Art-A-Hack showcase in July. The team later recorded an newer performance in the same space, at ThoughtWorks New York.
+A work-in-progress prototype was developed and demonstrated for visitors at the final Art-A-Hack showcase in July. The team later recorded a newer performance in the same space, at ThoughtWorks New York.
 
 <figure class="video ratio-54 with-caption">
 	<iframe src="https://player.vimeo.com/video/179850630"></iframe>
