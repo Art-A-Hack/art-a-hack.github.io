@@ -44,7 +44,7 @@ The VR experience places users in a scene from the other side of the equation. T
 	<figcaption>A screen capture from the VR experience</figcaption>
 </figure>
 
-The supplies are a mixture of essential components, and useless components sent based on the misconceptions of the marketing campaign and app users funding the initiative. Ultimately, the task of producing water is so prohibitively time-consuming and haphazard that it negates the original intentions behind the initiative — to provide access to clean water.
+The supplies are a mixture of essential components and useless components, sent based on the misconceptions of the marketing campaign and app users funding the initiative. Ultimately, the task of producing water is so prohibitively time-consuming and haphazard that it negates the original intentions behind the initiative — to provide access to clean water.
 
 The VR application was created using [HTC Vive](http://www.vive.com/), [Unity](https://unity3d.com/), custom C# code and the [Newton VR](http://www.vrinflux.com/newton-vr-physics-based-interaction-on-the-vive/) physics engine. The team created the application using hardware in the [ThoughtWorks VR lab](https://thoughtworksarts.io/blog/inside-our-brand-new-hack-lab/).
 
