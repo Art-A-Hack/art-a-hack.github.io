@@ -24,7 +24,7 @@ That’s the view explored by the “Superficial / Substantive” team during th
 	<figcaption>Mala Kumar and Linda Raftree</figcaption>
 </figure>
 
-The team examined how new technologies, like mobile, virtual and augmented reality, are [clumsily deployed](http://www.nytimes.com/2016/07/10/opinion/sunday/solving-all-the-wrong-problems.html?_r=0) by non-experts, often with [generous funding](http://www.nytimes.com/2013/08/11/magazine/a-save-the-world-field-trip-for-millionaire-tech-moguls.html) but little long-term experience and sometimes [questionable motives](http://www.adweek.com/agencyspy/apple-store-removes-grey-singapores-i-sea-app-before-it-wins-a-cannes-lions/111538).
+The team examined how new technologies like mobile, virtual and augmented reality, are [clumsily deployed](http://www.nytimes.com/2016/07/10/opinion/sunday/solving-all-the-wrong-problems.html?_r=0) by non-experts, often with [generous funding](http://www.nytimes.com/2013/08/11/magazine/a-save-the-world-field-trip-for-millionaire-tech-moguls.html) but little long-term experience and sometimes [questionable motives](http://www.adweek.com/agencyspy/apple-store-removes-grey-singapores-i-sea-app-before-it-wins-a-cannes-lions/111538).
 
 The team contend that while those organizations have superficial understandings of deep problems, organizations like Uber and SnapChat have the reverse: deep understandings of superficial problems.
 
@@ -35,7 +35,7 @@ The team contend that while those organizations have superficial understandings 
 
 To explore these ideas, the team created a mobile app prototype and VR experience. The app is a satirical take on the way superficial technologically-driven initiatives are structured.
 
-The app highlights the way focus is often heavily tilted towards marketing and media, instead of research and understanding of the long-term situation on the ground, and the potential for a technological solution to actually contribute to resolving a problem.
+The app highlights the way focus is heavily tilted towards marketing and media instead of the actual situation on the ground, or offering a simple, pragmatic and viable solution.
 
 The VR experience places users in a scene from the other side of the equation. They are positioned next to a water pump, with shipments of supplies coming in left, right and center. They are then tasked with getting the pump to produce water, by installing parts from the supply shipments.
 
@@ -44,7 +44,7 @@ The VR experience places users in a scene from the other side of the equation. T
 	<figcaption>A screen capture from the VR experience</figcaption>
 </figure>
 
-The supplies are a mixture of essential components and useless components, sent based on the misconceptions of the marketing campaign and app users funding the initiative. Ultimately, the task of producing water is so prohibitively time-consuming and haphazard that it negates the original intentions behind the initiative — to provide access to clean water.
+The supplies that are ultimately sent are a mixture of essential and useless components based on the misconceptions of the both the marketing campaign and app users who are funding the project. Unfortunately, the initial task of producing access to clean water is negated by haphazard and time-consuming run arounds that render the situation unsolvable.
 
 The VR application was created using [HTC Vive](http://www.vive.com/), [Unity](https://unity3d.com/), custom C# code and the [Newton VR](http://www.vrinflux.com/newton-vr-physics-based-interaction-on-the-vive/) physics engine. The team created the application using hardware in the [ThoughtWorks VR lab](https://thoughtworksarts.io/blog/inside-our-brand-new-hack-lab/).
 

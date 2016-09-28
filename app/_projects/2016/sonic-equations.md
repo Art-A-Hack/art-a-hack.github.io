@@ -18,8 +18,8 @@ members:
 What can the limits of technology tell us about the limits of communication? The Sonic Equations team explored this question by creating a two-player game which electronically distorts participants’ communication.
 
 <figure>
-	<img src="/images/projects/2016/sonic-equations/game.jpg" alt="Players attempting to communicate" />
-	<figcaption>Players attempting to communicate</figcaption>
+	<img src="/images/projects/2016/sonic-equations/flow.png" alt="How the team designed the game interaction" />
+	<figcaption>How the team designed the game interaction</figcaption>
 </figure>
 
 The first player reads a script about communication into a microphone. The second player hears an algorithmically-distorted feed of first player’s voice, and tries to interpret it as text.
@@ -27,8 +27,8 @@ The first player reads a script about communication into a microphone. The secon
 The results are displayed on a screen, updated in real-time so the speaker and audience members can see how the message’s meaning has been conveyed.
 
 <figure>
-	<img src="/images/projects/2016/sonic-equations/flow.png" alt="How the team designed the game interaction" />
-	<figcaption>How the team designed the game interaction</figcaption>
+	<img src="/images/projects/2016/sonic-equations/game.jpg" alt="Players attempting to communicate" />
+	<figcaption>Players attempting to communicate</figcaption>
 </figure>
 
 The idea was prompted by a peculiar moment in the team’s process, during a video-call meeting with program organizer Ellen Pearlman. Team lead Christopher Edwards, who is hearing-impaired, was relying on assistive technology to interpret.

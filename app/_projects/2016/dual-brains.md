@@ -25,14 +25,14 @@ The Dual Brains team created a real-time visual performance driven by the brain 
 
 The goal was to present a creative view of human neural interaction, taking into account the power of empathy. The performers focused their minds on emotionally charged memories, first without physical contact, and then while holding hands.
 
-Spectators saw the change in neural state visualized through projections. They also heard the effects on the performer’s bodies, as sounds were created from brain wave activity — both [EEG](https://en.wikipedia.org/wiki/Electroencephalography) and [ECG](https://en.wikipedia.org/wiki/Electrocardiography) data.
+Spectators saw the change in neural states visualized through projections. They also heard the effects on the performer’s bodies, as sounds were created from brain wave activity — both [EEG](https://en.wikipedia.org/wiki/Electroencephalography) and [ECG](https://en.wikipedia.org/wiki/Electrocardiography) data.
 
 <figure>
 	<img src="/images/projects/2016/dual-brains/printed-headsets.jpg" alt="Gabriel Ibagon helps his team-mates try on the 3D-printed headgear" />
 	<figcaption>Gabriel Ibagon helps his team-mates try on the 3D-printed headgear</figcaption>
 </figure>
 
-The team created their prototype using the open source brain-computer interfacing toolkit, OpenBCI. Data from the [OpenBCI](http://openbci.com/) headsets was translated and passed to a real-time graphics interface, created using the [Processing](http://processing.org/) creative coding environment. 
+The team created their prototype using [OpenBCI](http://openbci.com/), an open source brain-computer interfacing toolkit. Data from the OpenBCI headsets was translated and passed to a real-time graphics interface, created using the [Processing](http://processing.org/) creative coding environment. 
 
 <figure>
 	<img src="/images/projects/2016/dual-brains/team.jpg" alt="From left to right: Artists Gal Nissim, Eva Lee, Programmer Gabe Ibagon, Artist Pat Shiu, Designer Aaron Trocola" />

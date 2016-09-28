@@ -33,11 +33,9 @@ The team’s largest challenge was learning how to translate a classic theater e
 
 A prototype was developed and demonstrated for visitors at the final Art-A-Hack 2016 showcase. This work-in-progress is a unique experience, and is intended for development to attract the interest of theatre and film producers. The team has explained that this will be the first piece of its kind in the world.
 
-The team is now focusing their efforts to present this experience in full at the [NYC Media Lab Summit](http://techventures.columbia.edu/news-and-events/upcoming-and-recent-events/nyc-media-lab-2016-annual-summit) in September. There, they will show the work to a crowd of VR professionals, journalists and educators exploring narrative and storytelling in immersive environments.
-
 <figure class="video ratio-54 with-caption">
 	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
 	<figcaption>[[This will be replaced with the correct video]]</figcaption>
 </figure>
 
-In addition to the showcase, above, the team has published a variety of materials online. They have created [extensive documentation](http://hamletvr.org/methodofthemadness/) of the project and published other media and information on the [Hamlet VR](http://hamletvr.org/) website.
+The team has published [extensive documentation](http://hamletvr.org/methodofthemadness/) of the project and published other media and information on the [Hamlet VR](http://hamletvr.org/) website.

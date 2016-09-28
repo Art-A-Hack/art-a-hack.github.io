@@ -35,7 +35,7 @@ The work was demonstrated in the final Art-A-Hack 2016 show, during which team m
 
 Team members divided their focus areas based on their interests and talents.
 
-Gordey Chernyy wrote visual code in [paper.js](http://paperjs.org/), helped by Anirudh Dhullipalla who also focused on writing and performing poetry. In addition to dance and poetry, Julia Frey developed the [Max/MSP](https://cycling74.com/products/max/) patch running the sound.
+Gordey Chernyy wrote visual code in [paper.js](http://paperjs.org/) helped by Anirudh Dhullipalla, who also focused on writing and performing poetry. In addition to dance and poetry, Julia Frey developed the [Max/MSP](https://cycling74.com/products/max/) patch running the sound.
 
 Enki Andrews worked on interaction design, while Mariya Mishurenko coordinated and created the beautiful illustrations used in the interactive projections.
 
@@ -44,7 +44,7 @@ Enki Andrews worked on interaction design, while Mariya Mishurenko coordinated a
 	<figcaption>A sketch of a character used in the performance</figcaption>
 </figure>
 
-Finally, musician Adriana Molello composed a soundtrack for the installation. Although the soundtrack wasn’t featured in the showcased version of the performance, a recording from the elegant soundtrack is available [on SoundCloud](https://soundcloud.com/dirtydawn/echoing-ego).
+Musician Adriana Molello composed a soundtrack for the installation, and you can hear the recording here [on SoundCloud](https://soundcloud.com/dirtydawn/echoing-ego).
 
 <figure>
 	<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/284195203&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>

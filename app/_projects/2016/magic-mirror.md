@@ -35,7 +35,7 @@ The end result is an experience in which participant's attention is both focused
 
 Developers Chris Clapis and Fabio Piparo had issues running the Muse's [software development kit](http://www.choosemuse.com/developer-kit/) directly on the Raspberry Pi. They [discovered that](http://forum.choosemuse.com/t/interfacing-muse-with-rasperry-pi-or-arduino/202) the Muse doesn't support [ARM-based processors](https://en.wikipedia.org/wiki/ARM_architecture), like those which come with the Raspberry Pi.
 
-The team decided for this initial prototype to prioritize time spent on designing the interaction experience. They therefore worked around the compatibility problem by running the Muse on a laptop computer, sending data to the Raspberry Pi using [openFrameworks](http://openframeworks.cc/) and [OSC](http://opensoundcontrol.org/introduction-osc).
+The team decided to prioritise their time on the initial prototype by leapfrogging over the compatibility problem, running the Muse on a laptop computer and sending the brainwave data to a Raspberry Pi using [openFrameworks](http://openframeworks.cc/) and [OSC](http://opensoundcontrol.org/introduction-osc).
 
 <figure class="video ratio-54 with-caption">
 	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
