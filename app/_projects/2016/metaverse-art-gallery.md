@@ -34,7 +34,7 @@ The team initially created a minimalist [Unity 3D](https://unity3d.com/) sketch 
 	<figcaption>The website design for managing virtual assets</figcaption>
 </figure>
 
-Working from Unity 3D sketches, developers on the team crated a basic prototype that focused on essential feature. It is now ready to be extended and expanded for the next future iteration.
+Working from Unity 3D sketches, developers on the team created a basic prototype that focused on essential feature. It is now ready to be extended and expanded for the next future iteration.
 
 Challenges the team faced included learning the AltSpaceVR development platform, as well as [three.js](http://threejs.org/) in a constrained timeframe. Another challenge was making the VR user interface as simple as possible, while maintaining all the management capabilities on the website.
 
@@ -43,7 +43,7 @@ Challenges the team faced included learning the AltSpaceVR development platform,
 	<figcaption>A working prototype in AltSpaceVR</figcaption>
 </figure>
 
-The prototype was displayed to visitors at the Final Presentations in July 2016. It is a work-in-progress whose final outcome is to create a platform accessible to galleries and curators. 
+The prototype was displayed to visitors at the Final Presentations in July 2016. It is a work-in-progress whose final outcome is to create a platform accessible to artists, curators and galleries. 
 
 <figure class="video ratio-54 with-caption">
 	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>

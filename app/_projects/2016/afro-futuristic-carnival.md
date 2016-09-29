@@ -25,7 +25,7 @@ The Afro Futuristic Carnival team created an interactive virtual reality experie
 
 In the initial prototype developed during Art-A-Hack 2016, audience members in the VR environment see the graceful dancing of the Goddess Yermaya. The VR environment was constructed using [Unity](https://unity3d.com/), with a 360-degree accompanying soundtrack.
 
-The team captured the movements of dancer Debbie Dias for the Goddess Yermaya avatar using the motion capture studio at the [NYU Tandon School of Engineering](http://engineering.nyu.edu/academics/programs/integrated-digital-media-ms). Art-A-Hack partnered with the school for the 2016 season of projects.
+The team captured the movements of dancer Debbie Deas for the Goddess Yermaya avatar using the motion capture studio at the [NYU Tandon School of Engineering](http://engineering.nyu.edu/academics/programs/integrated-digital-media-ms). Art-A-Hack partnered with the school for the 2016 season of projects.
 
 <figure>
 	<img src="/images/projects/2016/afro-futuristic-carnival/team.jpg" alt="The team working at NYU Tandon" />

@@ -25,7 +25,7 @@ The Dual Brains team created a real-time visual performance driven by the brain 
 
 The goal was to present a creative view of human neural interaction, taking into account the power of empathy. The performers focused their minds on emotionally charged memories, first without physical contact, and then while holding hands.
 
-Spectators saw the change in neural states visualized through projections. They also heard the effects on the performer’s bodies, as sounds were created from brain wave activity — both [EEG](https://en.wikipedia.org/wiki/Electroencephalography) and [ECG](https://en.wikipedia.org/wiki/Electrocardiography) data.
+Spectators saw the change in neural states visualized through projections. They also heard the effects on the performers’ bodies, as sounds were created from brain and heart activity — both [EEG](https://en.wikipedia.org/wiki/Electroencephalography) and [ECG](https://en.wikipedia.org/wiki/Electrocardiography) data.
 
 <figure>
 	<img src="/images/projects/2016/dual-brains/printed-headsets.jpg" alt="Gabriel Ibagon helps his team-mates try on the 3D-printed headgear" />
@@ -39,9 +39,9 @@ The team created their prototype using [OpenBCI](http://openbci.com/), an open s
 	<figcaption>From left to right: Artists Gal Nissim, Eva Lee, Programmer Gabe Ibagon, Artist Pat Shiu, Designer Aaron Trocola</figcaption>
 </figure>
 
-Any project with this many variables will face challenges. Early on, the team wrestled with hardware issues and created multiple versions of custom built headsets before finalizing the optimal placement of brain sensors.
+Any project with this many variables will face challenges. Early on, the team wrestled with hardware issues and designer Aaron Trocola created multiple versions of custom built headsets before finalizing the optimal placement of brain sensors.
 
-At the same time, programmers Gabriel Ibagon and Aaron Trocola focused on the real-time translation of brain wave data. This data was passed to Processing where Pat Shiu and Gal Nissim worked to dynamically draw the visuals. The result of this real time syncing ensured the visuals matched the emotional sub-context behind all the data.
+At the same time, programmer Gabriel Ibagon focused on the real-time translation of brain wave data. This data was passed to Processing where Pat Shiu and Gal Nissim worked to dynamically draw the visuals. The result of this real time syncing ensured the visuals matched the emotional sub-context behind all the data.
 
 <figure>
 	<img src="/images/projects/2016/dual-brains/sketch.jpg" alt="The interface showing the raw brainwave data" />
