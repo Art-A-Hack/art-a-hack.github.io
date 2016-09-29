@@ -22,7 +22,7 @@ The concept of '[metaverse](https://en.wikipedia.org/wiki/Metaverse)' refers to 
 
 <figure>
 	<img src="/images/projects/2016/metaverse-art-gallery/unity-sketch.jpg" alt="A Unity 3D sketch of the curation platform" />
-	<figcaption>A Unity 3D sketch of the curation platform</figcaption>
+	<figcaption>A working prototype in AltSpaceVR</figcaption>
 </figure>
 
 The team's goal was to allow artists, galleries, and curators to import 3D art into the metaverse without requiring technical skills. This would allow the metaverse to be used for speculative art shows in virtual-reality spaces.
@@ -40,7 +40,7 @@ Challenges the team faced included learning the AltSpaceVR development platform,
 
 <figure>
 	<img src="/images/projects/2016/metaverse-art-gallery/altspacevr-prototype.jpg" alt="A working prototype in AltSpaceVR<" />
-	<figcaption>A working prototype in AltSpaceVR</figcaption>
+	<figcaption>A Unity 3D sketch of the curation platform</figcaption>
 </figure>
 
 The prototype was displayed to visitors at the Final Presentations in July 2016. It is a work-in-progress whose final outcome is to create a platform accessible to artists, curators and galleries. 
