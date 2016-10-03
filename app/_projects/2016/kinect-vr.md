@@ -26,14 +26,19 @@ The Kinect VR team devoted their Art-A-Hack 2016 project to demonstrating creati
 
 The toolkit allows multiple participants to interact in a virtual reality world via full-body motion tracking, using [Microsoft Kinect](https://developer.microsoft.com/en-us/windows/kinect). It is designed to be used on mobile headsets such as [Samsung Gear VR](http://www.samsung.com/us/explore/gear-vr/), in which participants can feel more fully immersed in the VR experience because there are no wires restricting their body movement.
 
-One of the key innovations of KinectVR is that participants see a representation of their entire body rendered below them, moving in the VR environment. Their hands and legs move as they move, without having to hold controllers, leading to a rich and immersive experience.
-
 <figure>
 	<img src="/images/projects/2016/kinect-vr/explanation.png" alt="How the KinectVR system works" />
 	<figcaption>How the KinectVR system works</figcaption>
 </figure>
 
+One of the key innovations of KinectVR is that participants see a representation of their entire body rendered below them, moving in the VR environment. Their hands and legs move as they move, without having to hold controllers, leading to a rich and immersive experience.
+
 In addition, other players in the same physical space can see each other's virtual bodies within their own VR experience. In this way there is a full mirroring between the activity of players both physically and virtually.
+
+<figure>
+	<img src="/images/projects/2016/kinect-vr/chessman-world.jpg" alt="The Chessman 'world' created by QiuYi Wu" />
+	<figcaption>The Chessman "world" created by QiuYi Wu</figcaption>
+</figure>
 
 This was the largest team in Art-A-Hack 2016, with a total of six team members. Their goal was to demonstrate the capabilities and unique features of the KinectVR plugin system, and so each team member designed their own unique "virtual world".
 
