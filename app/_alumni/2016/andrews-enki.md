@@ -16,7 +16,7 @@ links:
  - icon     : "fa-linkedin"
    url      : "https://www.linkedin.com/in/enki-andrews-8561aa"
  - icon     : "fa-instagram"
-   url      : ""
+   url      : "https://www.instagram.com/aquamon1/"
  - icon     : "fa-soundcloud"
    url      : ""
  - icon     : "fa-vimeo-square"
