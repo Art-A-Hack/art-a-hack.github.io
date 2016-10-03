@@ -48,9 +48,9 @@ One of the unique challenges the team faced was rendering the noisy Kinect skele
 
 This causes particular interaction issues in VR, as discrepancies between a user’s virtual and physical body can lead to dissociative effects.
 
-<figure class="video ratio-54 with-caption">
-	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
-	<figcaption>[[This will be replaced with the correct video]]</figcaption>
+<figure class="video ratio-55 with-caption">
+	<iframe src="https://www.youtube.com/embed/d9bJ6RL-7Tk" allowfullscreen></iframe>
+	<figcaption>The team's presentation at the 2016 showcase</figcaption>
 </figure>
 
 The playable prototype was demonstrated at the final Art-A-Hack showcase event. The team plans to continue to work on the [open source software application](http://kinectvr.com/) that can be used by developers worldwide.

@@ -55,9 +55,9 @@ The team faced challenges in finding just the right sensitivity to apply distort
 
 The team also overcame obstacles in setting up the microphone to avoid picking up player’s keystrokes.
 
-<figure class="video ratio-54 with-caption">
-	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
-	<figcaption>[[This will be replaced with the correct video]]</figcaption>
+<figure class="video ratio-55 with-caption">
+	<iframe src="https://www.youtube.com/embed/wDDgCfpxNAY" allowfullscreen></iframe>
+	<figcaption>The team's presentation at the 2016 showcase</figcaption>
 </figure>
 
 For the Art-A-Hack 2016 showcase, the team set up the game for visitors to play following their presentation. As the evening progressed, they printed the resulting text from each game played, for audience members to see.

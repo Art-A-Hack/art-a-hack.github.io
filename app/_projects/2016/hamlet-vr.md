@@ -33,9 +33,9 @@ The team’s largest challenge was learning how to translate a classic theater e
 
 A prototype was developed and demonstrated for visitors at the final Art-A-Hack 2016 showcase. This work-in-progress is a unique experience, and is intended for development to attract the interest of theatre and film producers. The team has explained that this will be the first piece of its kind in the world.
 
-<figure class="video ratio-54 with-caption">
-	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
-	<figcaption>[[This will be replaced with the correct video]]</figcaption>
+<figure class="video ratio-55 with-caption">
+	<iframe src="https://www.youtube.com/embed/6agG56kQTA0" allowfullscreen></iframe>
+	<figcaption>The team's presentation at the 2016 showcase</figcaption>
 </figure>
 
 The team has published [extensive documentation](http://hamletvr.org/methodofthemadness/) of the project and published other media and information on the [Hamlet VR](http://hamletvr.org/) website.

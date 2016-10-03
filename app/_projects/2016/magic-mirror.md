@@ -37,9 +37,9 @@ Developers Chris Clapis and Fabio Piparo had issues running the Muse's [software
 
 The team decided to prioritise their time on the initial prototype by leapfrogging over the compatibility problem, running the Muse on a laptop computer and sending the brainwave data to a Raspberry Pi using [openFrameworks](http://openframeworks.cc/) and [OSC](http://opensoundcontrol.org/introduction-osc).
 
-<figure class="video ratio-54 with-caption">
-	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
-	<figcaption>[[This will be replaced with the correct video]]</figcaption>
+<figure class="video ratio-55 with-caption">
+	<iframe src="https://www.youtube.com/embed/cK9mpNafr20" allowfullscreen></iframe>
+	<figcaption>The team's presentation at the 2016 showcase</figcaption>
 </figure>
 
 For the next prototype, the team plans to take advantage of their experience studying at the [Holo Center on Governor's Island](http://holocenter.org/). They plan to scan the crystal and turn it into a holographic image. The crystal will then be replaced with the hologram, producing a new kind of meditative experience.

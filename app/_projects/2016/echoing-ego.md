@@ -50,9 +50,9 @@ Musician Adriana Molello composed the tone-setting soundtrack for the installati
 
 Among the challenges the team faced was learning new technologies. Gordeyy and Anirudh didn’t have previous experience with paper.js, having worked previously in [openFrameworks](http://openframeworks.cc/). Maria’s previous experience was in [Unity](http://unity3d.com) and C#.
 
-<figure class="video ratio-54 with-caption">
-	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
-	<figcaption>[[This will be replaced with the correct video]]</figcaption>
+<figure class="video ratio-55 with-caption">
+	<iframe src="https://www.youtube.com/embed/sFCK4MQtIhI" allowfullscreen></iframe>
+	<figcaption>The team's presentation at the 2016 showcase</figcaption>
 </figure>
 
 Inspired by the outcomes of the project, some team members are now working towards creating a related experience for the [Microsoft Hololens](https://www.microsoft.com/microsoft-hololens/).

@@ -43,9 +43,9 @@ Another focus area for the team was the role audio played in the experience. The
 
 Going forward, the team aims to continue developing this project and display it in a museum or exhibition. They would like to use these platforms to retell through personal experience the Afro-diaspora history.
 
-<figure class="video ratio-54 with-caption">
-	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
-	<figcaption>[[This will be replaced with the correct video]]</figcaption>
+<figure class="video ratio-55 with-caption">
+	<iframe src="https://www.youtube.com/embed/yH_D7h7c2zM" allowfullscreen></iframe>
+	<figcaption>The team's presentation at the 2016 showcase</figcaption>
 </figure>
 
 As of August 2016, team member Espii Proctor was awarded an [Oculus Connect 3 Scholarship](http://www.shiift.world/oc3_scholarship/) allowing her to continue moving the project forward.

@@ -55,9 +55,9 @@ The VR application was created using [HTC Vive](http://www.vive.com/), [Unity](h
 
 To create the experience, the team overcame challenges in finding and customizing pump-like VR assets in a very short time-frame. They tackled user experience issues such as making sure shipment parts ‘spawned’ at the correct time intervals.
 
-<figure class="video ratio-54 with-caption">
-	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
-	<figcaption>[[This will be replaced with the correct video]]</figcaption>
+<figure class="video ratio-55 with-caption">
+	<iframe src="https://www.youtube.com/embed/lwDXSci-5RI" allowfullscreen></iframe>
+	<figcaption>The team's presentation at the 2016 showcase</figcaption>
 </figure>
 
 Moving forward, the team are working on packaging the environment into an executable file for download, so that home VR users can try out the experience. Team lead Mala Kumar has also posted a [statement about the project](http://malakumar.com/2016/07/12/art-a-hack-summer-2016/) on her website, and intends to write articles linking the theme of the work with the VR experience.

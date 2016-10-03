@@ -45,9 +45,9 @@ Challenges the team faced included learning the AltSpaceVR development platform,
 
 The prototype was displayed to visitors at the Final Presentations in July 2016. It is a work-in-progress whose final outcome is to create a platform accessible to artists, curators and galleries. 
 
-<figure class="video ratio-54 with-caption">
-	<iframe src="https://www.youtube.com/embed/kPY_Z_8Vg9s" frameborder="0" allowfullscreen></iframe>
-	<figcaption>[[This will be replaced with the correct video]]</figcaption>
+<figure class="video ratio-55 with-caption">
+	<iframe src="https://www.youtube.com/embed/KyNQ89wivbc" allowfullscreen></iframe>
+	<figcaption>The team's presentation at the 2016 showcase</figcaption>
 </figure>
 
 As of August 2016 the project is being supported by the AltSpace Developer Initiative. The grant will allow team lead Samuel Arsenault-­Brassard to work alongside a developer towards the project, now titled “Cultvr.Space”. Progress and updates will be available on the project’s [new site](http://cultvr.space/). 
