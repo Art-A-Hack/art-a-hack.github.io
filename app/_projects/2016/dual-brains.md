@@ -48,16 +48,11 @@ At the same time, programmer Gabriel Ibagon focused on the real-time translation
 	<figcaption>The interface showing the raw brainwave data</figcaption>
 </figure>
 
-A work-in-progress prototype was developed and demonstrated for visitors at the final Art-A-Hack showcase in July. The team later recorded a newer performance in the same space, at ThoughtWorks New York.
+A work-in-progress prototype was developed and demonstrated for visitors at the final Art-A-Hack showcase in July. The team later [recorded a newer performance](https://vimeo.com/179850630) in the same space, at ThoughtWorks New York.
 
-<figure class="video ratio-54 with-caption">
-	<iframe src="https://player.vimeo.com/video/179850630"></iframe>
-	<figcaption>A video recording of the performance</figcaption>
+<figure class="video ratio-55 with-caption">
+	<iframe src="https://www.youtube.com/embed/paYRLrZFJnU" allowfullscreen></iframe>
+	<figcaption>The team's presentation at the 2016 showcase</figcaption>
 </figure>
 
 The team plans to continue developing the project, further exploring concepts about neuro-social interaction. Their goal moving forward is making the project accessible to gallerists and curators for display. More information is available on team lead [Eva Lee’s blog](http://www.evaleestudio.com/whats-new/dual-brains-art-a-hack-performance-goes-live-in-3-2-1/).
-
-<figure class="video ratio-55 with-caption">
-	<iframe src="https://www.youtube.com/embed/yH_D7h7c2zM" allowfullscreen></iframe>
-	<figcaption>The team's presentation at the 2016 showcase</figcaption>
-</figure>
