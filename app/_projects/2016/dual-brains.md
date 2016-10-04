@@ -48,7 +48,7 @@ At the same time, programmer Gabriel Ibagon focused on the real-time translation
 	<figcaption>The interface showing the raw brainwave data</figcaption>
 </figure>
 
-A work-in-progress prototype was developed and demonstrated for visitors at the final Art-A-Hack showcase in July. The team later [recorded a newer performance](https://vimeo.com/179850630) in the same space, at ThoughtWorks New York.
+A work-in-progress prototype was developed and demonstrated for visitors at the final Art-A-Hack showcase in July. The team later [recorded another performance](https://vimeo.com/179850630) in the same space, at ThoughtWorks New York.
 
 <figure class="video ratio-55 with-caption">
 	<iframe src="https://www.youtube.com/embed/paYRLrZFJnU" allowfullscreen></iframe>

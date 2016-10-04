@@ -41,7 +41,7 @@ One of the unique challenges faced by the team was designing a consistent narrat
 
 Another focus area for the team was the role audio played in the experience. The team felt the music and sound effects should be a ‘guide’ helping users navigate between the virtual worlds presented in the experience. 
 
-Going forward, the team aims to continue developing this project and display it in a museum or exhibition. They would like to use these platforms to retell through personal experience the Afro-diaspora history.
+Going forward, the team aims to continue developing this project and display it in a museum or exhibition. They would like to use these platforms to retell Afro-diaspora history through personal experiences.
 
 <figure class="video ratio-55 with-caption">
 	<iframe src="https://www.youtube.com/embed/yH_D7h7c2zM" allowfullscreen></iframe>

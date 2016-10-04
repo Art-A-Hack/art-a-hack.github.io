@@ -15,14 +15,12 @@ members:
  - name     : "Fabio Piparo"
 ---
 
-How can a brain-computer interface be used to enhance contemplation and concentration?
+How can a brain-computer interface be used to enhance contemplation and concentration? This question was posed by the Holographic Muse team at the outset of their Art-A-Hack 2016 journey.
 
 <figure class="video ratio-54 with-caption">
 	<iframe src="https://player.vimeo.com/video/175638114"></iframe>
 	<figcaption>The installation at the final showcase</figcaption>
 </figure>
-
-This question was posed by the Holographic Muse team at the outset of their Art-A-Hack 2016 journey.
 
 The team arranged a crystal and some LED lights in a box fronted by a mirror. The lighting environment was backed by a [Raspberry Pi](https://www.raspberrypi.org/), allowing the LEDs to be dimmed and lit programmatically. They then connected the program to a [Muse](http://www.choosemuse.com/) brainwave-sensing headset, allowing participants to control the lighting environment via concentration.
 

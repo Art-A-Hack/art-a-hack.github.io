@@ -34,7 +34,7 @@ The team initially created a minimalist [Unity 3D](https://unity3d.com/) sketch 
 	<figcaption>The website design for managing virtual assets</figcaption>
 </figure>
 
-Working from Unity 3D sketches, developers on the team created a basic prototype that focused on essential feature. It is now ready to be extended and expanded for the next future iteration.
+Working from Unity 3D sketches, developers on the team created a basic prototype that focused on essential features. It is now ready to be extended and expanded for the next future iteration.
 
 Challenges the team faced included learning the AltSpaceVR development platform, as well as [three.js](http://threejs.org/) in a constrained timeframe. Another challenge was making the VR user interface as simple as possible, while maintaining all the management capabilities on the website.
 
@@ -50,4 +50,4 @@ The prototype was displayed to visitors at the Final Presentations in July 2016.
 	<figcaption>The team's presentation at the 2016 showcase</figcaption>
 </figure>
 
-As of August 2016 the project is being supported by the AltSpace Developer Initiative. The grant will allow team lead Samuel Arsenault-­Brassard to work alongside a developer towards the project, now titled “Cultvr.Space”. Progress and updates will be available on the project’s [new site](http://cultvr.space/). 
+As of August 2016 the project is being supported by the [AltSpaceVR Developer Initiative](https://developer.altvr.com/Initiative/). The grant will allow team lead Samuel Arsenault-­Brassard to work alongside a developer towards the project, now titled “Cultvr.Space”. Progress and updates will be available on the project’s [new site](http://cultvr.space/). 
