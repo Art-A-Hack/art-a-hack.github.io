@@ -1,6 +1,6 @@
 ---
 layout    : simple-post
-title     : "Art-A-Hack&#8482; Team Report"
+title     : "Public Space and Theater - Art-A-Hack"
 bodyid    : "report"
 bodyclass : "content post"
 ---

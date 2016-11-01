@@ -1,6 +1,6 @@
 ---
 layout    : simple-post
-title     : "Art-A-Hack&#8482; Team Report"
+title     : "Reflecting on Time and Space - Art-A-Hack"
 bodyid    : "report"
 bodyclass : "content post"
 ---
