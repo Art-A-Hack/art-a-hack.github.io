@@ -1,3 +1,15 @@
+{% if page.url contains site.call-url %}
+  {% assign display-call-banner = false %}
+{% else %}
+  {% assign display-call-banner = site.display-call-banner %}
+{% endif %}
+
+{% if display-call-banner %}
+  {% capture bodyclass %}{{ page.bodyclass }} open-call-banner{% endcapture %}
+  {% capture bodyclass %}{{ bodyclass | strip }}{% endcapture %}
+{% else %}
+  {% capture bodyclass %}{{ page.bodyclass }}{% endcapture %}
+{% endif %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -25,7 +37,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="shortcut icon" href="/images/favicon.png">
   </head>
-  <body id="{{ page.bodyid }}" class="{{ page.bodyclass }}">
+  <body id="{{ page.bodyid }}" class="{{ bodyclass }}">
     {% if page.bodyid == 'home' %}
     <div class="flex-col">
     {% endif %}
@@ -49,6 +61,11 @@
             <li><a href="/blog/">Blog</a></li>
           </ul>
         </nav>
+        {% if display-call-banner %}
+          <aside class="open-call">
+            <a href="{{ site.call-url }}">{{ site.call-text }}</a>
+          </aside>
+        {% endif %}
       </header>
     {% if page.bodyid == 'home' %}
       <figure id="image-grid" class="bottom">

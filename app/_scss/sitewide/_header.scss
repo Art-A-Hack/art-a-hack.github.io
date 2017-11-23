@@ -42,21 +42,27 @@ body {
 				}
 			}
 		}
+	}
+}
+
+body.open-call-banner {
+	header.main {
+		margin-bottom: 54px;
 
 		.open-call {
 			width: 100%;
 			text-align: center;
-			height: 36px;
 			position: absolute;
-			bottom: -36px;
+			bottom: -54px;
 
 			a {
+				height: 28px;
+				padding: 13px;
 				background-color: #ef402f;
 				color: #ffffff;
 				display: block;
 				z-index: 1000;
 				position: relative;
-				padding: 13px;
 				text-decoration: underline;
 				font-weight: bold;
 			}
@@ -69,13 +75,6 @@ body {
 				text-decoration: underline;
 			}
 		}
-	}
-}
-
-//Temporary during open call
-body.no-call-banner {
-	header.main {
-		margin-bottom: 0;
 	}
 }
 
