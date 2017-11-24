@@ -9,9 +9,9 @@ author:
   name: Andrew McWilliams
   email: andy@jahya.net
 
-display-call-banner: false
-call-url: /summer-2016/call
-call-text: Apply now for the 2016 Open Call
+display-call-banner: true
+call-url: /winter-2018/call
+call-text: Apply now for the 2018 Open Call
 
 # Grunt handles images and assets.
 exclude: ['images', 'stylesheets', 'javascript', 'fonts',
