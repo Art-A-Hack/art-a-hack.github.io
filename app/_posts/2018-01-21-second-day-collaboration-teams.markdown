@@ -10,7 +10,7 @@ Our teams have now completed their second day of collaboration on their art and 
 	<iframe src="https://www.flickr.com/photos/125924023@N07/39925409521/in/set-72157691949895824/player/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 </figure>
 
-Unlike our previous iterations of the Art-A-Hack program, the second day was on the Sunday, directly after the [first day of hacking on Saturday]({% post_url 2018-01-20-teams-begin-hacking-st-petersburg %}).
+Unlike our previous iterations of the Art-A-Hack program, the second day was on the Sunday, directly after the first day of hacking on Saturday.
 
 <!--excerpt-ends-->
 
