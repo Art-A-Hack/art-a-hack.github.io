@@ -5,13 +5,13 @@ bodyid    : "blog"
 bodyclass : "content post"
 ---
 
-Art-A-Hack special edition for [CYFEST 2018](http://cyland.org/lab/program-list/cylandfest/) kicked off tonight with an informal meeting in central St. Petersburg.
+Art-A-Hack special edition for [CYFEST 2018](http://cyland.org/lab/program-list/cylandfest/) kicked off tonight with an informal meeting in central St. Petersburg at the Dead Poets Cafe.
 
 <figure class="video">
-	<iframe src="https://www.flickr.com/photos/125924023@N07/39214147014/in/set-72157668914171329/player/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+	<iframe src="https://www.flickr.com/photos/125924023@N07/26052101238/in/set-72157668914171329/player/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 </figure>
 
-Artists, programmers and other creative practitioners all met each other for the first time, and started discussing their project ideas in preparation for the first workshops this weekend.
+Artists, programmers and other creative practitioners, all from Russia, met each other for the first time, and started discussing their project ideas in preparation for the first workshops this weekend.
 
 <!--excerpt-ends-->
 
