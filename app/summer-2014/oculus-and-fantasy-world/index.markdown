@@ -1,6 +1,6 @@
 ---
 layout    : simple-post
-title     : "Oculus Rift and Fantasy World - Art-A-Hack"
+title     : "Oculus Rift and Fantasy World"
 bodyid    : "report"
 bodyclass : "content post"
 ---

@@ -1,3 +1,24 @@
+{% if page.bodyid == 'home' %}
+  {% assign title = 'Art-A-Hack' %}
+{% else %}
+  {% capture title %}{{ page.title }}{% endcapture %}
+  {% assign title = page.title | append: ' | Art-A-Hack' %}
+{% endif %}
+
+{% capture image %}{{ page.image }}{% endcapture %}
+{% if image == '' %}
+  {% assign image = '/images/og_default.jpg' %}
+{% else %}
+  {% assign image = page.image %}
+{% endif %}
+
+{% capture description %}{{ page.description }}{% endcapture %}
+{% if description == '' %}
+  {% assign description = 'Art-A-Hack incubates teams from a variety of disciplines including art, technology, hardware and software development, design, immersive environments, music, theater, animation, social justice and interactivity, to collaboratively create something new.' %}
+{% else %}
+  {% assign description = page.description %}
+{% endif %}
+
 {% if page.url contains site.call-url %}
   {% assign display-call-banner = false %}
 {% else %}
@@ -10,16 +31,24 @@
 {% else %}
   {% capture bodyclass %}{{ page.bodyclass }}{% endcapture %}
 {% endif %}
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <title>{{ title }}</title>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="Description" content="Art-A-Hack supports and facilitates interdisciplinary teams in the creation, showcasing and promotion of novel uses of technology">
+    <meta name="Description" content="{{ description }}">
 
-    <title>{{ page.title }}{% if page.bodyid != "home" %} - Art-A-Hack{% endif %}</title>
-    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@art_a_hack" />
+    <meta name="twitter:creator" content="@art_a_hack" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url | replace:'index.html',''}}" />
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:image" content="{{ image }}" />
+    <meta property="og:description" content="{{ description }}" />
 
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Raleway:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">

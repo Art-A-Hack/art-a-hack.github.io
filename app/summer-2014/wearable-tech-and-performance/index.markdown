@@ -1,6 +1,6 @@
 ---
 layout    : simple-post
-title     : "Wearable Technology and Performance - Art-A-Hack"
+title     : "Wearable Technology and Performance"
 bodyid    : "report"
 bodyclass : "content post"
 ---

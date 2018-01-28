@@ -1,6 +1,6 @@
 ---
 layout    : simple-post
-title     : "Depth, Boundaries and Human Interaction - Art-A-Hack"
+title     : "Depth, Boundaries and Human Interaction"
 bodyid    : "report"
 bodyclass : "content post"
 ---

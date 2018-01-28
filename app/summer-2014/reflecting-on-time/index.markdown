@@ -1,6 +1,6 @@
 ---
 layout    : simple-post
-title     : "Reflecting on Time and Space - Art-A-Hack"
+title     : "Reflecting on Time and Space"
 bodyid    : "report"
 bodyclass : "content post"
 ---

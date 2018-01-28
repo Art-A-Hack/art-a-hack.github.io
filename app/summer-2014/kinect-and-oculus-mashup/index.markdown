@@ -1,6 +1,6 @@
 ---
 layout    : simple-post
-title     : "Oculus, Kinect and Extended Reality - Art-A-Hack"
+title     : "Oculus, Kinect and Extended Reality"
 bodyid    : "report"
 bodyclass : "content post"
 ---

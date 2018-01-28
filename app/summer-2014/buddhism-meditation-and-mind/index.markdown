@@ -1,6 +1,6 @@
 ---
 layout    : simple-post
-title     : "Buddhism, Meditation and the Mind - Art-A-Hack"
+title     : "Buddhism, Meditation and the Mind"
 bodyid    : "report"
 bodyclass : "content post"
 ---

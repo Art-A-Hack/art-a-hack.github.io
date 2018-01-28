@@ -24,6 +24,7 @@
     "grunt-filerev": "*",
     "grunt-jekyll": "*",
     "grunt-svgmin": "*",
+    "grunt-text-replace": "^0.4.0",
     "grunt-usemin": "=3.0.0",
     "grunt-auto-install": "*",
     "jshint-stylish": "*",

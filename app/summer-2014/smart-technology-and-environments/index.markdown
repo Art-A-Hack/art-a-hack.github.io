@@ -1,6 +1,6 @@
 ---
 layout    : simple-post
-title     : "Smart Technology and Environments - Art-A-Hack"
+title     : "Smart Technology and Environments"
 bodyid    : "report"
 bodyclass : "content post"
 ---

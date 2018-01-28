@@ -1,6 +1,6 @@
 ---
 layout    : simple-post
-title     : "Privacy and Google Glass - Art-A-Hack"
+title     : "Privacy and Google Glass"
 bodyid    : "report"
 bodyclass : "content post"
 ---
