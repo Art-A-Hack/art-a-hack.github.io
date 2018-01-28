@@ -3,6 +3,7 @@ layout    : post
 title     : "Pictures From Week 3"
 bodyid    : "blog"
 bodyclass : "content post"
+image     : /images/og/2015-week-3.jpg
 ---
 Week three brought new challenges as the teams discovered the limits of both time and their abilities.
 

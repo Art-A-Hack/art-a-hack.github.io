@@ -3,6 +3,7 @@ layout    : post
 title     : "Photos from Final Week"
 bodyid    : "blog"
 bodyclass : "content post"
+image     : /images/og/2016-week-4.jpg
 ---
 
 This was the last week the Art-A-Hack teams had together before presenting their work at the showcase.

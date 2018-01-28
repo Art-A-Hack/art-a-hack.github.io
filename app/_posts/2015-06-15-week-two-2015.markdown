@@ -3,6 +3,7 @@ layout    : post
 title     : "Week 2 of Art-A-Hack 2015"
 bodyid    : "blog"
 bodyclass : "content post"
+image     : /images/og/2015-week-2.jpg
 ---
 The pressure was on for our second week as teams delved into their individual and group projects together.
 

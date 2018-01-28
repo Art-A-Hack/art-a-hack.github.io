@@ -3,6 +3,7 @@ layout    : post
 title     : "First Day of Co-Working in the 2016 Season"
 bodyid    : "blog"
 bodyclass : "content post"
+image     : /images/og/2016-week-1.jpg
 ---
 The teams met and worked Saturday during our first co-working session of the 2016 season. It was a great day, spread across two locations in the city.
 

@@ -3,6 +3,7 @@ layout    : post
 title     : "Social Kicks Off Art-A-Hack at Cyberfest 2018"
 bodyid    : "blog"
 bodyclass : "content post"
+image     : /images/og/2018-cyfest-social.jpg
 ---
 
 Art-A-Hack special edition for [CYFEST 2018](http://cyland.org/lab/program-list/cylandfest/) kicked off tonight with an informal meeting in central St. Petersburg at the Dead Poets Cafe.

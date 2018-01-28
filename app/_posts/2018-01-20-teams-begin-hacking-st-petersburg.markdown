@@ -3,6 +3,7 @@ layout    : post
 title     : "Teams Begin Hacking at Masters School in St. Petersburg"
 bodyid    : "blog"
 bodyclass : "content post"
+image     : /images/og/2018-cyfest-week-1.jpg
 ---
 Today our teams began their first day of hacking at our special edition of Art-A-Hack at [CYFEST 2018](http://cyland.org/lab/program-list/cylandfest/).
 

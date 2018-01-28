@@ -3,6 +3,7 @@ layout    : post
 title     : "Journey Presentations at Livestream Public"
 bodyid    : "blog"
 bodyclass : "content post"
+image     : /images/og/2014-presentations.jpg
 redirect_from:
  - /posts/2014/08/15/final-journey-presentations/
  - /summer-2014/journey-presentations/

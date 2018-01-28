@@ -3,6 +3,7 @@ layout    : post
 title     : "Photos from Third Week of Hacking"
 bodyid    : "blog"
 bodyclass : "content post"
+image     : /images/og/2016-week-3.jpg
 ---
 One of the themes starting to emerge in week 3 was the limits of technology. What happends when technology goes wrong?
 

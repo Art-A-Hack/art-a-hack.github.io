@@ -3,6 +3,7 @@ layout    : post
 title     : "Photos from Week Three"
 bodyid    : "blog"
 bodyclass : "content post"
+image     : /images/og/2014-week-3.jpg
 redirect_from: /posts/2014/07/20/photos-from-week-three/
 ---
 Check out the photos from week 3! In this week many teams were finalizing their ideas, and reflecting on their process. At the end we had a showcase and discussion about the nature and future of Art-A-Hack!
