@@ -45,11 +45,11 @@ body {
 	}
 }
 
-body.open-call-banner {
+body.site-banner {
 	header.main {
 		margin-bottom: 54px;
 
-		.open-call {
+		.banner {
 			width: 100%;
 			text-align: center;
 			position: absolute;
@@ -68,11 +68,11 @@ body.open-call-banner {
 			}
 
 			a:link, a:visited {
-				text-decoration: none;
+				text-decoration: underline;
 			}
 
 			a:hover, a:active {
-				text-decoration: underline;
+				text-decoration: none;
 			}
 		}
 	}

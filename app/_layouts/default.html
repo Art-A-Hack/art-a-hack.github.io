@@ -26,7 +26,7 @@
 {% endif %}
 
 {% if display-banner %}
-  {% capture bodyclass %}{{ page.bodyclass }} open-call-banner{% endcapture %}
+  {% capture bodyclass %}{{ page.bodyclass }} site-banner{% endcapture %}
   {% capture bodyclass %}{{ bodyclass | strip }}{% endcapture %}
 {% else %}
   {% capture bodyclass %}{{ page.bodyclass }}{% endcapture %}
@@ -91,7 +91,7 @@
           </ul>
         </nav>
         {% if display-banner %}
-          <aside class="open-call">
+          <aside class="banner">
             <a href="{{ site.banner-url }}">{{ site.banner-text }}</a>
           </aside>
         {% endif %}
