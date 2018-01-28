@@ -97,7 +97,7 @@
 <lastmod>2014-06-19T00:00:00+04:00</lastmod>
 </url>
 <url>
-<loc>https://artahack.io/about/</loc>
+<loc>https://artahack.io/404/</loc>
 </url>
 <url>
 <loc>https://artahack.io/alumni/</loc>
@@ -110,6 +110,9 @@
 </url>
 <url>
 <loc>https://artahack.io/summer-2014/call/</loc>
+</url>
+<url>
+<loc>https://artahack.io/about/</loc>
 </url>
 <url>
 <loc>https://artahack.io/summer-2015/call/</loc>
@@ -127,10 +130,7 @@
 <loc>https://artahack.io/</loc>
 </url>
 <url>
-<loc>https://artahack.io/summer-2014/oculus-and-fantasy-world/</loc>
-</url>
-<url>
-<loc>https://artahack.io/summer-2014/reflecting-on-time/</loc>
+<loc>https://artahack.io/summer-2014/public-space-and-theater/</loc>
 </url>
 <url>
 <loc>https://artahack.io/summer-2014/report/</loc>
@@ -139,10 +139,10 @@
 <loc>https://artahack.io/summer-2014/smart-technology-and-environments/</loc>
 </url>
 <url>
-<loc>https://artahack.io/summer-2014/buddhism-meditation-and-mind/</loc>
+<loc>https://artahack.io/summer-2014/wearable-tech-and-performance/</loc>
 </url>
 <url>
-<loc>https://artahack.io/summer-2014/wearable-tech-and-performance/</loc>
+<loc>https://artahack.io/summer-2014/buddhism-meditation-and-mind/</loc>
 </url>
 <url>
 <loc>https://artahack.io/summer-2014/depth-boundaries-and-human-interaction/</loc>
@@ -154,7 +154,10 @@
 <loc>https://artahack.io/summer-2014/kinect-and-oculus-mashup/</loc>
 </url>
 <url>
-<loc>https://artahack.io/summer-2014/public-space-and-theater/</loc>
+<loc>https://artahack.io/summer-2014/oculus-and-fantasy-world/</loc>
+</url>
+<url>
+<loc>https://artahack.io/summer-2014/reflecting-on-time/</loc>
 </url>
 <url>
 <loc>https://artahack.io/projects/afro-futuristic-carnival/</loc>
