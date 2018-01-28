@@ -3,6 +3,7 @@ layout    : simple-post
 title     : "Wearable Technology and Performance"
 bodyid    : "report"
 bodyclass : "content post"
+description : Report from Art-A-Hack, a program which incubates teams from a variety of disciplines including art, technology, hardware and software development, design, immersive environments, music, theater, animation, social justice and interactivity, to collaboratively create something new.
 ---
 
 <h2>Wearable Technology and Performance</h2>
