@@ -19,13 +19,13 @@
   {% assign description = page.description %}
 {% endif %}
 
-{% if page.url contains site.call-url %}
-  {% assign display-call-banner = false %}
+{% if page.url contains site.banner-url %}
+  {% assign display-banner = false %}
 {% else %}
-  {% assign display-call-banner = site.display-call-banner %}
+  {% assign display-banner = site.display-banner %}
 {% endif %}
 
-{% if display-call-banner %}
+{% if display-banner %}
   {% capture bodyclass %}{{ page.bodyclass }} open-call-banner{% endcapture %}
   {% capture bodyclass %}{{ bodyclass | strip }}{% endcapture %}
 {% else %}
@@ -90,9 +90,9 @@
             <li><a href="/blog/">Blog</a></li>
           </ul>
         </nav>
-        {% if display-call-banner %}
+        {% if display-banner %}
           <aside class="open-call">
-            <a href="{{ site.call-url }}">{{ site.call-text }}</a>
+            <a href="{{ site.banner-url }}">{{ site.banner-text }}</a>
           </aside>
         {% endif %}
       </header>

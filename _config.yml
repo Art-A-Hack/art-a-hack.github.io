@@ -9,9 +9,9 @@ author:
   name: Andrew McWilliams
   email: andy@jahya.net
 
-display-call-banner: false
-call-url: /winter-2018/call
-call-text: Apply now for the 2018 Open Call
+display-banner: true
+banner-url: /blog/
+banner-text: Art-A-Hack CYFEST edition happening now in St. Petersburg
 
 # Grunt handles images and assets.
 exclude: ['images', 'stylesheets', 'javascript', 'fonts',
