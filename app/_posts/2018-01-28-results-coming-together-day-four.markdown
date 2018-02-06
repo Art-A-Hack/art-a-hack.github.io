@@ -5,7 +5,7 @@ bodyid    : "blog"
 bodyclass : "content post"
 image     : /images/og/2018-cyfest-week-4.jpg
 ---
-Diligent work and problem-solving resulted in major progress during the fourth week of hacking.
+Diligent work and problem-solving resulted in major progress during the fourth day of hacking.
 
 <figure class="video">
 	<iframe src="https://www.flickr.com/photos/125924023@N07/25202579867/in/set-72157669200959369/player/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
