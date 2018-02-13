@@ -77,6 +77,11 @@
             <img class="text" src="/images/artahack-logo-text.jpg" alt="Art-A-Hack" />
           </a>
         </h1>
+        {% if display-banner %}
+          <aside class="banner">
+            <a href="{{ site.banner-url }}">{{ site.banner-text }}</a>
+          </aside>
+        {% endif %}
         <nav role="navigation">
           <h2>Navigation</h2>
           <a id="menu-button" href="#">
@@ -90,11 +95,6 @@
             <li><a href="/blog/">Blog</a></li>
           </ul>
         </nav>
-        {% if display-banner %}
-          <aside class="banner">
-            <a href="{{ site.banner-url }}">{{ site.banner-text }}</a>
-          </aside>
-        {% endif %}
       </header>
     {% if page.bodyid == 'home' %}
       <figure id="image-grid" class="bottom">
