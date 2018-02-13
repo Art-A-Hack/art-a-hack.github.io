@@ -11,7 +11,7 @@ author:
 
 display-banner: false
 banner-url: /blog/
-banner-text: Art-A-Hack CYFEST edition happening now in St. Petersburg
+banner-text: Follow Art-A-Hack CYFEST in St. Petersburg
 
 # Grunt handles images and assets.
 exclude: ['images', 'stylesheets', 'javascript', 'fonts',

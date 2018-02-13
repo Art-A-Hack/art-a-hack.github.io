@@ -211,6 +211,12 @@ body.site-banner {
 	}
 }
 
+@media (max-width: 399px) {
+	body.site-banner header.main .banner a {
+		font-size: 0.9em;
+	}
+}
+
 @media (max-width: 339px) {
 	body {
 		header.main {
