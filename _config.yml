@@ -47,7 +47,7 @@ slider_array: []
 
 highlighter: true
 
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-paginate
