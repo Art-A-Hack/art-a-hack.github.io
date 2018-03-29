@@ -37,5 +37,5 @@ This allows fashion designers, students, retailers and many more to experience f
 
 <figure>
 	<img src="/images/projects/2015/oculus-fiber/microscope.jpg" alt="A high resultion microscope that determined fabric structure" />
-	<figcaption>A high resultion microscope that determined fabric structure</figcaption>
+	<figcaption>A high resolution microscope that determined fabric structure</figcaption>
 </figure>
