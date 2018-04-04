@@ -7,19 +7,27 @@ description : Projects from Art-A-Hack, a program which incubates teams from a v
 ---
 <main>
 	<article role="article" class="grid-container">
-		<h1>Art-A-Hack&#8482; 2016</h1>
-		<div class="grid">
-			{% for project in site.projects %}
-			<figure>
-				<a href="{{ project.url }}">
-					<img src="/images/projects/{{ project.year }}/{{ project.projectid }}/{{ project.projectid }}.jpg" />
-					<figcaption>
-						<h2>{{ project.title }}</h2>
-					</figcaption>
-				</a>
-				<p>{{ project.teaser }}</p>
-			</figure>
-			{% endfor %}
-		</div>
+		{% assign startyear = 2016 %}
+		{% for i in (0..1) %}
+			{% assign year = startyear | minus: i %}
+			<h1>Art-A-Hack&#8482; {{ year }}</h1>
+			<div class="grid">
+				{% for project in site.projects %}
+					{% if project.year == year %}
+						<figure>
+							<a href="{{ project.url }}">
+								<img src="/images/projects/{{ project.year }}/{{ project.projectid }}/{{ project.projectid }}.jpg" />
+								<figcaption>
+									<h2>{{ project.title }}</h2>
+								</figcaption>
+							</a>
+							<p>{{ project.teaser }}</p>
+						</figure>
+					{% endif %}
+				{% endfor %}
+			</div>
+		{% endfor %}
+		<h1>Art-A-Hack&#8482; 2014</h1>
+		<p class="center">Our inaugral Art-A-Hack&#8482; in 2014 is <a href="/summer-2014/report/">documented in this project report</a>.
 	</article>
 </main>
