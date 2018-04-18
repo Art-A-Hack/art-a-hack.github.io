@@ -9,9 +9,9 @@ author:
   name: Andrew McWilliams
   email: andy@jahya.net
 
-display-banner: false
+display-banner: true
 banner-url: /blog/
-banner-text: Follow Art-A-Hack CYFEST in St. Petersburg
+banner-text: Apply now for Art-A-Hack&trade; 2018
 
 # Grunt handles images and assets.
 exclude: ['images', 'stylesheets', 'javascript', 'fonts',
