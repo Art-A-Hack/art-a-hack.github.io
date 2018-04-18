@@ -6,7 +6,12 @@ bodyclass : "content post"
 description : Open Call for Art-A-Hack, a program which incubates teams from a variety of disciplines including art, technology, hardware and software development, design, immersive environments, music, theater, animation, social justice and interactivity, to collaboratively create something new.
 ---
 
-Announcing **Art-A-Hack&trade; Special Edition** &mdash; a themed collaborative creation between groups of artists/engineers, designers/makers and others around issues of Artificial Intelligence, Brain Computer Interfaces, Climate Change, Data and Disinformation.
+Announcing **Art-A-Hack&trade; Special Edition** &mdash; a themed collaborative creation between groups of artists/engineers, designers/makers, or whatever combination arises based on your project proposals. The two themes explored in this Special Edition are:
+
+1. Climate Change: Data &amp; Disinformation, and
+2. Emotionally Intelligent Artificial Intelligence &amp; Brain Computer Interfaces
+
+Read the Open call below for more detail on the themes and on the summer program we have lined up.
 
 Previous years of Art-A-Hack included inventions, installations, collaborations, performances — learn about [previous projects here](/projects/), or watch our [summation video](https://www.youtube.com/watch?v=l1hfv_GlvGg) for inspiration.
 
@@ -14,7 +19,7 @@ Previous years of Art-A-Hack included inventions, installations, collaborations,
 	<iframe src="https://www.youtube.com/embed/l1hfv_GlvGg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </figure>
 
-This year our partner is the **New York City College of Technology, City Tech** with a final showcase in downtown Brooklyn promising more fantastic outcomes. Are you interested in taking part? To apply now, please read the Open Call below and [fill out the application](https://docs.google.com/forms/d/e/1FAIpQLSd46YB4qkhivRoNfuhc0LjTTfaIP5Y82KqSB6oiB18Ok7ltIQ/viewform). We really want to work with you!
+This year our partner is the **New York City College of Technology, City Tech** with a final showcase in downtown Brooklyn promising more fantastic outcomes. Are you interested in taking part? To apply now, please read the Open Call below and <a href="https://docs.google.com/forms/d/e/1FAIpQLSd46YB4qkhivRoNfuhc0LjTTfaIP5Y82KqSB6oiB18Ok7ltIQ/viewform" target="_blank">fill out the application</a>. We really want to work with you!
 
 Make sure you are available to take part on the dates of **June 9, 16, 23, and July 7 and 13** — see below for full timing details. If you cannot commit to those specific dates then please reconsider your application. Send us your ideas, we'll team you up with like-minded souls, and you can blast off into the stratosphere together.
 
@@ -36,7 +41,7 @@ During four weekends we will co-create on site at ThoughtWorks, Floor 15, 99 Mad
 
 ## How to apply
 
-To apply, [fill out the application now](https://docs.google.com/forms/d/e/1FAIpQLSd46YB4qkhivRoNfuhc0LjTTfaIP5Y82KqSB6oiB18Ok7ltIQ/viewform) for this special dual themed Art-A-Hack. Please consider how your application might support or lead in one of our two themes, outlined below.
+To apply, <a href="https://docs.google.com/forms/d/e/1FAIpQLSd46YB4qkhivRoNfuhc0LjTTfaIP5Y82KqSB6oiB18Ok7ltIQ/viewform" target="_blank">fill out the application now</a> for this special dual themed Art-A-Hack. Please consider how your application might support or lead in one of our two themes, outlined below.
 
 Describe a project idea you want to try, the technologies you'd like to get into, and/or the skills you have to contribute to an already existing project. If you are an artist and do not have tech skills, that is OK. Conversely, if you are a programmer and don't have any compelling ideas, that is OK as well.
 
