@@ -34,7 +34,7 @@ Here's the deal: We are seeking coders, artists, scientists, makers and dreamers
 	<img src="/images/calls/summer-2016/art-a-hack-1.jpg" alt="Art-A-Hack" />
 </figure>
 
-We will provide space, equipment, facilitation and advice, and a stellar showcase opportunity at the CUNY theater.
+We will provide space, equipment, facilitation and advice, and a stellar showcase opportunity at the CUNY City Tech theater.
 
 During four weekends we will co-create on site at ThoughtWorks, Floor 15, 99 Madison Ave between E. 29 and E. 30th Street, New York 10016. There will be a pre-event social on June 7, as well as presenting finished prototypes at CUNY in July.
 
