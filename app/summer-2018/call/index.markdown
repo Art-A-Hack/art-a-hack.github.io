@@ -134,3 +134,5 @@ Director [ThoughtWorks Arts Residency](https://thoughtworksarts.io)
 President [Art-A-Hack](https://artahack.io)  
 Director, [Volumetric Society of New York](https://meetup.com/volumetric/)  
 Contact: [ellen@artahack.io](mailto:ellen@artahack.io)
+
+<a href="http://www.citytech.cuny.edu/"><img src="/images/sponsors/city-tech.png" alt="NYC College of Technology, City Tech" style="max-width: 430px;" /></a>
