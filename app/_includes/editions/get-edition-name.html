@@ -1,0 +1,6 @@
+{% if edition contains '-' %}
+	{% assign special-edition = site.data.special-editions | where: 'id', edition | first %}
+	{% assign edition-name = special-edition.name %}
+{% else %}
+	{% assign edition-name = edition %}
+{% endif %}

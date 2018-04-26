@@ -2,7 +2,7 @@
 layout    : project
 bodyid    : "projects"
 bodyclass : "content post"
-year      : 2018
+year      : 2018-cyfest
 
 title       : Holo Sapiens
 projectid   : "holo-sapiens"

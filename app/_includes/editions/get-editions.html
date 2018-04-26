@@ -1,0 +1,8 @@
+{% assign projects_str = '' %}
+
+{% for project in site.projects %}
+	{% assign project_path_arr = project.path | split: '/' %}
+	{% assign editions_str = editions_str | append: '|' | append: project_path_arr[1] %}
+{% endfor %}
+
+{% assign editions = editions_str | split: '|' | uniq | reverse %}
