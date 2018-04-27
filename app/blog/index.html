@@ -7,7 +7,7 @@ description : Articles and blog posts of Art-A-Hack, a program which incubates t
 <div class="flex-row">
 	<main class="left">
 		{% for post in paginator.posts %}
-		<article role="article" itemscope itemtype="http://schema.org/BlogPosting">
+		<article role="article">
 			<header>
 				<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 				<div class="widgets">
