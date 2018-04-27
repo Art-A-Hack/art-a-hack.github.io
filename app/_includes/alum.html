@@ -1,12 +1,12 @@
 <figure>
 	<img src="/images/alumni/{{ alum.edition }}/{{ alum.photo }}" />
-	<figcaption><h2>{{ include.alum.name }}</h2></figcaption>
-	<p>{{ include.alum.occupation }}</p>
+	<figcaption><h2>{{ alum.name }}</h2></figcaption>
+	<p>{{ alum.occupation }}</p>
 	<ul class="links">
-		{% for link in include.alum.links %}
-		{% if link.url != "" %}
-		<li><a href="{{ link.url }}"><i class="fa {{ link.icon }}"></i></a></li>
-		{% endif %}
+		{% for link in alum.links %}
+			{% if link.url != "" %}
+				<li><a href="{{ link.url }}"><i class="fa {{ link.icon }}"></i></a></li>
+			{% endif %}
 		{% endfor %}
 	</ul>
 </figure>
