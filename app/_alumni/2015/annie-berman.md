@@ -1,27 +1,27 @@
 ---
 name        : Annie Berman
-photo       : "annie.jpg"
-occupation  : "Artist"
+photo       : annie.jpg
+occupation  : Artist
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : ""
- - icon     : "fa-linkedin"
-   url      : ""
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : "https://vimeo.com/thefaithful"
- - icon     : "fa-github"
-   url      : ""
- - icon     : "fa-tumblr"
-   url      : "http://streetviewsfilm.tumblr.com"
- - icon     : "fa-globe"
-   url      : "http://www.the-faithful.com"
- - icon     : "fa-globe"
-   url      : "http://www.fishinhand.com"
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : 
+ - icon     : linkedin
+   url      : 
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : https://vimeo.com/thefaithful
+ - icon     : github
+   url      : 
+ - icon     : tumblr
+   url      : http://streetviewsfilm.tumblr.com
+ - icon     : globe
+   url      : http://www.the-faithful.com
+ - icon     : globe
+   url      : http://www.fishinhand.com
 ---

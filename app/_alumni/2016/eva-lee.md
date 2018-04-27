@@ -1,25 +1,25 @@
 ---
 name        : Eva Lee
-photo       : "eva.jpg"
-occupation  : "Artist &amp; Experimental Filmmaker"
+photo       : eva.jpg
+occupation  : Artist &amp; Experimental Filmmaker
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : ""
- - icon     : "fa-linkedin"
-   url      : ""
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : "https://vimeo.com/evaleee"
- - icon     : "fa-github"
-   url      : ""
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : "http://www.evaleestudio.com/"
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : 
+ - icon     : linkedin
+   url      : 
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : https://vimeo.com/evaleee
+ - icon     : github
+   url      : 
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : http://www.evaleestudio.com/
 ---

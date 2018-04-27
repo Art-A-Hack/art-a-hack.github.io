@@ -1,27 +1,27 @@
 ---
 name        : Chris Clapis
-photo       : "chris.jpg"
-occupation  : "Developer"
+photo       : chris.jpg
+occupation  : Developer
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : "https://twitter.com/shaderboy"
- - icon     : "fa-linkedin"
-   url      : ""
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : "https://vimeo.com/shaderboy"
- - icon     : "fa-youtube"
-   url      : "https://www.youtube.com/channel/UC1umVGuPXJPkoMzXr-369BA"
- - icon     : "fa-github"
-   url      : "https://github.com/shaderboy"
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : "http://www.shaderboy.cc/"
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : https://twitter.com/shaderboy
+ - icon     : linkedin
+   url      : 
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : https://vimeo.com/shaderboy
+ - icon     : youtube
+   url      : https://www.youtube.com/channel/UC1umVGuPXJPkoMzXr-369BA
+ - icon     : github
+   url      : https://github.com/shaderboy
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : http://www.shaderboy.cc/
 ---

@@ -1,25 +1,25 @@
 ---
 name        : Sofy Yuditskaya
-photo       : "sofy.jpg"
-occupation  : "Artist"
+photo       : sofy.jpg
+occupation  : Artist
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : "https://twitter.com/horusvacui"
- - icon     : "fa-linkedin"
-   url      : ""
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : "http://soundcloud.com/yuditskaya"
- - icon     : "fa-vimeo-square"
-   url      : ""
- - icon     : "fa-github"
-   url      : "https://github.com/timeFliesWhenYoureHavingFun"
- - icon     : "fa-tumblr"
-   url      : "http://soniayuditskaya.tumblr.com/"
- - icon     : "fa-globe"
-   url      : "http://yuditskaya.com/"
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : https://twitter.com/horusvacui
+ - icon     : linkedin
+   url      : 
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : http://soundcloud.com/yuditskaya
+ - icon     : vimeo-square
+   url      : 
+ - icon     : github
+   url      : https://github.com/timeFliesWhenYoureHavingFun
+ - icon     : tumblr
+   url      : http://soniayuditskaya.tumblr.com/
+ - icon     : globe
+   url      : http://yuditskaya.com/
 ---

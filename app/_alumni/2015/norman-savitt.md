@@ -1,27 +1,27 @@
 ---
 name        : Norman Savitt
-photo       : "norman.jpg"
-occupation  : "Musician, Mechanical Engineer"
+photo       : norman.jpg
+occupation  : Musician, Mechanical Engineer
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : ""
- - icon     : "fa-linkedin"
-   url      : "https://www.linkedin.com/pub/norman-savitt/17/a4/887"
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : ""
- - icon     : "fa-github"
-   url      : ""
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : "http://balkansamba.com/the-artists/norman-savitt/norman-review/"
- - icon     : "fa-globe"
-   url      : "https://www.reverbnation.com/normansavitt"
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : 
+ - icon     : linkedin
+   url      : https://www.linkedin.com/pub/norman-savitt/17/a4/887
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : 
+ - icon     : github
+   url      : 
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : http://balkansamba.com/the-artists/norman-savitt/norman-review/
+ - icon     : globe
+   url      : https://www.reverbnation.com/normansavitt
 ---

@@ -1,25 +1,25 @@
 ---
 name        : Gal Nissim
-photo       : "gal.jpg"
-occupation  : "ScienArtist"
+photo       : gal.jpg
+occupation  : ScienArtist
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : ""
- - icon     : "fa-linkedin"
-   url      : ""
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : ""
- - icon     : "fa-github"
-   url      : ""
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : "http://www.galnissim.com/"
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : 
+ - icon     : linkedin
+   url      : 
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : 
+ - icon     : github
+   url      : 
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : http://www.galnissim.com/
 ---

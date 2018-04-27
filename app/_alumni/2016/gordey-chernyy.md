@@ -1,25 +1,25 @@
 ---
 name        : Gordey Chernyy
-photo       : "gordey.jpg"
-occupation  : "Artist &amp; Technologist"
+photo       : gordey.jpg
+occupation  : Artist &amp; Technologist
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : ""
- - icon     : "fa-linkedin"
-   url      : ""
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : "https://vimeo.com/gordich"
- - icon     : "fa-github"
-   url      : "https://github.com/GordeyChernyy"
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : "http://www.gordich.com/"
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : 
+ - icon     : linkedin
+   url      : 
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : https://vimeo.com/gordich
+ - icon     : github
+   url      : https://github.com/GordeyChernyy
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : http://www.gordich.com/
 ---

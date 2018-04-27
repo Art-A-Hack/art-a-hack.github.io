@@ -1,25 +1,25 @@
 ---
 name        : Avi Fox-Rosen
-photo       : "avi.jpg"
-occupation  : "Musician, Developer"
+photo       : avi.jpg
+occupation  : Musician, Developer
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : "https://twitter.com/avifoxrosen"
- - icon     : "fa-linkedin"
-   url      : ""
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : ""
- - icon     : "fa-github"
-   url      : "https://github.com/avifoxi"
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : "http://www.avifoxrosen.com/"
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : https://twitter.com/avifoxrosen
+ - icon     : linkedin
+   url      : 
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : 
+ - icon     : github
+   url      : https://github.com/avifoxi
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : http://www.avifoxrosen.com/
 ---

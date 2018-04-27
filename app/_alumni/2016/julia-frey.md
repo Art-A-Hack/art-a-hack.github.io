@@ -1,25 +1,25 @@
 ---
 name        : Julia Frey
-photo       : "julia-frey.jpg"
-occupation  : "Actor &amp; Director"
+photo       : julia-frey.jpg
+occupation  : Actor &amp; Director
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : "https://twitter.com/freyfreyfornow"
- - icon     : "fa-linkedin"
-   url      : ""
- - icon     : "fa-instagram"
-   url      : "https://www.instagram.com/juliafrey/"
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : ""
- - icon     : "fa-github"
-   url      : ""
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : "http://juliafrey.net"
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : https://twitter.com/freyfreyfornow
+ - icon     : linkedin
+   url      : 
+ - icon     : instagram
+   url      : https://www.instagram.com/juliafrey/
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : 
+ - icon     : github
+   url      : 
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : http://juliafrey.net
 ---

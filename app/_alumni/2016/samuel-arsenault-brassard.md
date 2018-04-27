@@ -1,25 +1,25 @@
 ---
-name        : "Samuel Arsenault-Brassard"
-photo       : "sam-ab.jpg"
-occupation  : "Artist, Architecture Specialist"
+name        : Samuel Arsenault-Brassard
+photo       : sam-ab.jpg
+occupation  : Artist, Architecture Specialist
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : "https://twitter.com/Sam__AB"
- - icon     : "fa-linkedin"
-   url      : "https://ca.linkedin.com/in/samuel-arsenault-brassard-69340a78"
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : ""
- - icon     : "fa-github"
-   url      : ""
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : ""
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : https://twitter.com/Sam__AB
+ - icon     : linkedin
+   url      : https://ca.linkedin.com/in/samuel-arsenault-brassard-69340a78
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : 
+ - icon     : github
+   url      : 
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : 
 ---

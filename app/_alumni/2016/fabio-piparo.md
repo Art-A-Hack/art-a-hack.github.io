@@ -1,27 +1,27 @@
 ---
 name        : Fabio Piparo
-photo       : "fabio.jpg"
-occupation  : "Developer"
+photo       : fabio.jpg
+occupation  : Developer
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : ""
- - icon     : "fa-linkedin"
-   url      : "https://www.linkedin.com/in/fabio-piparo-44029886"
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : "https://vimeo.com/whatta"
- - icon     : "fa-github"
-   url      : "https://github.com/holofermes"
- - icon     : "fa-bitbucket"
-   url      : "https://bitbucket.org/holofermes/"
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : ""
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : 
+ - icon     : linkedin
+   url      : https://www.linkedin.com/in/fabio-piparo-44029886
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : https://vimeo.com/whatta
+ - icon     : github
+   url      : https://github.com/holofermes
+ - icon     : bitbucket
+   url      : https://bitbucket.org/holofermes/
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : 
 ---

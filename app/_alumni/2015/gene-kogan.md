@@ -1,25 +1,25 @@
 ---
 name        : Gene Kogan
-photo       : "gene.jpg"
-occupation  : "Artist, Programmer"
+photo       : gene.jpg
+occupation  : Artist, Programmer
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : "https://twitter.com/genekogan"
- - icon     : "fa-linkedin"
-   url      : ""
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : "https://vimeo.com/genekogan"
- - icon     : "fa-github"
-   url      : "https://github.com/genekogan"
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : "http://genekogan.com/"
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : https://twitter.com/genekogan
+ - icon     : linkedin
+   url      : 
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : https://vimeo.com/genekogan
+ - icon     : github
+   url      : https://github.com/genekogan
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : http://genekogan.com/
 ---

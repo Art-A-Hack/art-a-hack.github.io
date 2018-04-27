@@ -1,25 +1,25 @@
 ---
 name        : David Tracy
-photo       : "david.jpg"
-occupation  : "Designer &amp; Technologist"
+photo       : david.jpg
+occupation  : Designer &amp; Technologist
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : "https://twitter.com/davidptracy"
- - icon     : "fa-linkedin"
-   url      : ""
- - icon     : "fa-instagram"
-   url      : "https://www.instagram.com/davidptracy/"
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : "https://vimeo.com/user20609962/videos"
- - icon     : "fa-github"
-   url      : "https://github.com/davidptracy"
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : ""
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : https://twitter.com/davidptracy
+ - icon     : linkedin
+   url      : 
+ - icon     : instagram
+   url      : https://www.instagram.com/davidptracy/
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : https://vimeo.com/user20609962/videos
+ - icon     : github
+   url      : https://github.com/davidptracy
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : 
 ---

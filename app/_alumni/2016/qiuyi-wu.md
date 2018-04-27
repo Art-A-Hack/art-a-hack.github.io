@@ -1,25 +1,25 @@
 ---
 name        : QiuYi Wu  
-photo       : "qiuyi.jpg"
-occupation  : "Creative Technologist &amp; Dancer"
+photo       : qiuyi.jpg
+occupation  : Creative Technologist &amp; Dancer
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : ""
- - icon     : "fa-linkedin"
-   url      : "https://www.linkedin.com/in/chewyishere"
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : "https://vimeo.com/chewyishere"
- - icon     : "fa-github"
-   url      : "https://github.com/chewyishere"
- - icon     : "fa-tumblr"
-   url      : "http://chewywu.tumblr.com/"
- - icon     : "fa-globe"
-   url      : "http://www.wasinfall.com/"
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : 
+ - icon     : linkedin
+   url      : https://www.linkedin.com/in/chewyishere
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : https://vimeo.com/chewyishere
+ - icon     : github
+   url      : https://github.com/chewyishere
+ - icon     : tumblr
+   url      : http://chewywu.tumblr.com/
+ - icon     : globe
+   url      : http://www.wasinfall.com/
 ---

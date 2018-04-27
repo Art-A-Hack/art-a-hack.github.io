@@ -1,25 +1,25 @@
 ---
 name        : Marie Patterson
-photo       : "marie.jpg"
-occupation  : "Electrical Engineer, Developer"
+photo       : marie.jpg
+occupation  : Electrical Engineer, Developer
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : "https://twitter.com/marieepatterson"
- - icon     : "fa-linkedin"
-   url      : "https://www.linkedin.com/in/marie-patterson-b52b8b2"
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : ""
- - icon     : "fa-github"
-   url      : ""
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : ""
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : https://twitter.com/marieepatterson
+ - icon     : linkedin
+   url      : https://www.linkedin.com/in/marie-patterson-b52b8b2
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : 
+ - icon     : github
+   url      : 
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : 
 ---

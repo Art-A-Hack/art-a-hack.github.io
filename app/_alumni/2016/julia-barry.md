@@ -1,29 +1,29 @@
 ---
 name        : Julia Barry
-photo       : "julia-b.jpg"
-occupation  : "Music Composer &amp; Web Designer"
+photo       : julia-b.jpg
+occupation  : Music Composer &amp; Web Designer
 
 links:
- - icon     : "fa-facebook"
-   url      : "http://facebook.com/juliabarryproductions"
- - icon     : "fa-facebook"
-   url      : "http://facebook.com/juliabarrymusic"
- - icon     : "fa-twitter"
-   url      : ""
- - icon     : "fa-linkedin"
-   url      : "https://www.linkedin.com/in/juliabarry"
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : ""
- - icon     : "fa-github"
-   url      : ""
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : "http://juliabarry.com"
- - icon     : "fa-globe"
-   url      : "http://juliabarryproductions.com"
+ - icon     : facebook
+   url      : http://facebook.com/juliabarryproductions
+ - icon     : facebook
+   url      : http://facebook.com/juliabarrymusic
+ - icon     : twitter
+   url      : 
+ - icon     : linkedin
+   url      : https://www.linkedin.com/in/juliabarry
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : 
+ - icon     : github
+   url      : 
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : http://juliabarry.com
+ - icon     : globe
+   url      : http://juliabarryproductions.com
 ---

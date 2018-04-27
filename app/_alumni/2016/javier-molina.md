@@ -1,25 +1,25 @@
 ---
 name        : Javier Molina
-photo       : "javier.jpg"
-occupation  : "Media Artist"
+photo       : javier.jpg
+occupation  : Media Artist
 
 links:
- - icon     : "fa-facebook"
-   url      : "https://www.facebook.com/PanchoJavier99"
- - icon     : "fa-twitter"
-   url      : "https://twitter.com/panchojavier"
- - icon     : "fa-linkedin"
-   url      : ""
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : ""
- - icon     : "fa-github"
-   url      : ""
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : "http://www.javiermolina.net/"
+ - icon     : facebook
+   url      : https://www.facebook.com/PanchoJavier99
+ - icon     : twitter
+   url      : https://twitter.com/panchojavier
+ - icon     : linkedin
+   url      : 
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : 
+ - icon     : github
+   url      : 
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : http://www.javiermolina.net/
 ---

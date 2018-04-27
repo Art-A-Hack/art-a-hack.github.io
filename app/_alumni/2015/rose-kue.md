@@ -1,25 +1,25 @@
 ---
 name        : Rose Kue
-photo       : "rose.jpg"
-occupation  : "Designer, Musician"
+photo       : rose.jpg
+occupation  : Designer, Musician
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : "https://twitter.com/rosekue"
- - icon     : "fa-linkedin"
-   url      : ""
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : ""
- - icon     : "fa-github"
-   url      : ""
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : "http://www.kuesclues.com/"
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : https://twitter.com/rosekue
+ - icon     : linkedin
+   url      : 
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : 
+ - icon     : github
+   url      : 
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : http://www.kuesclues.com/
 ---

@@ -1,25 +1,25 @@
 ---
 name        : Rachel Stevens
-photo       : "rachel.jpg"
-occupation  : "Artist, Designer, Writer"
+photo       : rachel.jpg
+occupation  : Artist, Designer, Writer
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : "https://twitter.com/rachelstevens"
- - icon     : "fa-linkedin"
-   url      : "https://www.linkedin.com/in/rachels"
- - icon     : "fa-instagram"
-   url      : "https://www.instagram.com/rxstevens/"
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : ""
- - icon     : "fa-github"
-   url      : ""
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : "http://www.rachelstevens.net/"
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : https://twitter.com/rachelstevens
+ - icon     : linkedin
+   url      : https://www.linkedin.com/in/rachels
+ - icon     : instagram
+   url      : https://www.instagram.com/rxstevens/
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : 
+ - icon     : github
+   url      : 
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : http://www.rachelstevens.net/
 ---

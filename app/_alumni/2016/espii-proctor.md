@@ -1,25 +1,25 @@
 ---
 name        : Espii Proctor
-photo       : "espii.jpg"
-occupation  : "Dramaturg, Performer, Designer"
+photo       : espii.jpg
+occupation  : Dramaturg, Performer, Designer
 
 links:
- - icon     : "fa-facebook"
-   url      : "https://www.facebook.com/Sadah-Espii-Proctor-1521482031407368/"
- - icon     : "fa-twitter"
-   url      : "https://twitter.com/ladyespii"
- - icon     : "fa-linkedin"
-   url      : "https://www.linkedin.com/in/sadah-espii-proctor-08114b43"
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : ""
- - icon     : "fa-github"
-   url      : ""
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : ""
+ - icon     : facebook
+   url      : https://www.facebook.com/Sadah-Espii-Proctor-1521482031407368/
+ - icon     : twitter
+   url      : https://twitter.com/ladyespii
+ - icon     : linkedin
+   url      : https://www.linkedin.com/in/sadah-espii-proctor-08114b43
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : 
+ - icon     : github
+   url      : 
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : 
 ---

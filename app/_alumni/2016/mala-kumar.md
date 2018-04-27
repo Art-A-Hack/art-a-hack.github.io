@@ -1,27 +1,27 @@
 ---
 name        : Mala Kumar
-photo       : "mala.jpg"
-occupation  : "ICT4D Practitioner"
+photo       : mala.jpg
+occupation  : ICT4D Practitioner
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : "https://twitter.com/malaskumar"
- - icon     : "fa-linkedin"
-   url      : "https://www.linkedin.com/in/malakumar"
- - icon     : "fa-instagram"
-   url      : "https://instagram.com/msk1985/"
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : ""
- - icon     : "fa-github"
-   url      : ""
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : "http://malakumar.com"
- - icon     : "fa-globe"
-   url      : "http://pathsofmarriage.com"
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : https://twitter.com/malaskumar
+ - icon     : linkedin
+   url      : https://www.linkedin.com/in/malakumar
+ - icon     : instagram
+   url      : https://instagram.com/msk1985/
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : 
+ - icon     : github
+   url      : 
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : http://malakumar.com
+ - icon     : globe
+   url      : http://pathsofmarriage.com
 ---

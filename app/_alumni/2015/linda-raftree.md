@@ -1,25 +1,25 @@
 ---
 name        : Linda Raftree
-photo       : "linda.jpg"
-occupation  : "Founder &amp; Convener"
+photo       : linda.jpg
+occupation  : Founder &amp; Convener
 
 links:
- - icon     : "fa-facebook"
-   url      : ""
- - icon     : "fa-twitter"
-   url      : "https://twitter.com/meowtree"
- - icon     : "fa-linkedin"
-   url      : "https://www.linkedin.com/in/lindaraftree"
- - icon     : "fa-instagram"
-   url      : ""
- - icon     : "fa-soundcloud"
-   url      : ""
- - icon     : "fa-vimeo-square"
-   url      : ""
- - icon     : "fa-github"
-   url      : ""
- - icon     : "fa-tumblr"
-   url      : ""
- - icon     : "fa-globe"
-   url      : "http://lindaraftree.com/"
+ - icon     : facebook
+   url      : 
+ - icon     : twitter
+   url      : https://twitter.com/meowtree
+ - icon     : linkedin
+   url      : https://www.linkedin.com/in/lindaraftree
+ - icon     : instagram
+   url      : 
+ - icon     : soundcloud
+   url      : 
+ - icon     : vimeo-square
+   url      : 
+ - icon     : github
+   url      : 
+ - icon     : tumblr
+   url      : 
+ - icon     : globe
+   url      : http://lindaraftree.com/
 ---
