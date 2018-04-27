@@ -41,6 +41,26 @@
 	#members-short {
 		display: none;
 	}
+
+	.edition {
+		font-size: 1.1em;
+		font-weight: bold;
+		color: #afaeae;
+	}
+}
+
+@media (max-width: 1299px) {
+	#projects .edition {
+		padding: 0 0 0.1em 0;
+		position: relative;
+		top: -0.6em;
+	}
+}
+
+@media (max-width: 1099px) {
+	#projects .edition {
+		top: -0.8em;
+	}
 }
 
 @media (max-width: 899px) {
@@ -78,5 +98,11 @@
 				}
 			}
 		}
+	}
+}
+
+@media (max-width: 499px) {
+	#projects .edition {
+		font-size: 1em;
 	}
 }
