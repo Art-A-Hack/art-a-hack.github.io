@@ -62,6 +62,11 @@ collections:
 
 defaults:
   - scope:
+      type: pages
+    values:
+      layout    : default
+      bodyclass : content
+  - scope:
       type: posts
     values:
       layout    : post
