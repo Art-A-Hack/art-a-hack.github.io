@@ -1,5 +1,5 @@
 ---
-title   : Superficial / Substantive\
+title   : Superficial / Substantive
 teaser  : Solving all the wrong problems with technology
 
 members:
