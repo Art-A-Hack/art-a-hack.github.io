@@ -2,7 +2,6 @@
 layout    : project
 bodyid    : "projects"
 bodyclass : "content post"
-year      : 2018-cyfest
 
 title       : Blink of an Eye
 projectid   : "blink-of-an-eye"

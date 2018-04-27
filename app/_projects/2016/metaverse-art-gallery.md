@@ -2,7 +2,6 @@
 layout    : project
 bodyid    : "projects"
 bodyclass : "content post"
-year      : 2016
 
 title       : Metaverse Art Gallery
 projectid      : "metaverse-art-gallery"

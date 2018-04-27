@@ -2,7 +2,6 @@
 layout    : project
 bodyid    : "projects"
 bodyclass : "content post"
-year      : 2015
 
 title       : The Multi-Faceted Bass
 projectid   : "multi-faceted-bass"

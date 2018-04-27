@@ -2,7 +2,6 @@
 layout    : project
 bodyid    : "projects"
 bodyclass : "content post"
-year      : 2015
 
 title       : Utopia
 projectid   : "utopia"

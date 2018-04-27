@@ -2,7 +2,6 @@
 layout    : project
 bodyid    : "projects"
 bodyclass : "content post"
-year      : 2016
 
 title       : Echoing Ego
 projectid      : "echoing-ego"
