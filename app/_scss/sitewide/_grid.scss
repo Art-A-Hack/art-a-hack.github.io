@@ -10,7 +10,10 @@
 	}
 
 	h2 {
-		margin-top: 1.5em;
+		font-size: 1.8em;
+		margin: 2.2em 0 1.7em 0;
+		font-weight: bold;
+		color: #afaeae;
 	}
 }
 
@@ -32,18 +35,16 @@
 
 	figcaption {
 		padding: 0;
-
-		h2 {
-			margin: 0.5rem 0 0 0;
-			font-size: 1.4rem;
-		}
+		margin: 0.5rem 0 0 0;
+		font-size: 1.4rem;
+		font-weight: 400;
 	}
 
-	a:link h2, a:visited h2 {
+	a:link figcaption, a:visited figcaption {
 		text-decoration: underline;
 	}
 
-	a:hover h2, a:active h2 {
+	a:hover figcaption, a:active figcaption {
 		text-decoration: none;
 	}
 
@@ -87,6 +88,12 @@
 }
 
 @media (max-width: 1099px) {
+	.grid-page{
+		h2 {
+			font-size: 1.6em;
+		}
+	}
+
 	.grid-container .grid {
 		figure {
 			width: 18.3%;
