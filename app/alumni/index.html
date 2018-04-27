@@ -4,28 +4,22 @@ bodyid    : alumni
 bodyclass : grid-page
 description : Alumni of Art-A-Hack, a program which incubates teams from a variety of disciplines including art, technology, hardware and software development, design, immersive environments, music, theater, animation, social justice and interactivity, to collaboratively create something new.
 ---
-{% assign alumni2014 = site.alumni | where: "edition", "2014" | sort: "lastname" %}
-{% assign alumni2015 = site.alumni | where: "edition", "2015" | sort: "lastname" %}
-{% assign alumni2016 = site.alumni | where: "edition", "2016" | sort: "lastname" %}
 <main>
 	<article role="article" class="grid-container">
-		<h1>Art-A-Hack&#8482; 2016</h1>
-		<div class="grid alumni">
-			{% for alum in alumni2016 %}
-				{% include alum.html %}
-			{% endfor %}
-		</div>
-		<h1>Art-A-Hack&#8482; 2015</h1>
-		<div class="grid alumni">
-			{% for alum in alumni2015 %}
-				{% include alum.html %}
-			{% endfor %}
-		</div>
-		<h1>Art-A-Hack&#8482; 2014</h1>
-		<div class="grid alumni">
-			{% for alum in alumni2014 %}
-				{% include alum.html %}
-			{% endfor %}
-		</div>
+		{% include editions/get-editions.html %}
+
+		{% for edition in editions %}
+			{% if edition != '' %}
+				{% include editions/get-edition-name.html %}
+
+				<h1>Art-A-Hack&#8482; {{ edition-name }}</h1>
+				<div class="grid alumni">
+					{% assign alumni_for_edition = site.alumni | where: 'edition', edition %}
+					{% for alum in alumni_for_edition %}
+						{% include alum.html %}
+					{% endfor %}
+				</div>
+			{% endif %}
+		{% endfor %}
 	</article>
 </main>

@@ -1,8 +1,12 @@
-{% assign projects_str = '' %}
+{% if page.bodyid == 'projects' %}
+	{% assign items = site.projects %}
+{% else if page.bodyid == 'alumni' %}
+	{% assign items = site.alumni %}
+{% endif %}
 
-{% for project in site.projects %}
-	{% assign project_path_arr = project.path | split: '/' %}
-	{% assign editions_str = editions_str | append: '|' | append: project_path_arr[1] %}
+{% for item in items %}
+	{% assign path_arr = item.path | split: '/' %}
+	{% assign editions_str = editions_str | append: '|' | append: path_arr[1] %}
 {% endfor %}
 
 {% assign editions = editions_str | split: '|' | uniq | reverse %}
