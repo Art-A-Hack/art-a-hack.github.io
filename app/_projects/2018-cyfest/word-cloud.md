@@ -1,6 +1,7 @@
 ---
 title       : Word Cloud
 teaser      : The tone of speech becomes Russian supremacist imagery
+image       : /images/projects/2018-cyfest/word-cloud/still.jpg
 
 members:
  - name     : Marina Blinova

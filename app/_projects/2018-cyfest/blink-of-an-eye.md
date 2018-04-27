@@ -1,6 +1,7 @@
 ---
 title       : Blink of an Eye
 teaser      : Editing a YouTube video in realtime by blinking
+image       : /images/projects/2018-cyfest/blink-of-an-eye/team.jpg
 
 members:
  - name     : Yulia Glukhova

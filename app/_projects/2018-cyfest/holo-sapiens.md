@@ -1,6 +1,7 @@
 ---
 title       : Holo Sapiens
 teaser      : Classical imagery made holograhic through intelligent AI
+image       : /images/projects/2018-cyfest/holo-sapiens/classical.jpg
 
 members:
  - name     : Kseniia Galkina
