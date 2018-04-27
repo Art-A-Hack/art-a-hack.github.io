@@ -1,17 +1,13 @@
 ---
-layout    : project
-bodyid    : "projects"
-bodyclass : "content post"
-
 title       : Aurora Borealis
-projectid   : "aurora-borealis"
-teaser		: "Projecting laser heartbeats on the Aurora Borealis"
+projectid   : aurora-borealis
+teaser		: Projecting laser heartbeats on the Aurora Borealis
 
 members:
- - name     : "Sofy Yuditskaya"
- - name     : "Avi Fox-Rosen"
- - name     : "Daniel Tsadok"
- - name     : "Norman Savitt"
+ - name     : Sofy Yuditskaya
+ - name     : Avi Fox-Rosen
+ - name     : Daniel Tsadok
+ - name     : Norman Savitt
 ---
 The Aurora Borealis team recorded individual heartbeats and projected them as pulses of laser light onto the Aurora Borealis in the North Pole.
 

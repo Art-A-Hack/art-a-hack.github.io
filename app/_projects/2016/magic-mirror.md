@@ -1,17 +1,13 @@
 ---
-layout    : project
-bodyid    : "projects"
-bodyclass : "content post"
-
 title       : Magic Mirror
-projectid      : "magic-mirror"
-teaser		: "Using your thoughts to control a crystal ball"
+projectid   : magic-mirror
+teaser      : Using your thoughts to control a crystal ball
 
 members:
- - name     : "Ria Rajan"
- - name     : "Sofy Yuditskaya"
- - name     : "Chris Clapis"
- - name     : "Fabio Piparo"
+ - name     : Ria Rajan
+ - name     : Sofy Yuditskaya
+ - name     : Chris Clapis
+ - name     : Fabio Piparo
 ---
 
 How can a brain-computer interface be used to enhance contemplation and concentration? This question was posed by the Holographic Muse team at the outset of their Art-A-Hack 2016 journey.

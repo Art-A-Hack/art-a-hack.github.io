@@ -1,16 +1,12 @@
 ---
-layout    : project
-bodyid    : "projects"
-bodyclass : "content post"
-
 title       : Imbalances In Tech
-projectid   : "imbalances-in-tech"
-teaser		: "Access privilege on demand from your phone"
+projectid   : imbalances-in-tech
+teaser		: Access privilege on demand from your phone
 
 members:
- - name     : "Linda Raftree"
- - name     : "Dmytri Kleiner"
- - name     : "Juan P Botero"
+ - name     : Linda Raftree
+ - name     : Dmytri Kleiner
+ - name     : Juan P Botero
 ---
 Imbalances In Tech explored the privileging of gender, race, ethnicity and class in the tech sector. The project highlights the differences between the often tech-utopian vision or intent of tech companies and it's reality.
 

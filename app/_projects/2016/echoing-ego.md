@@ -1,19 +1,15 @@
 ---
-layout    : project
-bodyid    : "projects"
-bodyclass : "content post"
-
 title       : Echoing Ego
-projectid      : "echoing-ego"
-teaser		: "Interactive performance exploring the concept of ego"
+projectid   : echoing-ego
+teaser		: Interactive performance exploring the concept of ego
 
 members:
- - name     : "Mariya Mishurenko"
- - name     : "Gordey Chernyy"
- - name     : "Enki Andrews"
+ - name     : Mariya Mishurenko
+ - name     : Gordey Chernyy
+ - name     : Enki Andrews
  - name     : Anirudh "Eka"
- - name     : "Julia Frey"
- - name     : "Adriana Molello"
+ - name     : Julia Frey
+ - name     : Adriana Molello
 ---
 
 What would it mean to “virtually dissect” your ego, and discover its component parts? This was the question asked by the “Echoing Ego” team, leading to the creation of an installation and performance piece.

@@ -1,17 +1,13 @@
 ---
-layout    : project
-bodyid    : "projects"
-bodyclass : "content post"
-
 title       : The Multi-Faceted Bass
-projectid   : "multi-faceted-bass"
-teaser		: "Transforming an acoustic bass cello into a electronic instrument"
+projectid   : multi-faceted-bass
+teaser		: Transforming an acoustic bass cello into a electronic instrument
 
 members:
- - name     : "Man Wai Che"
- - name     : "Rose Kue"
- - name     : "Sam Wells"
- - name     : "Gene Kogan"
+ - name     : Man Wai Che
+ - name     : Rose Kue
+ - name     : Sam Wells
+ - name     : Gene Kogan
 ---
 An acoustic bass was transformed into an electronic speaker using a combination of PureData  and Ableton digital software.
 

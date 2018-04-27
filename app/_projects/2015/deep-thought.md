@@ -1,16 +1,12 @@
 ---
-layout    : project
-bodyid    : "projects"
-bodyclass : "content post"
-
 title       : Deep Thought
-projectid   : "deep-thought"
-teaser		: "Translating brainwaves into 3D sculptures"
+projectid   : deep-thought
+teaser		: Translating brainwaves into 3D sculptures
 
 members:
- - name     : "Mark Ramos"
- - name     : "Rodrigo Palacios"
- - name     : "Brian George"
+ - name     : Mark Ramos
+ - name     : Rodrigo Palacios
+ - name     : Brian George
 ---
 The Deep Thought team explored the translation of brainwaves into 3D sculpture.
 

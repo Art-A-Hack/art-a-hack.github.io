@@ -1,17 +1,13 @@
 ---
-layout    : project
-bodyid    : "projects"
-bodyclass : "content post"
-
 title       : Oculus Fiber
-projectid   : "oculus-fiber"
-teaser		: "Explore fabrics in VR as though they were architectures"
+projectid   : oculus-fiber
+teaser		: Explore fabrics in VR as though they were architectures
 
 members:
- - name     : "Jessica Graves"
- - name     : "Greg Dutcher"
- - name     : "Nina Mirhabibi"
- - name     : "Rebecca Lieberman"
+ - name     : Jessica Graves
+ - name     : Greg Dutcher
+ - name     : Nina Mirhabibi
+ - name     : Rebecca Lieberman
 ---
 
 The Oculus Fiber team scanned the surfaces of garments and other fabrics at an incredibly high resolution, which they then reproduced in a virtual reality experience.

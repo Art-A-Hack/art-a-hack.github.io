@@ -1,15 +1,11 @@
 ---
-layout    : project
-bodyid    : "projects"
-bodyclass : "content post"
-
 title       : Word Cloud
-projectid   : "word-cloud"
-teaser      : "The tone of speech becomes Russian supremacist imagery"
+projectid   : word-cloud
+teaser      : The tone of speech becomes Russian supremacist imagery
 
 members:
- - name     : "Sharon De La Cruz"
- - name     : "David Tracy"
+ - name     : Sharon De La Cruz
+ - name     : David Tracy
 ---
 This team explored sentiment analysis via [IBM Watson](https://www.ibm.com/watson/), a natural language based speech analysis system.
 

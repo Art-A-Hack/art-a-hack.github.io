@@ -1,15 +1,11 @@
 ---
-layout    : project
-bodyid    : "projects"
-bodyclass : "content post"
-
 title       : Holo Sapiens
-projectid   : "holo-sapiens"
-teaser      : "Classical imagery made holograhic through intelligent AI"
+projectid   : holo-sapiens
+teaser      : Classical imagery made holograhic through intelligent AI
 
 members:
- - name     : "Sharon De La Cruz"
- - name     : "David Tracy"
+ - name     : Sharon De La Cruz
+ - name     : David Tracy
 ---
 The Holo Sapiens team explored the relationship between text, speech, interactivity and illusion, resulting in the projection of an interactive holographic-like image.
 

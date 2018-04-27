@@ -1,18 +1,14 @@
 ---
-layout    : project
-bodyid    : "projects"
-bodyclass : "content post"
-
 title       : Afro Futuristic Carnival
-projectid      : "afro-futuristic-carnival"
-teaser		: "Meet the Goddess Yermaya in virtual reality"
+projectid   : afro-futuristic-carnival
+teaser		: Meet the Goddess Yermaya in virtual reality
 
 members:
- - name     : "Sharon De La Cruz"
- - name     : "David Tracy"
- - name     : "Espii Proctor"
- - name     : "Debbie Deas"
- - name     : "Greg Dutcher"
+ - name     : Sharon De La Cruz
+ - name     : David Tracy
+ - name     : Espii Proctor
+ - name     : Debbie Deas
+ - name     : Greg Dutcher
 ---
 
 The Afro Futuristic Carnival team created an interactive virtual reality experience exploring the Afro Cuban religion of Santeria.

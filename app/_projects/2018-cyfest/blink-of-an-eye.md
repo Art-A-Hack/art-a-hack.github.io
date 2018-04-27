@@ -1,15 +1,11 @@
 ---
-layout    : project
-bodyid    : "projects"
-bodyclass : "content post"
-
 title       : Blink of an Eye
-projectid   : "blink-of-an-eye"
-teaser		: "Editing a YouTube video in realtime by blinking"
+projectid   : blink-of-an-eye
+teaser		: Editing a YouTube video in realtime by blinking
 
 members:
- - name     : "Sharon De La Cruz"
- - name     : "David Tracy"
+ - name     : Sharon De La Cruz
+ - name     : David Tracy
 ---
 
 Using the natural reflex of blinking, this team created a prototype allowing viewers to edit, through jump cuts, a YouTube video in real-time.

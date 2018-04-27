@@ -1,17 +1,13 @@
 ---
-layout    : project
-bodyid    : "projects"
-bodyclass : "content post"
-
 title       : Superficial / Substantive
-projectid      : "superficial-substantive"
-teaser		: "Solving all the wrong problems with technology"
+projectid   : superficial-substantive
+teaser      : Solving all the wrong problems with technology
 
 members:
- - name     : "Mala Kumar"
- - name     : "Leonardo Malave"
- - name     : "Allie Quintano"
- - name     : "Linda Raftree"
+ - name     : Mala Kumar
+ - name     : Leonardo Malave
+ - name     : Allie Quintano
+ - name     : Linda Raftree
 ---
 
 Why do so many well-intentioned Western efforts to solve African crises fail? It’s because organizers often have superficial understandings of deep problems.
