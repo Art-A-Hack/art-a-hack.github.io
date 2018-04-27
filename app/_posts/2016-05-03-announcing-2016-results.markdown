@@ -1,8 +1,5 @@
 ---
-layout    : post
-title     : "Teams Announced for Art-A-Hack 2016"
-bodyid    : "blog"
-bodyclass : "content post"
+title : Teams Announced for Art-A-Hack 2016
 ---
 We are pleased to announce the selected participants for the Art-A-Hack 2016. Our participants this year are diverse, and come from backgrounds in art, technology, and a range of intersecting feilds.
 

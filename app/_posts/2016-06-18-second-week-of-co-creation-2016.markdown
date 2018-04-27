@@ -1,9 +1,6 @@
 ---
-layout    : post
-title     : "Week Two of 2016's Co-creation Sessions"
-bodyid    : "blog"
-bodyclass : "content post"
-image     : /images/og/2016-week-2.jpg
+title : Week Two of 2016's Co-creation Sessions
+image : /images/og/2016-week-2.jpg
 ---
 In this week, teams who had nailed down their conceptual frameworks were doubling down on experiments in making and technology.
 

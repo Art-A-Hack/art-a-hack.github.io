@@ -1,9 +1,6 @@
 ---
-layout    : post
-title     : "Final Week of Hacking"
-bodyid    : "blog"
-bodyclass : "content post"
-image     : /images/og/2015-week-4.jpg
+title : Final Week of Hacking
+image : /images/og/2015-week-4.jpg
 ---
 For Week 4 of Art-A-Hack we were hosted by Microsoft in their sparkling offices opposite the Port Authority bus station in Times Square.
 

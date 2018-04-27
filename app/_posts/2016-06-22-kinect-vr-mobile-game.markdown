@@ -1,8 +1,5 @@
 ---
-layout    : post
-title     : "Learn How this Team is Creating a Kinect VR Mobile Game"
-bodyid    : "blog"
-bodyclass : "content post"
+title : Learn How this Team is Creating a Kinect VR Mobile Game
 ---
 What kinds of experiences are possible when you match room-sized body tracking with untethered, mobile VR?
 

@@ -1,10 +1,7 @@
 ---
-layout    : post
-title     : "Mid-way Through Our Hack"
-bodyid    : "blog"
-bodyclass : "content post"
-image     : /images/og/2014-week-2.jpg
-redirect_from: /posts/2014/07/13/mid-way-through-our-hack/
+title : Mid-way Through Our Hack
+image : /images/og/2014-week-2.jpg
+redirect_from : /posts/2014/07/13/mid-way-through-our-hack/
 ---
 Session number two of the co-creation experiment Art-A-Hack took place at <a href="http://info.thoughtworks.com/new-york/">ThoughtWorks NYC</a> yesterday.
 

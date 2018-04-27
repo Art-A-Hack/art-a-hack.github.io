@@ -1,9 +1,6 @@
 ---
-layout    : post
-title     : "2016 Season Begins with Social at ThoughtWorks"
-bodyid    : "blog"
-bodyclass : "content post"
-image     : /images/og/2016-social.jpg
+title : 2016 Season Begins with Social at ThoughtWorks
+image : /images/og/2016-social.jpg
 ---
 A lot of fun was had last night at the 2016 season kick-off social event at ThoughtWorks NYC, at a twinned event with the <a href="http://hardwarehacklab.io">Hardware Hack Lab</a>.
 

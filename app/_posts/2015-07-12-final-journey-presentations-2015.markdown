@@ -1,9 +1,6 @@
 ---
-layout    : post
-title     : "Final Presentations for Art-A-Hack 2015"
-bodyid    : "blog"
-bodyclass : "content post"
-image     : /images/og/2015-presentations.jpg
+title : Final Presentations for Art-A-Hack 2015
+image : /images/og/2015-presentations.jpg
 ---
 Our final presentations took place on July 11 2015 at ThoughtWorks. Besides friends and family, ThoughtWorks founder Roy Singham came by to see what our Art-A-Hackers had produced.
 

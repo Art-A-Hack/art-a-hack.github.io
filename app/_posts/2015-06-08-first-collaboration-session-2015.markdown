@@ -1,9 +1,6 @@
 ---
-layout    : post
-title     : "Week 1 of Art-A-Hack 2015"
-bodyid    : "blog"
-bodyclass : "content post"
-image     : /images/og/2015-week-1.jpg
+title : Week 1 of Art-A-Hack 2015
+image : /images/og/2015-week-1.jpg
 ---
 The excitement was palpable as everyone gathered round to gear up for week 1 of Art-A-Hack.
 

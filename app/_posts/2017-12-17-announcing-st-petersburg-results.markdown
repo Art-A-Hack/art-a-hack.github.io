@@ -1,8 +1,5 @@
 ---
-layout    : post
-title     : "Announcing Teams for Art-A-Hack Special St. Petersburg 2018"
-bodyid    : "blog"
-bodyclass : "content post"
+title : Announcing Teams for Art-A-Hack Special St. Petersburg 2018
 ---
 We are pleased to announce the selected participants for the Art-A-Hack Special in St. Petersburg for 2018.
 

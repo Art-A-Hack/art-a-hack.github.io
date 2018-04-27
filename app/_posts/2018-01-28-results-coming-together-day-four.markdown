@@ -1,9 +1,6 @@
 ---
-layout    : post
-title     : "Results Coming Together on the Fourth Day of Co-Working"
-bodyid    : "blog"
-bodyclass : "content post"
-image     : /images/og/2018-cyfest-week-4.jpg
+title : Results Coming Together on the Fourth Day of Co-Working
+image : /images/og/2018-cyfest-week-4.jpg
 ---
 Diligent work and problem-solving resulted in major progress during the fourth day of hacking.
 
@@ -17,4 +14,4 @@ Mapping out strategies and connecting the dots resulted in overcoming technical 
 
 As the day of final presentation approaches, team members are working hard to complete their projects. 
 
-There were starts and stops, and at time disconnects. Despite physical illness and mental stress, the teams pushed through and brought their projects forward. 
+There were starts and stops, and at time disconnects. Despite physical illness and mental stress, the teams pushed through and brought their projects forward.

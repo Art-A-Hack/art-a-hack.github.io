@@ -1,9 +1,6 @@
 ---
-layout    : post
-title     : "The Results Are In!"
-bodyid    : "blog"
-bodyclass : "content post"
-redirect_from: /posts/2014/06/16/the-results-are-in/
+title : The Results Are In!
+redirect_from : /posts/2014/06/16/the-results-are-in/
 ---
 Our open call has now closed, and we're pleased to say we had an incredible mix of varied and exciting applications for participation!
 

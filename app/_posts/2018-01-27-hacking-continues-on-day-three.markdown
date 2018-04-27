@@ -1,9 +1,6 @@
 ---
-layout    : post
-title     : "Hacking Continues on Day 3"
-bodyid    : "blog"
-bodyclass : "content post"
-image     : /images/og/2018-cyfest-week-3.jpg
+title : Hacking Continues on Day 3
+image : /images/og/2018-cyfest-week-3.jpg
 ---
 Despite obstacles and technical problems, the teams strove to come together to make something new.
 

@@ -1,8 +1,5 @@
 ---
-layout    : post
-title     : "A Report on Art-A-Hack 2014"
-bodyid    : "blog"
-bodyclass : "content post"
+title : A Report on Art-A-Hack 2014
 redirect_from: /posts/2014/08/08/round-one-of-our-hack-is-over/
 ---
 Our first group of artists and hackers have completed the inaugural season of Art-A-Hack. We've had some exciting twists and turns, and the teams will be <a href="http://www.meetup.com/volumetric/events/199068362/">demonstrating their work</a> at the Livestream Public building (formerly 3rd Ward) on Saturday.

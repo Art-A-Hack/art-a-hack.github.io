@@ -59,3 +59,11 @@ collections:
   projects:
     output: true
     permalink: /projects/:title/
+
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout    : post
+      bodyid    : blog
+      bodyclass : content post

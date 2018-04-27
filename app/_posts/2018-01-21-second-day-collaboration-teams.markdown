@@ -1,9 +1,6 @@
 ---
-layout    : post
-title     : "Second Day of Collaboration Between Teams in St. Petersburg"
-bodyid    : "blog"
-bodyclass : "content post"
-image     : /images/og/2018-cyfest-week-2.jpg
+title : Second Day of Collaboration Between Teams in St. Petersburg
+image : /images/og/2018-cyfest-week-2.jpg
 ---
 Our teams completed their second day of collaboration on their art and technology projects.
 

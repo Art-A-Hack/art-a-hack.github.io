@@ -1,9 +1,6 @@
 ---
-layout    : post
-title     : "Team Check-In from Week Three"
-bodyid    : "blog"
-bodyclass : "content post"
-image     : /images/og/2016-week-3-check-in.jpg
+title : Team Check-In from Week Three
+image : /images/og/2016-week-3-check-in.jpg
 ---
 
 At the halfway point of Art-A-Hack teams reach a critical point where they iterate on initial ideas. We’re checking in on the teams working out of the ThoughtWorks office this week to see what their projects look like now at this mid-point.
