@@ -2,7 +2,6 @@
 layout    : default
 bodyid    : "alumni"
 bodyclass : "content"
-year      : 2016
 
 title       : Julia Barry
 photo       : "julia-b.jpg"

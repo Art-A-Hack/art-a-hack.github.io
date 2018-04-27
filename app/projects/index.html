@@ -15,8 +15,8 @@ description : Projects from Art-A-Hack, a program which incubates teams from a v
 				<h1>Art-A-Hack&#8482; {{ edition-name }}</h1>
 				<div class="grid">
 					{% for project in site.projects %}
-						{% capture project_year %}{{ project.year }}{% endcapture %}
-						{% if project_year == edition %}
+						{% capture project_edition %}{{ project.edition }}{% endcapture %}
+						{% if project_edition == edition %}
 							<figure>
 								<a href="{{ project.url }}">
 									<img src="/images/projects/{{ edition }}/{{ project.projectid }}/{{ project.projectid }}.jpg" />

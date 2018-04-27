@@ -2,7 +2,6 @@
 layout    : default
 bodyid    : "alumni"
 bodyclass : "content"
-year      : 2015
 
 title       : Betty Quinn
 photo       : "betty.jpg"

@@ -2,7 +2,6 @@
 layout    : default
 bodyid    : "alumni"
 bodyclass : "content"
-year      : 2015
 
 title       : Norman Savitt
 photo       : "norman.jpg"

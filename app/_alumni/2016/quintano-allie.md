@@ -2,7 +2,6 @@
 layout    : default
 bodyid    : "alumni"
 bodyclass : "content"
-year      : 2016
 
 title       : Allie Quintano
 photo       : "allie.jpg"

@@ -2,7 +2,6 @@
 layout    : default
 bodyid    : "alumni"
 bodyclass : "content"
-year      : 2015
 
 title       : Julio Mont&#225;s
 photo       : "julio.jpg"
