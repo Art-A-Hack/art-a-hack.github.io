@@ -1,11 +1,10 @@
 ---
-title       : Hamlet VR
-projectid   : hamlet-vr
-teaser      : The world's first Shakespeare play in VR
+title   : Hamlet VR
+teaser  : The world's first Shakespeare play in VR
 
 members:
- - name     : Javier Molina
- - name     : Zhen Liu
+ - name : Javier Molina
+ - name : Zhen Liu
 ---
 
 "To Be With Hamlet" is a live theater performance experienced in virtual reality. Audience members wear the [HTC Vive](http://www.vive.com/) headset immersing themselves in an intimate experience with Hamlet, Shakespeare's dramatic masterpiece.

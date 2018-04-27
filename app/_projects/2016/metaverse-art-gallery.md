@@ -1,14 +1,13 @@
 ---
-title       : Metaverse Art Gallery
-projectid   : metaverse-art-gallery
-teaser		: An art curation platform for the metaverse
+title   : Metaverse Art Gallery
+teaser  : An art curation platform for the metaverse
 
 members:
- - name     : Samuel Arsenault-Brassard
- - name     : Ace Ji
- - name     : Marie Patterson
- - name     : Madhu Sivaramakrishnan
- - name     : Rachel Stevens
+ - name : Samuel Arsenault-Brassard
+ - name : Ace Ji
+ - name : Marie Patterson
+ - name : Madhu Sivaramakrishnan
+ - name : Rachel Stevens
 ---
 
 During Art-A-Hack 2016, the Metaverse Art Gallery team created an art curation platform to be used by visitors around the world.

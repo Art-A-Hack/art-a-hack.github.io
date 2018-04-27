@@ -3,6 +3,7 @@ module GenerateLinkedVars
     def generate(site)
       prepare_class_vars site
       assign_project_years
+      assign_project_ids
     end
 
     #Collections & selections
@@ -11,10 +12,19 @@ module GenerateLinkedVars
     end
 
     #Functions
+    def assign_project_ids
+      @projects.each do |project|
+        path_parts = project.path.split '/'
+        file_name = path_parts.reverse[0]
+        project.data['projectid'] = file_name.chomp(project.data['ext'])
+      end
+    end
+
     def assign_project_years
       @projects.each do |project|
         path_parts = project.path.split '/'
-        project.data['year'] = path_parts.reverse[1]
+        folder_name = path_parts.reverse[1]
+        project.data['year'] = folder_name
       end
     end
   end

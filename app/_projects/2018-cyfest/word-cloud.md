@@ -1,6 +1,5 @@
 ---
 title       : Word Cloud
-projectid   : word-cloud
 teaser      : The tone of speech becomes Russian supremacist imagery
 
 members:

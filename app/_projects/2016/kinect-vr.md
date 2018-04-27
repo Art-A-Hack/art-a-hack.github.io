@@ -1,15 +1,14 @@
 ---
-title       : Kinect VR
-projectid   : kinect-vr
-teaser      : Mobile VR just became full-body at room-scale
+title   : Kinect VR
+teaser  : Mobile VR just became full-body at room-scale
 
 members:
- - name     : Filip Baba
- - name     : Loren Abdulezer
- - name     : Pierre Bernard
- - name     : Zach Krall
- - name     : Lisa Russell
- - name     : QiuYi Wu
+ - name : Filip Baba
+ - name : Loren Abdulezer
+ - name : Pierre Bernard
+ - name : Zach Krall
+ - name : Lisa Russell
+ - name : QiuYi Wu
 ---
 
 The Kinect VR team devoted their Art-A-Hack 2016 project to demonstrating creative applications of the innovative [KinectVR](http://kinectvr.com/) toolkit, a body-tracking solution for virtual reality.

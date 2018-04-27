@@ -1,7 +1,6 @@
 ---
 title       : Blink of an Eye
-projectid   : blink-of-an-eye
-teaser		: Editing a YouTube video in realtime by blinking
+teaser      : Editing a YouTube video in realtime by blinking
 
 members:
  - name     : Sharon De La Cruz

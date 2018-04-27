@@ -1,13 +1,12 @@
 ---
-title       : Sonic Equations
-projectid   : sonic-equations
-teaser      : Exploring the limits of sonic communication
+title   : Sonic Equations
+teaser  : Exploring the limits of sonic communication
 
 members:
- - name     : Christopher Edwards
- - name     : Julia Barry
- - name     : Laura Mun
- - name     : Nga Nguyen
+ - name : Christopher Edwards
+ - name : Julia Barry
+ - name : Laura Mun
+ - name : Nga Nguyen
 ---
 
 What can the limits of technology tell us about the limits of communication? The Sonic Equations team explored this question by creating a two-player game which electronically distorts participants’ communication in real-time.

@@ -1,12 +1,11 @@
 ---
-title       : Surveillance Culture
-projectid   : surveillance-culture
-teaser		: How much do we reveal about ourselves online?
+title   : Surveillance Culture
+teaser  : How much do we reveal about ourselves online?
 
 members:
- - name     : Katherine Bennett
- - name     : Julio Montas
- - name     : Betty Quinn
+ - name : Katherine Bennett
+ - name : Julio Montas
+ - name : Betty Quinn
 ---
 The Surveillance Culture team set up a fake character to attract internet trolls. Once attracted, reverse surveillance techniques were used on the trolls to unmask their identity.
 

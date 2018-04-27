@@ -1,6 +1,5 @@
 ---
 title       : Holo Sapiens
-projectid   : holo-sapiens
 teaser      : Classical imagery made holograhic through intelligent AI
 
 members:

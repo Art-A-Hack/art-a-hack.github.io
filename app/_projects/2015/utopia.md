@@ -1,12 +1,11 @@
 ---
-title       : Utopia
-projectid   : utopia
-teaser		: A tour through the remnants of Second Life
+title   : Utopia
+teaser  : A tour through the remnants of Second Life
 
 members:
- - name     : Annie Berman
- - name     : Lee Tusman
- - name     : David Tennant
+ - name : Annie Berman
+ - name : Lee Tusman
+ - name : David Tennant
 ---
 
 The Utopia team created a virtual reality experience to explore Annie Berman's film about the vacated online virtual world 'Second Life'.

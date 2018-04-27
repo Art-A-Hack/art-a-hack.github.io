@@ -1,14 +1,13 @@
 ---
-title       : Dual Brains
-projectid   : dual-brains
-teaser      : Visualizing empathy with brain-computer interface
+title   : Dual Brains
+teaser  : Visualizing empathy with brain-computer interface
 
 members:
- - name     : Eva Lee
- - name     : Gabriel Ibagon
- - name     : Gal Nissim
- - name     : Pat Shiu
- - name     : Aaron Trocola
+ - name : Eva Lee
+ - name : Gabriel Ibagon
+ - name : Gal Nissim
+ - name : Pat Shiu
+ - name : Aaron Trocola
 ---
 
 The Dual Brains team created a real-time visual performance driven by the brain data of two performers. The team were inspired by recent neuroscientific research indicating human brains are fundamentally hard wired for empathy.
