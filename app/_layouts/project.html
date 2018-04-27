@@ -26,7 +26,7 @@ layout: default
           <p>Team members:</p>
           <ul class="alumni">
             {% for member in page.members %}
-              {% assign alum = site.alumni | where:"title", member.name | first %}
+              {% assign alum = site.alumni | where:"name", member.name | first %}
               {% for link in alum.links %}
                 {% if link.url != "" %}
                   {% assign url = link.url %}

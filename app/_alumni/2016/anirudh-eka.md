@@ -1,5 +1,5 @@
 ---
-name        : Anirudh Eka
+name        : Anirudh "Eka"
 lastname    : Eka
 occupation  : Poet &amp; Software Developer
 

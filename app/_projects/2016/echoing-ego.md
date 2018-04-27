@@ -6,7 +6,7 @@ members:
  - name : Mariya Mishurenko
  - name : Gordey Chernyy
  - name : Enki Andrews
- - name : Anirudh "Eka"
+ - name : Anirudh Eka
  - name : Julia Frey
  - name : Adriana Molello
 ---
