@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : Sofy Yuditskaya
 photo       : "sofy.jpg"
 occupation  : "Media Artist, Educator"

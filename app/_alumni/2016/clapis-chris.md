@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : Chris Clapis
 photo       : "chris.jpg"
 occupation  : "Developer"
@@ -29,5 +25,3 @@ links:
  - icon     : "fa-globe"
    url      : "http://www.shaderboy.cc/"
 ---
-
-Nulla nec cursus ante. Proin at lorem vitae mauris pellentesque auctor vel ac felis. Maecenas euismod eros id orci maximus pharetra. Pellentesque at eros aliquet, venenatis dui et, placerat odio. Ut placerat nisl fermentum, luctus lectus non, vestibulum lectus. In dui ante, feugiat id metus ac, maximus mollis lorem.

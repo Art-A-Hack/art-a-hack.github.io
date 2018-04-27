@@ -1,9 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-year      : 2015
-
 title       : Juan P Botero
 photo       : "juan.jpg"
 occupation  : "Communication Strategist"

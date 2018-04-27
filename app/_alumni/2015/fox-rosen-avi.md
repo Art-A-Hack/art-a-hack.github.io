@@ -1,9 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-year      : 2015
-
 title       : Avi Fox-Rosen
 photo       : "avi.jpg"
 occupation  : "Musician, Developer"

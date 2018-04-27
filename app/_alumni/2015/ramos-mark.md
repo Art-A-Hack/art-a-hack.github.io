@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : Mark Ramos
 photo       : "mark.jpg"
 occupation  : "Artist, Technologist"

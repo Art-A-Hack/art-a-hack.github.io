@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : Betty Quinn
 photo       : "betty.jpg"
 occupation  : "Designer, New Media Artist"

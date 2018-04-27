@@ -1,9 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-year      : 2015
-
 title       : Annie Berman
 photo       : "annie.jpg"
 occupation  : "Artist"

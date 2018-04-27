@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : Lee Tusman
 photo       : "lee.jpg"
 occupation  : "Artist, Curator"

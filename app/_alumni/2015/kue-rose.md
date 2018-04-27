@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : Rose Kue
 photo       : "rose.jpg"
 occupation  : "Designer, Musician"

@@ -1,9 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-year      : 2015
-
 title       : Dmytri Kleiner
 photo       : "dmytri.jpg"
 occupation  : "Technologist, Artist, Polemicist"

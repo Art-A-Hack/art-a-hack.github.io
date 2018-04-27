@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : Norman Savitt
 photo       : "norman.jpg"
 occupation  : "Musician, Mechanical Engineer"

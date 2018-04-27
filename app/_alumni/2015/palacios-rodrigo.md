@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : Rodrigo Palacios
 photo       : "rodrigo.jpg"
 occupation  : "Artist"

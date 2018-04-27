@@ -1,9 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-year      : 2015
-
 title       : Katherine Bennett
 photo       : "katherine.jpg"
 occupation  : "Artist, Developer"

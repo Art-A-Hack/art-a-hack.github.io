@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : Rebecca Lieberman
 photo       : "rebecca.jpg"
 occupation  : "Artist, Creative Technologist"

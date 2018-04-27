@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : Sam Wells
 photo       : "sam.jpg"
 occupation  : "Composer, Performer"

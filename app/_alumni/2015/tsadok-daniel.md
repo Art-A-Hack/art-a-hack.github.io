@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : Daniel Tsadok
 photo       : "daniel.jpg"
 occupation  : "Software Developer"

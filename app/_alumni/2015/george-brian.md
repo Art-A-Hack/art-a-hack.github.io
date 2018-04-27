@@ -1,9 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-year      : 2015
-
 title       : Brian George
 photo       : "brian.jpg"
 occupation  : "Creative Coder, Developer"

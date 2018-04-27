@@ -1,9 +1,5 @@
 ---
-layout    : default
-title     : Madhu Sivaramakrishnan
-bodyid    : "alumni"
-bodyclass : "content"
-
+title       : Madhu Sivaramakrishnan
 photo       : "madhu.jpg"
 occupation  : "Idea Follower"
 
@@ -26,6 +22,4 @@ links:
    url      : ""
  - icon     : "fa-globe"
    url      : ""
----
-
-Nulla nec cursus ante. Proin at lorem vitae mauris pellentesque auctor vel ac felis. Maecenas euismod eros id orci maximus pharetra. Pellentesque at eros aliquet, venenatis dui et, placerat odio. Ut placerat nisl fermentum, luctus lectus non, vestibulum lectus. In dui ante, feugiat id metus ac, maximus mollis lorem. 
+--- 

@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : David Tennant
 photo       : "david.jpg"
 occupation  : "Designer, Programmer"

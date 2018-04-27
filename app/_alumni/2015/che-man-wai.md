@@ -1,9 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-year      : 2015
-
 title       : Man Wai Che
 photo       : "manwai.jpg"
 occupation  : "Musician"

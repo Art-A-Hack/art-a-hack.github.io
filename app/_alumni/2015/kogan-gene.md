@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : Gene Kogan
 photo       : "gene.jpg"
 occupation  : "Artist, Programmer"

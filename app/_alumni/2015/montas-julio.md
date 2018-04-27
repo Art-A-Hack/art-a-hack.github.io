@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : Julio Mont&#225;s
 photo       : "julio.jpg"
 occupation  : "Net Artist, Designer"

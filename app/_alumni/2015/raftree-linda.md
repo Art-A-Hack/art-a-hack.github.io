@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : Linda Raftree
 photo       : "linda.jpg"
 occupation  : "Founder &amp; Convener"

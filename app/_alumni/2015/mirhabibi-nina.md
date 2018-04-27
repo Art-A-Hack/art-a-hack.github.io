@@ -1,8 +1,4 @@
 ---
-layout    : default
-bodyid    : "alumni"
-bodyclass : "content"
-
 title       : Nina Mirhabibi
 photo       : "nina.jpg"
 occupation  : "Art &amp; Technology Director"
