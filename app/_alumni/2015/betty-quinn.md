@@ -1,6 +1,5 @@
 ---
 name        : Betty Quinn
-photo       : betty.jpg
 occupation  : Designer, New Media Artist
 
 links:

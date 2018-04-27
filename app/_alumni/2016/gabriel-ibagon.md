@@ -1,6 +1,5 @@
 ---
 name        : Gabriel Ibagon
-photo       : gabriel.jpg
 occupation  : Programmer &amp; Artist
 
 links:

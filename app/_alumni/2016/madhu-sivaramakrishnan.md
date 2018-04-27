@@ -1,6 +1,5 @@
 ---
 name        : Madhu Sivaramakrishnan
-photo       : madhu.jpg
 occupation  : Idea Follower
 
 links:

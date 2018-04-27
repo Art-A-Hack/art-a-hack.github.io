@@ -1,6 +1,5 @@
 ---
 name        : Rebecca Lieberman
-photo       : rebecca.jpg
 occupation  : Artist, Creative Technologist
 
 links:

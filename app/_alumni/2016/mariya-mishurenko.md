@@ -1,6 +1,5 @@
 ---
 name        : Mariya Mishurenko
-photo       : mariya.jpg
 occupation  : Artist &amp; Technologist
 
 links:

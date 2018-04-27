@@ -1,6 +1,5 @@
 ---
 name        : Loren Abdulezer
-photo       : loren.jpg
 occupation  : Developer
 
 links:

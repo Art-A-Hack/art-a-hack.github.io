@@ -1,6 +1,5 @@
 ---
 name        : Aaron Trocola
-photo       : aaron.jpg
 occupation  : 3D Fashion Designer
 
 links:

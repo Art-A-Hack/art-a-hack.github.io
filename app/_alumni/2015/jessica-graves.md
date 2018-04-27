@@ -1,6 +1,5 @@
 ---
 name        : Jessica Graves
-photo       : jessica.jpg
 occupation  : Researcher
 
 links:

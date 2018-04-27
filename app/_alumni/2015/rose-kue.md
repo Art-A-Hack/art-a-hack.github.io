@@ -1,6 +1,5 @@
 ---
 name        : Rose Kue
-photo       : rose.jpg
 occupation  : Designer, Musician
 
 links:

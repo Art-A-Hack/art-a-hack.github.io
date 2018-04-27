@@ -1,6 +1,5 @@
 ---
 name        : Christopher Edwards
-photo       : christopher.jpg
 occupation  : Experience Designer, Artist
 
 links:

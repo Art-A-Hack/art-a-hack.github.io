@@ -1,6 +1,5 @@
 ---
 name        : Espii Proctor
-photo       : espii.jpg
 occupation  : Dramaturg, Performer, Designer
 
 links:

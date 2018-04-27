@@ -1,6 +1,5 @@
 ---
 name        : Fabio Piparo
-photo       : fabio.jpg
 occupation  : Developer
 
 links:

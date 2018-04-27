@@ -1,5 +1,4 @@
 ---
-photo       : enki.jpg
 name        : Enki Andrews
 occupation  : Distortionist, Interactive Artist
 

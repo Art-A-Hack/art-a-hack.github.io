@@ -1,6 +1,5 @@
 ---
 name        : Mark Ramos
-photo       : mark.jpg
 occupation  : Artist, Technologist
 
 links:

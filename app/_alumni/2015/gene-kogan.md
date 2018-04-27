@@ -1,6 +1,5 @@
 ---
 name        : Gene Kogan
-photo       : gene.jpg
 occupation  : Artist, Programmer
 
 links:

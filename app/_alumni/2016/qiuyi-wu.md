@@ -1,6 +1,5 @@
 ---
-name        : QiuYi Wu  
-photo       : qiuyi.jpg
+name        : QiuYi Wu
 occupation  : Creative Technologist &amp; Dancer
 
 links:

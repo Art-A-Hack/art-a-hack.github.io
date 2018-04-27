@@ -1,6 +1,5 @@
 ---
 name        : Katherine Bennett
-photo       : katherine.jpg
 occupation  : Artist, Developer
 
 links:

@@ -1,6 +1,5 @@
 ---
 name        : Filip Baba
-photo       : filip.jpg
 occupation  : Developer &amp; Entrepreneur
 
 links:

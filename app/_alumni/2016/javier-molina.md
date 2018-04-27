@@ -1,6 +1,5 @@
 ---
 name        : Javier Molina
-photo       : javier.jpg
 occupation  : Media Artist
 
 links:

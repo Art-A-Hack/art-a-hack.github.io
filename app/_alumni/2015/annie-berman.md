@@ -1,6 +1,5 @@
 ---
 name        : Annie Berman
-photo       : annie.jpg
 occupation  : Artist
 
 links:

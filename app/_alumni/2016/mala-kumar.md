@@ -1,6 +1,5 @@
 ---
 name        : Mala Kumar
-photo       : mala.jpg
 occupation  : ICT4D Practitioner
 
 links:

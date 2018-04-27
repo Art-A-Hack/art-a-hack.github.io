@@ -1,6 +1,5 @@
 ---
 name        : Nina Mirhabibi
-photo       : nina.jpg
 occupation  : Art &amp; Technology Director
 
 links:

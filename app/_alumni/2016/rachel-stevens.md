@@ -1,6 +1,5 @@
 ---
 name        : Rachel Stevens
-photo       : rachel.jpg
 occupation  : Artist, Designer, Writer
 
 links:

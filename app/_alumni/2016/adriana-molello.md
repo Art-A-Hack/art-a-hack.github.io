@@ -1,6 +1,5 @@
 ---
 name        : Adriana Molello
-photo       : adriana.jpg
 occupation  : Musician, Sound Director 
 
 links:

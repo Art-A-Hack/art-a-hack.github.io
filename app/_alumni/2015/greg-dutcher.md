@@ -1,6 +1,5 @@
 ---
 name        : Greg Dutcher
-photo       : greg.jpg
 occupation  : Artist, Musician, Technologist
 
 links:

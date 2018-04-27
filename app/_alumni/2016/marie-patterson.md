@@ -1,6 +1,5 @@
 ---
 name        : Marie Patterson
-photo       : marie.jpg
 occupation  : Electrical Engineer, Developer
 
 links:

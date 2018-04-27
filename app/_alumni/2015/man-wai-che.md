@@ -1,6 +1,5 @@
 ---
 name        : Man Wai Che
-photo       : manwai.jpg
 occupation  : Musician
 
 links:

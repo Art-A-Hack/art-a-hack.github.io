@@ -1,6 +1,5 @@
 ---
 name        : Laura Mun
-photo       : laura.jpg
 occupation  : Developer
 
 links:

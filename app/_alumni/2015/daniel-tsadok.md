@@ -1,6 +1,5 @@
 ---
 name        : Daniel Tsadok
-photo       : daniel.jpg
 occupation  : Software Developer
 
 links:

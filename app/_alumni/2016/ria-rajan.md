@@ -1,6 +1,5 @@
 ---
 name        : Ria Rajan
-photo       : ria.jpg
 occupation  : Visual Artist, Designer
 
 links:

@@ -1,6 +1,5 @@
 ---
 name        : Nga Nguyen
-photo       : nga.jpg
 occupation  : Interaction &amp; Fashion Designer
 
 links:

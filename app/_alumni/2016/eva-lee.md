@@ -1,6 +1,5 @@
 ---
 name        : Eva Lee
-photo       : eva.jpg
 occupation  : Artist &amp; Experimental Filmmaker
 
 links:

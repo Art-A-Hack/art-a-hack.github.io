@@ -1,6 +1,5 @@
 ---
 name        : Zhen Liu
-photo       : zhen.jpg
 occupation  : 3D Graphics Artist
 
 links:

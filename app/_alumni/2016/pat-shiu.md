@@ -1,6 +1,5 @@
 ---
 name        : Pat Shiu
-photo       : pat.jpg
 occupation  : Visual Artist
 
 links:

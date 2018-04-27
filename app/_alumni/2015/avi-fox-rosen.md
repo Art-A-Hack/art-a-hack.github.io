@@ -1,6 +1,5 @@
 ---
 name        : Avi Fox-Rosen
-photo       : avi.jpg
 occupation  : Musician, Developer
 
 links:

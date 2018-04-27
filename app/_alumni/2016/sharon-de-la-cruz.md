@@ -1,7 +1,6 @@
 ---
 name        : Sharon De La Cruz
 lastname    : De La Cruz
-photo       : sharon.jpg
 occupation  : Illustrator &amp; Animator
 
 links:

@@ -2,9 +2,10 @@ module GenerateLinkedVars
   class Generator < Jekyll::Generator
     def generate(site)
       prepare_class_vars site
-      assign_project_ids
-      assign_project_editions
-      assign_alumni_editions
+      assign_ids @projects, 'projectid'
+      assign_ids @alumni, 'alumid'
+      assign_editions @projects
+      assign_editions @alumni
     end
 
     #Collections & selections
@@ -14,27 +15,19 @@ module GenerateLinkedVars
     end
 
     #Functions
-    def assign_project_ids
-      @projects.each do |project|
-        path_parts = project.path.split '/'
+    def assign_ids items, id_key
+      items.each do |item|
+        path_parts = item.path.split '/'
         file_name = path_parts.reverse[0]
-        project.data['projectid'] = file_name.chomp(project.data['ext'])
+        item.data[id_key] = file_name.chomp(item.data['ext'])
       end
     end
 
-    def assign_project_editions
-      @projects.each do |project|
-        path_parts = project.path.split '/'
+    def assign_editions items
+      items.each do |item|
+        path_parts = item.path.split '/'
         folder_name = path_parts.reverse[1]
-        project.data['edition'] = folder_name
-      end
-    end
-
-    def assign_alumni_editions
-      @alumni.each do |alum|
-        path_parts = alum.path.split '/'
-        folder_name = path_parts.reverse[1]
-        alum.data['edition'] = folder_name
+        item.data['edition'] = folder_name
       end
     end
   end

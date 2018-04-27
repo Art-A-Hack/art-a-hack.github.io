@@ -1,6 +1,5 @@
 ---
 name        : Leonardo Malave
-photo       : leonardo.jpg
 occupation  : Technologist
 
 links:

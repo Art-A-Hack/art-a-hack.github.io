@@ -1,6 +1,5 @@
 ---
 name        : Julio Mont&#225;s
-photo       : julio.jpg
 occupation  : Net Artist, Designer
 
 links:

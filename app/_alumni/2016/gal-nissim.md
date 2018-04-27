@@ -1,6 +1,5 @@
 ---
 name        : Gal Nissim
-photo       : gal.jpg
 occupation  : ScienArtist
 
 links:

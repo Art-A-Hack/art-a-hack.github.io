@@ -1,6 +1,5 @@
 ---
 name        : Pierre Bernard
-photo       : pierre.jpg
 occupation  : Technologist
 
 links:

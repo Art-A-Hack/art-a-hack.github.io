@@ -1,6 +1,5 @@
 ---
 name        : Julia Frey
-photo       : julia-frey.jpg
 occupation  : Actor &amp; Director
 
 links:

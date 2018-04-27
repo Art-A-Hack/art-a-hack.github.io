@@ -1,6 +1,5 @@
 ---
 name        : Brian George
-photo       : brian.jpg
 occupation  : Creative Coder, Developer
 
 links:

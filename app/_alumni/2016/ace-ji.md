@@ -1,6 +1,5 @@
 ---
 name        : Ace Ji
-photo       : ace.jpg
 occupation  : Animator
 
 links:

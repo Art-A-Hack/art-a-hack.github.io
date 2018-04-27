@@ -1,6 +1,5 @@
 ---
 name        : Lee Tusman
-photo       : lee.jpg
 occupation  : Artist, Curator
 
 links:

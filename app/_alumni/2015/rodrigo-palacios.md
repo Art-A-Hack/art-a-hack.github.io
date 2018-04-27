@@ -1,6 +1,5 @@
 ---
 name        : Rodrigo Palacios
-photo       : rodrigo.jpg
 occupation  : Artist
 
 links:

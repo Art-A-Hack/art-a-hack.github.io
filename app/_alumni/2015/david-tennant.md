@@ -1,6 +1,5 @@
 ---
 name        : David Tennant
-photo       : david.jpg
 occupation  : Designer, Programmer
 
 links:

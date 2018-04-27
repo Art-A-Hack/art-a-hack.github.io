@@ -1,6 +1,5 @@
 ---
 name        : Allie Quintano
-photo       : allie.jpg
 occupation  : Technologist
 
 links:

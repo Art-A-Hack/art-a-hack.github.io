@@ -1,7 +1,6 @@
 ---
 name        : Anirudh Eka
 lastname    : Eka
-photo       : anirudh.jpg
 occupation  : Poet &amp; Software Developer
 
 links:

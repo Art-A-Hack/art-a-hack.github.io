@@ -1,6 +1,5 @@
 ---
 name        : Sam Wells
-photo       : sam.jpg
 occupation  : Composer, Performer
 
 links:

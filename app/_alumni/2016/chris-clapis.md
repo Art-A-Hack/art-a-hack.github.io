@@ -1,6 +1,5 @@
 ---
 name        : Chris Clapis
-photo       : chris.jpg
 occupation  : Developer
 
 links:

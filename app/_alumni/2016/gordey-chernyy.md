@@ -1,6 +1,5 @@
 ---
 name        : Gordey Chernyy
-photo       : gordey.jpg
 occupation  : Artist &amp; Technologist
 
 links:
