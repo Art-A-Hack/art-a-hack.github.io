@@ -3,8 +3,11 @@ title       : Word Cloud
 teaser      : The tone of speech becomes Russian supremacist imagery
 
 members:
- - name     : Sharon De La Cruz
- - name     : David Tracy
+ - name     : Marina Blinova
+ - name     : Alex Goncharenko
+ - name     : Sonia Nelyubina
+ - name     : Denis Protopopov
+ - name     : Mikhail Ptitsin
 ---
 This team explored sentiment analysis via [IBM Watson](https://www.ibm.com/watson/), a natural language based speech analysis system.
 

@@ -3,8 +3,9 @@ title       : Holo Sapiens
 teaser      : Classical imagery made holograhic through intelligent AI
 
 members:
- - name     : Sharon De La Cruz
- - name     : David Tracy
+ - name     : Kseniia Galkina
+ - name     : Mitya Akhmediyev
+ - name     : Leonid Gavrilov
 ---
 The Holo Sapiens team explored the relationship between text, speech, interactivity and illusion, resulting in the projection of an interactive holographic-like image.
 

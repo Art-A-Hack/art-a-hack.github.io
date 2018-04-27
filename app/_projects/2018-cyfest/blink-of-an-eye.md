@@ -3,8 +3,10 @@ title       : Blink of an Eye
 teaser      : Editing a YouTube video in realtime by blinking
 
 members:
- - name     : Sharon De La Cruz
- - name     : David Tracy
+ - name     : Yulia Glukhova
+ - name     : Maxim Kernozhickiy
+ - name     : Viktor Kudryashov
+ - name     : Marat Shaidulin
 ---
 
 Using the natural reflex of blinking, this team created a prototype allowing viewers to edit, through jump cuts, a YouTube video in real-time.
