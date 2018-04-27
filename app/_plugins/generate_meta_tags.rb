@@ -1,9 +1,11 @@
 require 'video_thumb'
+require 'htmlentities'
 
 module GenerateMetaTags
   class Generator < Jekyll::Generator
     def generate(site)
       begin_benchmark
+      @encoder = HTMLEntities.new
       load_regexes
       load_prefixes "/images/projects"
       generate_meta_tags site.collections["projects"]
@@ -138,7 +140,7 @@ module GenerateMetaTags
         rt = rt.tr("[", "")
         rt = rt.tr("]", "")
       end
-      rt
+      @encoder.encode(rt)
     end
 
     def discover_which_image_type(content)
