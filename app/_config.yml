@@ -64,16 +64,15 @@ defaults:
       type: pages
     values:
       layout    : default
-      bodyclass : content
   - scope:
       type: posts
     values:
       layout    : post
       bodyid    : blog
-      bodyclass : content post
+      bodyclass : post
   - scope:
       type: projects
     values:
       layout    : project
       bodyid    : projects
-      bodyclass : content post
+      bodyclass : post

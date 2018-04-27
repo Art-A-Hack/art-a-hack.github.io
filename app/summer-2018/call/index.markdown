@@ -2,7 +2,7 @@
 layout    : simple-post
 title     : Announcing Art-A-Hack&trade; Special Edition 2018
 bodyid    : simple
-bodyclass : content post
+bodyclass : post
 description : Open Call for Art-A-Hack, a program which incubates teams from a variety of disciplines including art, technology, hardware and software development, design, immersive environments, music, theater, animation, social justice and interactivity, to collaboratively create something new.
 ---
 

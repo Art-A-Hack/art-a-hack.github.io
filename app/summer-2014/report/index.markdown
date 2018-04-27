@@ -1,8 +1,8 @@
 ---
 layout    : simple-post
-title     : "Art-A-Hack&#8482; Report"
-bodyid    : "report"
-bodyclass : "content post"
+title     : Art-A-Hack&#8482; Report
+bodyid    : report
+bodyclass : post
 description : Report from Art-A-Hack, a program which incubates teams from a variety of disciplines including art, technology, hardware and software development, design, immersive environments, music, theater, animation, social justice and interactivity, to collaboratively create something new.
 ---
 <div class="info large">June-July, 2014</div>
