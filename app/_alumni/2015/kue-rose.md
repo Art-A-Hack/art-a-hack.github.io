@@ -1,5 +1,5 @@
 ---
-title       : Rose Kue
+name        : Rose Kue
 photo       : "rose.jpg"
 occupation  : "Designer, Musician"
 

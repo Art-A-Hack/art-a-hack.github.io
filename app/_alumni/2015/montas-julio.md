@@ -1,5 +1,5 @@
 ---
-title       : Julio Mont&#225;s
+name        : Julio Mont&#225;s
 photo       : "julio.jpg"
 occupation  : "Net Artist, Designer"
 

@@ -1,5 +1,5 @@
 ---
-title       : Rodrigo Palacios
+name        : Rodrigo Palacios
 photo       : "rodrigo.jpg"
 occupation  : "Artist"
 

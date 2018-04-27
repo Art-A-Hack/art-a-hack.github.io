@@ -1,5 +1,5 @@
 ---
-title       : Norman Savitt
+name        : Norman Savitt
 photo       : "norman.jpg"
 occupation  : "Musician, Mechanical Engineer"
 

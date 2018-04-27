@@ -1,5 +1,5 @@
 ---
-title       : Zach Krall
+name        : Zach Krall
 photo       : "zach.jpg"
 occupation  : "Visual Artist"
 

@@ -1,5 +1,5 @@
 ---
-title       : Chris Clapis
+name        : Chris Clapis
 photo       : "chris.jpg"
 occupation  : "Developer"
 

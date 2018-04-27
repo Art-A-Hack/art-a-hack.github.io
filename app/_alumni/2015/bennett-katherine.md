@@ -1,5 +1,5 @@
 ---
-title       : Katherine Bennett
+name        : Katherine Bennett
 photo       : "katherine.jpg"
 occupation  : "Artist, Developer"
 

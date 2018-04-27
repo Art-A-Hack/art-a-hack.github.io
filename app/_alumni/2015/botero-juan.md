@@ -1,5 +1,5 @@
 ---
-title       : Juan P Botero
+name        : Juan P Botero
 photo       : "juan.jpg"
 occupation  : "Communication Strategist"
 

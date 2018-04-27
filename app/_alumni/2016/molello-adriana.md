@@ -1,5 +1,5 @@
 ---
-title       : Adriana Molello
+name        : Adriana Molello
 photo       : "adriana.jpg"
 occupation  : "Musician, Sound Director "
 

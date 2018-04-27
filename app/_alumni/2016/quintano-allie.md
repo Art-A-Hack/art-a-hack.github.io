@@ -1,5 +1,5 @@
 ---
-title       : Allie Quintano
+name        : Allie Quintano
 photo       : "allie.jpg"
 occupation  : "Technologist"
 

@@ -1,5 +1,5 @@
 ---
-title       : Anirudh "Eka"
+name        : Anirudh "Eka"
 photo       : "anirudh.jpg"
 occupation  : "Poet &amp; Software Developer"
 

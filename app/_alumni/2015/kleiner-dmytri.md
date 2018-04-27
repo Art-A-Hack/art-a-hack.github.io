@@ -1,5 +1,5 @@
 ---
-title       : Dmytri Kleiner
+name        : Dmytri Kleiner
 photo       : "dmytri.jpg"
 occupation  : "Technologist, Artist, Polemicist"
 

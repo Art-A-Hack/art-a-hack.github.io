@@ -1,5 +1,5 @@
 ---
-title       : Linda Raftree
+name        : Linda Raftree
 photo       : "linda.jpg"
 occupation  : "Founder &amp; Convener"
 

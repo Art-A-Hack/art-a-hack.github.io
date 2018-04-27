@@ -1,5 +1,5 @@
 ---
-title       : Sofy Yuditskaya
+name        : Sofy Yuditskaya
 photo       : "sofy.jpg"
 occupation  : "Artist"
 

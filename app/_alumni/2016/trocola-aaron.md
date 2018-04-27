@@ -1,5 +1,5 @@
 ---
-title       : Aaron Trocola
+name        : Aaron Trocola
 photo       : "aaron.jpg"
 occupation  : "3D Fashion Designer"
 

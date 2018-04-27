@@ -1,5 +1,5 @@
 ---
-title       : Lisa Russell
+name        : Lisa Russell
 photo       : "lisa.jpg"
 occupation  : "Filmmaker &amp; Producer"
 

@@ -1,5 +1,5 @@
 ---
-title       : QiuYi Wu  
+name        : QiuYi Wu  
 photo       : "qiuyi.jpg"
 occupation  : "Creative Technologist &amp; Dancer"
 

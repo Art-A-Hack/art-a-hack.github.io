@@ -1,5 +1,5 @@
 ---
-title       : Ace Ji
+name        : Ace Ji
 photo       : "ace.jpg"
 occupation  : "Animator"
 

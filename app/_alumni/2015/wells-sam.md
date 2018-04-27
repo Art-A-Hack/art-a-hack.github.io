@@ -1,5 +1,5 @@
 ---
-title       : Sam Wells
+name        : Sam Wells
 photo       : "sam.jpg"
 occupation  : "Composer, Performer"
 

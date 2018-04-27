@@ -1,5 +1,5 @@
 ---
-title       : Fabio Piparo
+name        : Fabio Piparo
 photo       : "fabio.jpg"
 occupation  : "Developer"
 

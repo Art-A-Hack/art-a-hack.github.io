@@ -1,5 +1,5 @@
 ---
-title       : "Samuel Arsenault-Brassard"
+name        : "Samuel Arsenault-Brassard"
 photo       : "sam-ab.jpg"
 occupation  : "Artist, Architecture Specialist"
 

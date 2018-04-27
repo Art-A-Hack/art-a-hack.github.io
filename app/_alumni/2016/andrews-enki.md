@@ -1,6 +1,6 @@
 ---
 photo       : "enki.jpg"
-title       : Enki Andrews
+name        : Enki Andrews
 occupation  : "Distortionist, Interactive Artist"
 
 links:

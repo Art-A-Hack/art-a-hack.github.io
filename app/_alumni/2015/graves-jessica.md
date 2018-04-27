@@ -1,5 +1,5 @@
 ---
-title       : Jessica Graves
+name        : Jessica Graves
 photo       : "jessica.jpg"
 occupation  : "Researcher"
 

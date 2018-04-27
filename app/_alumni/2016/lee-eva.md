@@ -1,5 +1,5 @@
 ---
-title       : Eva Lee
+name        : Eva Lee
 photo       : "eva.jpg"
 occupation  : "Artist &amp; Experimental Filmmaker"
 

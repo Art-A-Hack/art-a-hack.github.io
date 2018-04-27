@@ -1,5 +1,5 @@
 ---
-title       : Gal Nissim
+name        : Gal Nissim
 photo       : "gal.jpg"
 occupation  : "ScienArtist"
 

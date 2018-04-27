@@ -1,5 +1,5 @@
 ---
-title       : Man Wai Che
+name        : Man Wai Che
 photo       : "manwai.jpg"
 occupation  : "Musician"
 

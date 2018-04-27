@@ -1,5 +1,5 @@
 ---
-title       : Julia Barry
+name        : Julia Barry
 photo       : "julia-b.jpg"
 occupation  : "Music Composer &amp; Web Designer"
 

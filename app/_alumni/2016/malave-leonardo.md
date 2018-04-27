@@ -1,5 +1,5 @@
 ---
-title       : Leonardo Malave
+name        : Leonardo Malave
 photo       : "leonardo.jpg"
 occupation  : "Technologist"
 

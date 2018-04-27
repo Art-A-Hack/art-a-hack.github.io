@@ -1,5 +1,5 @@
 ---
-title       : Mark Ramos
+name        : Mark Ramos
 photo       : "mark.jpg"
 occupation  : "Artist, Technologist"
 

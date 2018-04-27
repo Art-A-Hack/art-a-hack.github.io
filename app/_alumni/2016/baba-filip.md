@@ -1,5 +1,5 @@
 ---
-title       : Filip Baba
+name        : Filip Baba
 photo       : "filip.jpg"
 occupation  : "Developer &amp; Entrepreneur"
 

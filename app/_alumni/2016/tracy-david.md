@@ -1,5 +1,5 @@
 ---
-title       : David Tracy
+name        : David Tracy
 photo       : "david.jpg"
 occupation  : "Designer &amp; Technologist"
 

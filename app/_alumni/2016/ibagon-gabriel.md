@@ -1,5 +1,5 @@
 ---
-title       : Gabriel Ibagon
+name        : Gabriel Ibagon
 photo       : "gabriel.jpg"
 occupation  : "Programmer &amp; Artist"
 

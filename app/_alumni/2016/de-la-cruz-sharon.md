@@ -1,5 +1,5 @@
 ---
-title       : Sharon De La Cruz
+name        : Sharon De La Cruz
 photo       : "sharon.jpg"
 occupation  : "Illustrator &amp; Animator"
 

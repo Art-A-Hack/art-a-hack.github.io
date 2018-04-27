@@ -1,5 +1,5 @@
 ---
-title       : Daniel Tsadok
+name        : Daniel Tsadok
 photo       : "daniel.jpg"
 occupation  : "Software Developer"
 

@@ -1,5 +1,5 @@
 ---
-title       : Debbie Deas
+name        : Debbie Deas
 photo       : "debbie.jpg"
 occupation  : "Artist, Dancer"
 

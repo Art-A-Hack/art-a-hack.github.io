@@ -1,5 +1,5 @@
 ---
-title       : Lee Tusman
+name        : Lee Tusman
 photo       : "lee.jpg"
 occupation  : "Artist, Curator"
 

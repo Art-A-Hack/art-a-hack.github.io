@@ -55,7 +55,6 @@ plugins:
 collections:
   alumni:
     output: false
-    permalink: /alumni/:title/
   projects:
     output: true
     permalink: /projects/:title/

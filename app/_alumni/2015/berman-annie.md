@@ -1,5 +1,5 @@
 ---
-title       : Annie Berman
+name        : Annie Berman
 photo       : "annie.jpg"
 occupation  : "Artist"
 
