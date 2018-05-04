@@ -19,7 +19,7 @@ Previous years of Art-A-Hack included inventions, installations, collaborations,
 	<iframe src="https://www.youtube.com/embed/l1hfv_GlvGg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </figure>
 
-This year our partner is the **New York City College of Technology, City Tech** with a final showcase in downtown Brooklyn promising more fantastic outcomes. Are you interested in taking part? To apply now, please read the Open Call below and <a href="https://docs.google.com/forms/d/e/1FAIpQLSd46YB4qkhivRoNfuhc0LjTTfaIP5Y82KqSB6oiB18Ok7ltIQ/viewform" target="_blank">fill out the application</a>. We really want to work with you!
+This year we are partnering with the **New York City College of Technology, City Tech** with a final showcase in downtown Brooklyn promising more fantastic outcomes, and with the **Human Impacts Institute**. Are you interested in taking part? To apply now, please read the Open Call below and <a href="https://docs.google.com/forms/d/e/1FAIpQLSd46YB4qkhivRoNfuhc0LjTTfaIP5Y82KqSB6oiB18Ok7ltIQ/viewform" target="_blank">fill out the application</a>. We really want to work with you!
 
 Make sure you are available to take part on the dates of **June 9, 16, 23, and July 7 and 13** — see below for full timing details. If you cannot commit to those specific dates then please reconsider your application. Send us your ideas, we'll team you up with like-minded souls, and you can blast off into the stratosphere together.
 
@@ -135,4 +135,5 @@ President [Art-A-Hack](https://artahack.io)
 Director, [Volumetric Society of New York](https://meetup.com/volumetric/)  
 Contact: [ellen@artahack.io](mailto:ellen@artahack.io)
 
-<a href="http://www.citytech.cuny.edu/"><img src="/images/sponsors/city-tech.png" alt="NYC College of Technology, City Tech" style="max-width: 430px;" /></a>
+<a href="http://www.citytech.cuny.edu/"><img src="/images/sponsors/city-tech.png" alt="NYC College of Technology, City Tech" style="max-width: 430px; margin-right: 30px;" /></a>
+<a href="https://www.humanimpactsinstitute.org/"><img src="/images/sponsors/human-impacts-institute.png" alt="Human Impacts Institute" style="max-width: 230px;" /></a>
