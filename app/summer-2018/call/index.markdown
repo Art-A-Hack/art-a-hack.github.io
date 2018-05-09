@@ -5,6 +5,7 @@ bodyid    : simple
 bodyclass : post
 description : Open Call for Art-A-Hack, a program which incubates teams from a variety of disciplines including art, technology, hardware and software development, design, immersive environments, music, theater, animation, social justice and interactivity, to collaboratively create something new.
 ---
+<p class="highlight">Note: The deadline for this call has passed and submissions are no longer being accepted. Project announcements will <a href="/blog">appear on the blog soon</a>.</p>
 
 Announcing **Art-A-Hack&trade; Special Edition** &mdash; a themed collaborative creation between groups of artists/engineers, designers/makers, or whatever combination arises based on your project proposals. The two themes explored in this Special Edition are:
 
