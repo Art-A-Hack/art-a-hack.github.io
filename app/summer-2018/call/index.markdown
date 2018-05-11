@@ -69,7 +69,7 @@ Emotionally Intelligent Artificial Intelligence like IBM Watson and Google APIs 
 Here's a list of scheduled dates to mark off in your calendars. Please make sure if you are going to apply that you are available for all of the listed dates!
 
 * **May 8 (midnight)— Deadline for applications**
-* **June 7** (6pm-9pm)— Pre-event Social
+* **June 7** (6:30pm-9pm)— Pre-event Social
 * **June 9** (10am-6pm)— Co-creation Day 1
 * **June 16** (10am-6pm)— Co-creation Day 2
 * **June 23** (10am-6pm)— Co-creation Day 3
