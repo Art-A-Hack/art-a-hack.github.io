@@ -3,7 +3,7 @@ title : Announcing Teams for Art-A-Hack Special St. Petersburg 2018
 ---
 We are pleased to announce the selected participants for the Art-A-Hack Special in St. Petersburg for 2018.
 
-The 2016 season of Art-A-Hack is a partnership between <a href="https://www.thoughtworks.com/">ThoughtWorks</a>, <a href="http://www.meetup.com/volumetric/">The Volumetric Society</a> and <a href="http://cyland.org/lab/art-a-hack/">Cyberfest</a>. Each of these partners brings different areas of expertise to the table to help our teams.
+This special edition of Art-A-Hack is a partnership between <a href="https://www.thoughtworks.com/">ThoughtWorks</a>, <a href="http://www.meetup.com/volumetric/">The Volumetric Society</a> and <a href="http://cyland.org/lab/art-a-hack/">Cyberfest</a>. Each of these partners brings different areas of expertise to the table to help our teams.
 
 <!--excerpt-ends-->
 
