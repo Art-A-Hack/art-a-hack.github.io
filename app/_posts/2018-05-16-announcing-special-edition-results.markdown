@@ -17,10 +17,8 @@ You can learn more about how this year's Art-A-Hack is structured <a href="/summ
 		<ul>
 			<li>Azucena Romá</li>
 			<li>David McCreery</li>
-			<li>Simone Venna</li>
-			<li>Sofia Suazo</li>
+			<li>Sofía Suazo</li>
 			<li>Assel Dmitriyeva</li>
-			<li>Linh Sinh</li>
 		</ul>
 	</li>
 	<li>
