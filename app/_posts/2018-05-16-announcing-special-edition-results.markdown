@@ -16,7 +16,7 @@ You can learn more about how this year's Art-A-Hack is structured <a href="/summ
 		<em>Data Transformation<br /><span class="teaser">Can data drive pressure for systemic change?</span></em>
 		<ul>
 			<li>Azucena Romá</li>
-			<li>David McCreery</li>
+			<li>Linh Sinh</li>
 			<li>Sofía Suazo</li>
 			<li>Assel Dmitriyeva</li>
 		</ul>
