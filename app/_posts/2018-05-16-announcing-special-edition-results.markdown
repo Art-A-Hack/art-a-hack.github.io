@@ -78,7 +78,6 @@ You can learn more about how this year's Art-A-Hack is structured <a href="/summ
 			<li>Cynthia O'Neill</li>
 			<li>Nicole Cabalquinto</li>
 			<li>Fernando Orellana</li>
-			<li>Aaron Trocola</li>
 		</ul>
 	</li>
 </ol>
