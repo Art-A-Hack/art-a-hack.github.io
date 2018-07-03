@@ -53,7 +53,6 @@ You can learn more about how this year's Art-A-Hack is structured <a href="/summ
 		<ul>
 			<li>Dana Frayne</li>
 			<li>Balam Soto</li>
-			<li>Shirin Anlen</li>
 			<li>Sonia Li</li>
 			<li>Laura Mun</li>
 			<li>Siana Altiise</li>
@@ -63,8 +62,6 @@ You can learn more about how this year's Art-A-Hack is structured <a href="/summ
 		<em>Sentimental Feeling<br /><span class="teaser">Can we analyze the sentiment of your thoughts?</span></em>
 		<ul>
 			<li>Ellen Pearlman</li>
-			<li>Ivy Danxiaomeng Huang</li>
-			<li>Kate Tolo</li>
 			<li>Cynthia Hua</li>
 			<li>Danni Liu</li>
 			<li>Maggie Cao</li>
@@ -77,7 +74,6 @@ You can learn more about how this year's Art-A-Hack is structured <a href="/summ
 		<ul>
 			<li>Cynthia O'Neill</li>
 			<li>Nicole Cabalquinto</li>
-			<li>Fernando Orellana</li>
 		</ul>
 	</li>
 </ol>
