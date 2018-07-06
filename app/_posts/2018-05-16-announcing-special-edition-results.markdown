@@ -36,7 +36,6 @@ You can learn more about how this year's Art-A-Hack is structured <a href="/summ
 			<li>Lisa Russell</li>
 			<li>Lerenzo Malcom</li>
 			<li>Zishan Ahmed</li>
-			<li>Joseph Huaynate</li>
 			<li>Kira Davies</li>
 			<li>Ellen Lo</li>
 			<li>Debbie Deas</li>
