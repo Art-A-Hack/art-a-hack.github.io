@@ -61,9 +61,7 @@ You can learn more about how this year's Art-A-Hack is structured <a href="/summ
 		<em>Sentimental Feeling<br /><span class="teaser">Can we analyze the sentiment of your thoughts?</span></em>
 		<ul>
 			<li>Ellen Pearlman</li>
-			<li>Cynthia Hua</li>
 			<li>Danni Liu</li>
-			<li>Maggie Cao</li>
 			<li>Doori Rose</li>
 			<li>Sarah Ing</li>
 		</ul>
@@ -72,7 +70,6 @@ You can learn more about how this year's Art-A-Hack is structured <a href="/summ
 		<em>Second Skin<br /><span class="teaser">Wearing your heart on your sleeve</span></em>
 		<ul>
 			<li>Cynthia O'Neill</li>
-			<li>Nicole Cabalquinto</li>
 		</ul>
 	</li>
 </ol>
