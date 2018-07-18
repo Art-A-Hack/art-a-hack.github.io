@@ -10,11 +10,11 @@ links:
  - icon     : twitter
    url      : 
  - icon     : linkedin
-   url      : 
+   url      : https://www.linkedin.com/in/sonialidesigns/
  - icon     : instagram
-   url      : 
+   url      : https://www.instagram.com/glowlikeunicorn/
  - icon     : soundcloud
-   url      : 
+   url      : https://soundcloud.com/sonialidesigns
  - icon     : vimeo-square
    url      : https://vimeo.com/soniali
  - icon     : github
