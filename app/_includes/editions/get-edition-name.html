@@ -1,5 +1,0 @@
-{% unless edition %}
-	{% assign edition = page.edition %}
-{% endunless %}
-{% assign edition-data = site.data.editions | where: 'id', edition | first %}
-{% assign edition-name = edition-data.name %}

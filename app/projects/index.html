@@ -7,26 +7,23 @@ description : Projects from Art-A-Hack, a program which incubates teams from a v
 <main>
 	<article role="article" class="grid-container">
 		<h1>Art-A-Hack&trade; Projects</h1>
-		{% include editions/get-editions.html %}
 
-		{% for edition in editions %}
-			{% if edition != '' %}
-				{% include editions/get-edition-name.html %}
-
-				<h2>Art-A-Hack&#8482; {{ edition-name }}</h2>
+		{% for edition in site.data.editions %}
+			{% unless edition.writeup == false %}
+				<h2>Art-A-Hack&#8482; {{ edition.name }}</h2>
 				<div class="grid">
-					{% assign projects_for_edition = site.projects | where: 'edition', edition %}
+					{% assign projects_for_edition = site.projects | where: 'edition', edition.id %}
 					{% for project in projects_for_edition %}
 						<figure>
 							<a href="{{ project.url }}">
-								<img src="/images/projects/{{ edition }}/{{ project.projectid }}/{{ project.projectid }}.jpg" />
+								<img src="/images/projects/{{ edition.id }}/{{ project.projectid }}/{{ project.projectid }}.jpg" />
 								<figcaption>{{ project.title }}</figcaption>
 							</a>
 							<p>{{ project.teaser }}</p>
 						</figure>
 					{% endfor %}
 				</div>
-			{% endif %}
+			{% endunless %}
 		{% endfor %}
 
 		<h1>Art-A-Hack&#8482; Summer 2014</h1>

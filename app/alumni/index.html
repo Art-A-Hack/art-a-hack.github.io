@@ -7,20 +7,15 @@ description : Alumni of Art-A-Hack, a program which incubates teams from a varie
 <main>
 	<article role="article" class="grid-container">
 		<h1>Art-A-Hack&trade; Alumni</h1>
-		{% include editions/get-editions.html %}
 
-		{% for edition in editions %}
-			{% if edition != '' %}
-				{% include editions/get-edition-name.html %}
-
-				<h2>Art-A-Hack&#8482; {{ edition-name }}</h2>
-				<div class="grid alumni">
-					{% assign alumni_for_edition = site.alumni | where: 'edition', edition | sort: 'lastname' %}
-					{% for alum in alumni_for_edition %}
-						{% include alum.html %}
-					{% endfor %}
-				</div>
-			{% endif %}
+		{% for edition in site.data.editions %}
+			<h2>Art-A-Hack&#8482; {{ edition.name }}</h2>
+			<div class="grid alumni">
+				{% assign alumni_for_edition = site.alumni | where: 'edition', edition.id | sort: 'lastname' %}
+				{% for alum in alumni_for_edition %}
+					{% include alum.html %}
+				{% endfor %}
+			</div>
 		{% endfor %}
 	</article>
 </main>

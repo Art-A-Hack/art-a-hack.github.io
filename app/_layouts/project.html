@@ -21,8 +21,8 @@ layout: default
         </div>
       </header>
       <div class="post-content">
-        {% include editions/get-edition-name.html %}
-        <p class="edition when">Art-A-Hack&trade; {{ edition-name }}</p>
+        {% assign edition-data = site.data.editions | where: 'id', page.edition | first %}
+        <p class="edition when">Art-A-Hack&trade; {{ edition-data.name }}</p>
         <div id="members-short">
           <p>Team members:</p>
           <ul class="alumni">
