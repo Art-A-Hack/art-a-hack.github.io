@@ -13,15 +13,6 @@ You can learn more about how this year's Art-A-Hack is structured <a href="/summ
 
 <ol class="team-list">
 	<li>
-		<em>Data Transformation<br /><span class="teaser">Can data drive pressure for systemic change?</span></em>
-		<ul>
-			<li>Azucena Romá</li>
-			<li>Linh Sinh</li>
-			<li>Sofía Suazo</li>
-			<li>Assel Dmitriyeva</li>
-		</ul>
-	</li>
-	<li>
 		<em>Climate Consciousness<br /><span class="teaser">How does climate change play into human psychology, and vice-versa?</span></em>
 		<ul>
 			<li>Andrew McWilliams</li>
@@ -46,7 +37,7 @@ You can learn more about how this year's Art-A-Hack is structured <a href="/summ
 
 ## Track #2: Emotionally Intelligent Artificial Intelligence & Brain Computer Interfaces
 
-<ol class="team-list" start="4">
+<ol class="team-list" start="3">
 	<li>
 		<em>The Accessible Brain<br /><span class="teaser">Re-imagining the Interface of Brain-Computer Interface</span></em>
 		<ul>
@@ -58,17 +49,12 @@ You can learn more about how this year's Art-A-Hack is structured <a href="/summ
 		</ul>
 	</li>
 	<li>
-		<em>Sentimental Feeling<br /><span class="teaser">Can we analyze the sentiment of your thoughts?</span></em>
+		<em>Sentimental Feeling / Second Skin<br /><span class="teaser">Can we analyze the sentiment of your thoughts?</span></em>
 		<ul>
 			<li>Ellen Pearlman</li>
 			<li>Danni Liu</li>
 			<li>Doori Rose</li>
 			<li>Sarah Ing</li>
-		</ul>
-	</li>
-	<li>
-		<em>Second Skin<br /><span class="teaser">Wearing your heart on your sleeve</span></em>
-		<ul>
 			<li>Cynthia O'Neill</li>
 		</ul>
 	</li>
