@@ -25,11 +25,13 @@ You can learn more about how this year's Art-A-Hack is structured <a href="/summ
 		<em>Another World<br /><span class="teaser">There is no (physical) Planet B</span></em>
 		<ul>
 			<li>Lisa Russell</li>
-			<li>Lerenzo Malcom</li>
 			<li>Zishan Ahmed</li>
+			<li>Ainsley Burrows</li>
 			<li>Kira Davies</li>
-			<li>Ellen Lo</li>
 			<li>Debbie Deas</li>
+			<li>Ellen Lo</li>
+			<li>Lerenzo Malcom</li>
+			<li>Tarik Mohamed</li>
 			<li>Brian Sandilands</li>
 		</ul>
 	</li>
