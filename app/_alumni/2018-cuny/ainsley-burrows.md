@@ -4,11 +4,11 @@ occupation  : Actor, Poet, Performer
 
 links:
  - icon     : facebook
-   url      : 
+   url      : https://www.facebook.com/Ainsley-Burrows-104732796229080/
  - icon     : vk
    url      : 
  - icon     : twitter
-   url      : 
+   url      : https://twitter.com/ainsleyburrows
  - icon     : linkedin
    url      : 
  - icon     : instagram
