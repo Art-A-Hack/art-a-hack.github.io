@@ -11,9 +11,8 @@ members:
 ---
 The _Climate Consciousness_ team investigated public understanding of the true nature of the climate crisis. Their project, _The 2° Window_, displays the sliver of time within which humankind must restructure global energy infrastructure to avoid locking in a 2 degree global temperature rise, which is widely viewed as catastrophic.
 
-<figure class="video ratio-54 with-caption">
+<figure class="video ratio-54">
 	<iframe src="https://player.vimeo.com/video/280846644"></iframe>
-	<figcaption>The installation at the final showcase</figcaption>
 </figure>
 
 The team began with research on the way global warming is conceived, and what it really means. They came to the conclusion that climate change is an existential human threat, often misclassified as a purely 'environmental' issue.
