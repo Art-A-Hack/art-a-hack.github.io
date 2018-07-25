@@ -1,7 +1,7 @@
 ---
 title       : Climate Consciousness
 teaser      : Our time to 2 degrees in major cities around the world
-image       : /images/projects/2018-cyfest/blink-of-an-eye/team.jpg
+image       : /images/projects/2018-cuny/climate-consciousness/installation-1.jpg
 
 members:
  - name     : Andrew McWilliams
