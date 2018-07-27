@@ -39,7 +39,7 @@ To instigate this idea during the Art-A-Hack co-creation sessions, the team mock
 
 The clock countdown is based on [work by Nick Evershed at The Guardian](https://www.theguardian.com/environment/datablog/2017/jan/19/carbon-countdown-clock-how-much-of-the-worlds-carbon-budget-have-we-spent), who calculated the timeline for a data visualization, [based on IPCC reports](https://www.ipcc.ch/pdf/assessment-report/ar5/syr/SYR_AR5_FINAL_full_wcover.pdf). The Guardian gave their blessing to this project, and even [published the source code](https://github.com/guardian/carbon-countdown-clock-global) of their calculations as shown on the site, to support the team's efforts.
 
-The philosophy of this team is that the clock and it's numbers are already out there. They just aren't being seen by people enough. How can we bring the numbers closer to people, so they can consider them in their everyday lives?
+The philosophy of this team is that the clock and its numbers are already out there. They just aren't being seen by people enough. How can we bring the numbers closer to people, so they can consider them in their everyday lives?
 
 <figure>
 	<img src="/images/projects/2018-cuny/climate-consciousness/installation-2.jpg" alt="The team's installation presented at CyFest 2018" />
