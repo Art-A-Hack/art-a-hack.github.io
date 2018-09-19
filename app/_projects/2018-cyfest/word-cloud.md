@@ -5,6 +5,7 @@ image       : /images/projects/2018-cyfest/word-cloud/still.jpg
 
 members:
  - name     : Marina Blinova
+   lead     : true
  - name     : Alex Goncharenko
  - name     : Sonia Nelyubina
  - name     : Denis Protopopov

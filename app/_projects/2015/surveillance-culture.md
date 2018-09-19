@@ -4,6 +4,7 @@ teaser  : How much do we reveal about ourselves online?
 
 members:
  - name : Katherine Bennett
+   lead : true
  - name : Julio Montas
  - name : Betty Quinn
 ---

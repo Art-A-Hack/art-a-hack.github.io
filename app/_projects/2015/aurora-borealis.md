@@ -4,6 +4,7 @@ teaser  : Projecting laser heartbeats on the Aurora Borealis
 
 members:
  - name : Sofy Yuditskaya
+   lead : true
  - name : Avi Fox-Rosen
  - name : Daniel Tsadok
  - name : Norman Savitt

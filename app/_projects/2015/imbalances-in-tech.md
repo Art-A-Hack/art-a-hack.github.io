@@ -4,6 +4,7 @@ teaser  : Access privilege on demand from your phone
 
 members:
  - name : Linda Raftree
+   lead : true
  - name : Dmytri Kleiner
  - name : Juan P Botero
 ---

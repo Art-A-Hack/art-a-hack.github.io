@@ -4,6 +4,7 @@ teaser  : Translating brainwaves into 3D sculptures
 
 members:
  - name : Mark Ramos
+   lead : true
  - name : Rodrigo Palacios
  - name : Brian George
 ---

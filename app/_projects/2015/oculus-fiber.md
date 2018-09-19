@@ -4,6 +4,7 @@ teaser  : Explore fabrics in VR as though they were architectures
 
 members:
  - name : Jessica Graves
+   lead : true
  - name : Greg Dutcher
  - name : Nina Mirhabibi
  - name : Rebecca Lieberman

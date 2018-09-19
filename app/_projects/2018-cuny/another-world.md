@@ -5,6 +5,7 @@ image       : /images/projects/2018-cuny/another-world/team-photo.jpg
 
 members:
  - name     : Lisa Russell
+   lead     : true
  - name     : Zishan Ahmed
  - name     : Ainsley Burrows
  - name     : Kira Davies

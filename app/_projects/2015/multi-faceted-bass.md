@@ -4,6 +4,7 @@ teaser  : Transforming an acoustic bass cello into a electronic instrument
 
 members:
  - name : Man Wai Che
+   lead : true
  - name : Rose Kue
  - name : Sam Wells
  - name : Gene Kogan

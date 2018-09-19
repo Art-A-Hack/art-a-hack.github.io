@@ -5,6 +5,7 @@ image       : /images/projects/2018-cuny/climate-consciousness/installation-1.jp
 
 members:
  - name     : Andrew McWilliams
+   lead     : true
  - name     : Anny Chang
  - name     : Amay Kataria
  - name     : Yidan Zeng

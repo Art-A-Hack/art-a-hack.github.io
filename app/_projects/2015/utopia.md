@@ -4,6 +4,7 @@ teaser  : A tour through the remnants of Second Life
 
 members:
  - name : Annie Berman
+   lead : true
  - name : Lee Tusman
  - name : David Tennant
 ---

@@ -5,6 +5,7 @@ image       : /images/projects/2018-cuny/accessible-brain/presentation.jpg
 
 members:
  - name     : Dana Frayne
+   lead     : true
  - name     : Balam Soto
  - name     : Sonia Li
  - name     : Laura Mun

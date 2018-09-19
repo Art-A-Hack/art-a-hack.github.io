@@ -4,6 +4,7 @@ teaser  : The world's first Shakespeare play in VR
 
 members:
  - name : Javier Molina
+   lead : true
  - name : Zhen Liu
 ---
 

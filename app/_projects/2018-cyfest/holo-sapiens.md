@@ -5,6 +5,7 @@ image       : /images/projects/2018-cyfest/holo-sapiens/classical.jpg
 
 members:
  - name     : Kseniia Galkina
+   lead     : true
  - name     : Mitya Akhmediyev
  - name     : Leonid Gavrilov
 ---

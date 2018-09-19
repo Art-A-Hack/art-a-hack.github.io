@@ -4,7 +4,9 @@ teaser  : Interactive performance exploring the concept of ego
 
 members:
  - name : Mariya Mishurenko
+   lead : true
  - name : Gordey Chernyy
+   lead : true
  - name : Enki Andrews
  - name : Anirudh Eka
  - name : Julia Frey

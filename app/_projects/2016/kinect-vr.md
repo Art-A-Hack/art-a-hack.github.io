@@ -4,7 +4,9 @@ teaser  : Mobile VR just became full-body at room-scale
 
 members:
  - name : Filip Baba
+   lead : true
  - name : Loren Abdulezer
+   lead : true
  - name : Pierre Bernard
  - name : Zach Krall
  - name : Lisa Russell

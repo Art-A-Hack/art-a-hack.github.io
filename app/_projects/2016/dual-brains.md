@@ -4,6 +4,7 @@ teaser  : Visualizing empathy with brain-computer interface
 
 members:
  - name : Eva Lee
+   lead : true
  - name : Gabriel Ibagon
  - name : Gal Nissim
  - name : Pat Shiu

@@ -4,6 +4,7 @@ teaser  : An art curation platform for the metaverse
 
 members:
  - name : Samuel Arsenault-Brassard
+   lead : true
  - name : Ace Ji
  - name : Marie Patterson
  - name : Madhu Sivaramakrishnan

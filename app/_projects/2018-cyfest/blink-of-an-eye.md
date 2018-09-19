@@ -5,6 +5,7 @@ image       : /images/projects/2018-cyfest/blink-of-an-eye/team.jpg
 
 members:
  - name     : Yulia Glukhova
+   lead     : true
  - name     : Maxim Kernozhickiy
  - name     : Viktor Kudryashov
  - name     : Marat Shaidulin

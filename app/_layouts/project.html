@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% assign sorted-members = page.members | sort: "name" %}
 <div class="flex-row">
   <main class="left">
     <article role="article">
@@ -26,9 +27,17 @@ layout: default
         <div id="members-short">
           <p>Team members:</p>
           <ul class="alumni">
-            {% for member in page.members %}
-              {% assign alum = site.alumni | where:"name", member.name | first %}
-              <li>{{ alum.name }}</li>
+            {% for member in sorted-members %}
+              {% if member.lead %}
+                {% assign alum = site.alumni | where:"name", member.name | first %}
+                <li>{{ alum.name }}</li>
+              {% endif %}
+            {% endfor %}
+            {% for member in sorted-members %}
+              {% unless member.lead %}
+                {% assign alum = site.alumni | where:"name", member.name | first %}
+                <li>{{ alum.name }}</li>
+              {% endunless %}
             {% endfor %}
           </ul>
         </div>
@@ -42,11 +51,21 @@ layout: default
   </main>
   <section id="members" class="right grid-container">
     <ul class="alumni">
-      {% for member in page.members %}
-        {% assign alum = site.alumni | where:"name", member.name | first %}
-        <li>
-          {% include alum.html %}
-        </li>
+      {% for member in sorted-members %}
+        {% if member.lead %}
+          {% assign alum = site.alumni | where:"name", member.name | first %}
+          <li>
+            {% include alum.html %}
+          </li>
+        {% endif %}
+      {% endfor %}
+      {% for member in sorted-members %}
+        {% unless member.lead %}
+          {% assign alum = site.alumni | where:"name", member.name | first %}
+          <li>
+            {% include alum.html %}
+          </li>
+        {% endunless %}
       {% endfor %}
     </ul>
   </section>

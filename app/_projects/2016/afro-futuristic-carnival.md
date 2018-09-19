@@ -4,6 +4,7 @@ teaser  : Meet the Goddess Yermaya in virtual reality
 
 members:
  - name : Sharon De La Cruz
+   lead : true
  - name : David Tracy
  - name : Espii Proctor
  - name : Debbie Deas

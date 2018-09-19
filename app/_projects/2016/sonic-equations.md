@@ -4,6 +4,7 @@ teaser  : Exploring the limits of sonic communication
 
 members:
  - name : Christopher Edwards
+   lead : true
  - name : Julia Barry
  - name : Laura Mun
  - name : Nga Nguyen

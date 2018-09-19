@@ -4,6 +4,7 @@ teaser  : Solving all the wrong problems with technology
 
 members:
  - name : Mala Kumar
+   lead : true
  - name : Leonardo Malave
  - name : Allie Quintano
  - name : Linda Raftree

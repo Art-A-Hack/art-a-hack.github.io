@@ -5,6 +5,7 @@ image       : /images/projects/2018-cuny/sentimental-feeling-second-skin/present
 
 members:
  - name     : Ellen Pearlman
+   lead     : true
  - name     : Danni Liu
  - name     : Doori Rose
  - name     : Sarah Ing

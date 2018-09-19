@@ -4,7 +4,9 @@ teaser  : Using your thoughts to control a crystal ball
 
 members:
  - name : Ria Rajan
+   lead : true
  - name : Sofy Yuditskaya
+   lead : true
  - name : Chris Clapis
  - name : Fabio Piparo
 ---
