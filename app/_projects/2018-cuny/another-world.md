@@ -33,10 +33,9 @@ Before entering the experience, users are asked to submit their DNA with a cotto
 
 As they take their virtual tour, which as created using created using [Unity](https://unity3d.com/), the experience is abruptly interrupted. The following scenes see climate hackers breaking into the “tour” experience, with their crucial and existential slogan: "It's not too late."
 
-
 <figure>
-	<img src="/images/projects/2018-cuny/another-world/presentation.jpg" alt="The team shows their work during the final presentations" />
-	<figcaption>The team shows their work during the final presentations</figcaption>
+	<img src="/images/projects/2018-cuny/another-world/screenshot.jpg" alt="A screenshot of the VR experience" />
+	<figcaption>A screenshot of the VR experience</figcaption>
 </figure>
 
 The team was led by Emmy-winning filmmaker Lisa Russell, who has been producing films and curating artistic performances with UN agencies for the past 15 years. In 2015, to align with the [Sustainable Development Goals Summit](https://www.unfpa.org/events/united-nations-sustainable-development-summit-2015), Russell produced a poetry-based video called [Mother’s Cry](https://youtu.be/jAdCOkM2L68).
@@ -44,6 +43,11 @@ The team was led by Emmy-winning filmmaker Lisa Russell, who has been producing 
 The film had an online premiere with Slate Magazine and went on to screen at the United Nations and 30 international film festivals.
 
 Finding ways to engage new audiences is key to Russell's thinking: “Climate change is such an abstract concept to many people so producing creative content in a variety of genres - films, VR, poetry - is necessary to push the conversation and mobilize a response,” she writes. “I chose this sci-fi, socio-political concept for our project because I think it will attract a wider audience and my team was so supportive and invested.”
+
+<figure>
+	<img src="/images/projects/2018-cuny/another-world/presentation.jpg" alt="The team shows their work during the final presentations" />
+	<figcaption>The team shows their work during the final presentations</figcaption>
+</figure>
 
 The team was comprised of video experts, VR technologists, performers and 3D designers. An actor was called in for the CEO role with the team as support cast.
 
