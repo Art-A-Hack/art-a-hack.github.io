@@ -20,22 +20,27 @@ The team began with research on the way global warming is conceived, and what it
 
 The true main threat of global warming is that it portends a collapse of civilization, which could be "locked in" within a very short timeframe.
 
+<figure class="video ratio-55 with-caption">
+	<iframe src="https://www.youtube.com/embed/7XlkTYH9I90" allowfullscreen></iframe>
+	<figcaption>The team's presentation at the 2018 showcase</figcaption>
+</figure>
+
 This is because cumulative heat-trapping emissions cannot be reversed, and will drive up temperatures for centuries. This causes ever-increasing levels of drought, extreme weather, sea-level rise, all compounding each other in unison.
+
+This will inevitably lead to ever-increasing refugee crises, dwindling food and resources, and war.
 
 <figure>
 	<img src="/images/projects/2018-cuny/climate-consciousness/installation-1.jpg" alt="The team's installation presented at CyFest 2018" />
 	<figcaption>The installation at Art-A-Hack final presentations in New York</figcaption>
 </figure>
 
-This will inevitably lead to ever-increasing refugee crises, dwindling food and resources, and war.
-
 The team asks: given the urgency and the threat, shouldn't this countdown be displayed in every global city, to inject an urgency into public discourse about global warming which it often seems to lack?
 
 To instigate this idea during the Art-A-Hack co-creation sessions, the team mocked up a livetime clock  countdown installation. The current calculated time is overlaid onto CCTV and other footage of major cities, including New York, Tokyo and Paris.
 
 <figure>
-	<img src="/images/projects/2018-cuny/climate-consciousness/presentations.jpg" alt="The team's installation presented at CyFest 2018" />
-	<figcaption>The team explaining their ideas during the final presentations</figcaption>
+	<img src="/images/projects/2018-cuny/climate-consciousness/installation-2.jpg" alt="The team's installation presented at CyFest 2018" />
+	<figcaption>The grid screen of the clock showing global major cities</figcaption>
 </figure>
 
 The clock countdown is based on [work by Nick Evershed at The Guardian](https://www.theguardian.com/environment/datablog/2017/jan/19/carbon-countdown-clock-how-much-of-the-worlds-carbon-budget-have-we-spent), who calculated the timeline for a data visualization, [based on IPCC reports](https://www.ipcc.ch/pdf/assessment-report/ar5/syr/SYR_AR5_FINAL_full_wcover.pdf). The Guardian gave their blessing to this project, and even [published the source code](https://github.com/guardian/carbon-countdown-clock-global) of their calculations as shown on the site, to support the team's efforts.
@@ -43,8 +48,8 @@ The clock countdown is based on [work by Nick Evershed at The Guardian](https://
 The philosophy of this team is that the clock and its numbers are already out there. They just aren't being seen by people enough. How can we bring the numbers closer to people, so they can consider them in their everyday lives?
 
 <figure>
-	<img src="/images/projects/2018-cuny/climate-consciousness/installation-2.jpg" alt="The team's installation presented at CyFest 2018" />
-	<figcaption>The grid screen of the clock showing global major cities</figcaption>
+	<img src="/images/projects/2018-cuny/climate-consciousness/presentations.jpg" alt="The team's installation presented at CyFest 2018" />
+	<figcaption>The team explaining their ideas during the final presentations</figcaption>
 </figure>
 
 The grid page created by the team helps to answer that question, showing timezone-adjusted versions of the clock. This way, people can see the countdown to the day they will wake up _in their city_ to a world with 2°C locked in.

@@ -26,8 +26,9 @@ The project is based on research which predicts that by the year 2100, parts of 
 
 The project is part science fiction, part socio-political commentary, and is seen by team members as a form of climate activism.
 
-<figure>
-	<img src="/images/projects/2018-cuny/another-world/climate-hax.jpg" alt="Climate Hax" />
+<figure class="video ratio-55 with-caption">
+	<iframe src="https://www.youtube.com/embed/UEtBjHNiFI8" allowfullscreen></iframe>
+	<figcaption>The team's presentation at the 2018 showcase</figcaption>
 </figure>
 
 Before entering the experience, users are asked to submit their DNA with a cotton swab. After putting on the VR headset, visitors are greeted by the CEO of Space Station Apiary and invited to visit a state-of-the-art space installation.
@@ -46,11 +47,15 @@ The film had an online premiere with Slate Magazine and went on to screen at the
 Finding ways to engage new audiences is key to Russell's thinking: “Climate change is such an abstract concept to many people so producing creative content in a variety of genres - films, VR, poetry - is necessary to push the conversation and mobilize a response,” she writes. “I chose this sci-fi, socio-political concept for our project because I think it will attract a wider audience and my team was so supportive and invested.”
 
 <figure>
-	<img src="/images/projects/2018-cuny/another-world/presentation.jpg" alt="The team shows their work during the final presentations" />
-	<figcaption>The team shows their work during the final presentations</figcaption>
+	<img src="/images/projects/2018-cuny/another-world/climate-hax.jpg" alt="Climate Hax" />
 </figure>
 
 The team was comprised of video experts, VR technologists, performers and 3D designers. An actor was called in for the CEO role with the team as support cast.
 
 In the 4-weekend incubation period, the team produced a proof-of-concept experience, setting the stage for further development. Going forward, the team plans to finalize the demo and submit to [VR for Good](https://www.oculus.com/vr-for-good/) programs.
+
+<figure>
+	<img src="/images/projects/2018-cuny/another-world/presentation.jpg" alt="The team shows their work during the final presentations" />
+	<figcaption>The team showing their work during the final presentation</figcaption>
+</figure>
 
