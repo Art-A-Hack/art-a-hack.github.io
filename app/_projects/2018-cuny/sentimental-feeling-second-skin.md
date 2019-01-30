@@ -1,7 +1,6 @@
 ---
 title       : Sentimental Feeling/Second Skin
 teaser      : What happens when technologies interpret our emotional states?
-image       : /images/projects/2018-cuny/sentimental-feeling-second-skin/presentation.jpg
 
 members:
  - name     : Ellen Pearlman

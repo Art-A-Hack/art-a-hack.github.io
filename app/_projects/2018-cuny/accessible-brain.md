@@ -1,7 +1,6 @@
 ---
 title       : The Accessible Brain
 teaser      : A brain-activated space for those with disabilities
-image       : /images/projects/2018-cuny/accessible-brain/presentation.jpg
 
 members:
  - name     : Dana Frayne
