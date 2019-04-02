@@ -8,7 +8,7 @@ members:
  - name : Gordey Chernyy
    lead : true
  - name : Enki Andrews
- - name : Anirudh Eka
+ - name : Anirudh "Eka"
  - name : Julia Frey
  - name : Adriana Molello
 ---
