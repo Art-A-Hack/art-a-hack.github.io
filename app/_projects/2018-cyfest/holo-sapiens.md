@@ -23,7 +23,7 @@ Using Google APIs, the team explored text-to-speech input that triggered a class
 	<figcaption>The installation at CyFest 2018</figcaption>
 </figure>
 
-The piece went on to be exhibited at the Tate Museum's [Tate Exchange program](http://www.tate.org.uk/visit/tate-modern/tate-exchange) in London.
+The piece went on to be exhibited at the Tate Museum's [Tate Exchange program](http://cyland.org/lab/cyland-participates-at-the-arts-work-of-the-future-programme-at-tate-modern/) in London.
 
 <figure>
 	<img src="/images/projects/2018-cyfest/holo-sapiens/mitya.jpg" alt="Mitya standing next to the team's creation" />
