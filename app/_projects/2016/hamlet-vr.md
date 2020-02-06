@@ -8,14 +8,16 @@ members:
  - name : Zhen Liu
 ---
 
-"To Be With Hamlet" is a live theater performance experienced in virtual reality. Audience members wear the [HTC Vive](http://www.vive.com/) headset immersing themselves in an intimate experience with Hamlet, Shakespeare's dramatic masterpiece.
+"To Be With Hamlet" is a live theater performance experienced in virtual reality. The project was incubated at Art-A-Hack and went on to be featured in the [2017 Tribeca Immersive in New York](https://www.tribecafilm.com/filmguide/archive/to-be-with-hamlet-2017).
 
 <figure class="video ratio-54 with-caption">
 	<iframe src="https://player.vimeo.com/video/176257847"></iframe>
 	<figcaption>An introduction to the Hamlet VR project</figcaption>
 </figure>
 
-Once inside the VR theater, audiences walk the battlements of Elsinore Castle with Hamlet as he confronts the ghost of his murdered father. What makes this project unique is that it is performed live with an actor in the virtual space so both the participant and actor are aware of each other’s presence.
+In the experience, audience members wear the [HTC Vive](http://www.vive.com/) headset immersing themselves in an intimate experience with Hamlet, Shakespeare's dramatic masterpiece. Once inside the VR theater, audiences walk the battlements of Elsinore Castle with Hamlet as he confronts the ghost of his murdered father.
+
+What makes this project unique is that it is performed live with an actor in the virtual space so both the participant and actor are aware of each other’s presence.
 
 During Art-A-Hack 2016, the Hamlet VR team created an initial prototype of what would become a full live performance. They used the motion capture (Mocap) studio at [NYU Tandon’s School of Engineering](http://engineering.nyu.edu/academics/programs/integrated-digital-media-ms). Art-A-Hack partnered with the school during its 2016 season.
 
