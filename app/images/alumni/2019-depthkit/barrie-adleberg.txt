@@ -1,0 +1,20 @@
+{
+	"_versionMajor" : "0",
+	"_versionMinor" : "1",
+	"depthFocalLength" : {
+		"x" : 367.186,
+		"y" : 367.186
+	},
+	"depthImageSize" : {
+		"x" : 512,
+		"y" : 424
+	},
+	"depthPrincipalPoint" : {
+		"x" : 259.567,
+		"y" : 206.465
+	},
+	"farClip" : 2.37301,
+	"format" : "perpixel",
+	"nearClip": 0.579378,
+	"clipEpsilon" : 0.00278764
+}

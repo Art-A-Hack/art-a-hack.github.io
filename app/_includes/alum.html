@@ -1,12 +1,5 @@
-<figure>
-	<img src="/images/alumni/{{ alum.edition }}/{{ alum.alumid }}.jpg" />
-	<figcaption>{{ alum.name }}</figcaption>
-	<p>{{ alum.occupation }}</p>
-	<ul class="links">
-		{% for link in alum.links %}
-			{% if link.url.size > 0 %}
-				<li><a href="{{ link.url }}"><i class="fa fa-{{ link.icon }}"></i></a></li>
-			{% endif %}
-		{% endfor %}
-	</ul>
-</figure>
+{% if alum.avatar == "depthkit" %}
+	{% include alum/depthkit.html %}
+{% else %}
+	{% include alum/image.html %}
+{% endif %}
