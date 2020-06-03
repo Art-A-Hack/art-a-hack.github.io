@@ -7,9 +7,8 @@ description : Alumni of Art-A-Hack, a program which incubates teams from a varie
 <main>
 	<article role="article" class="grid-container">
 		<h1>Art-A-Hack&trade; Alumni</h1>
-
 		{% for edition in site.data.editions %}
-			<h2>Art-A-Hack&#8482; {{ edition.name }}</h2>
+			<h2>{% if edition.host %}{{ edition.host }}{% else %}Art-A-Hack&#8482;{% endif %} {{ edition.name }}</h2>
 			<div class="grid alumni">
 				{% assign alumni_for_edition = site.alumni | where: 'edition', edition.id | sort: 'lastname' %}
 				{% for alum in alumni_for_edition %}
