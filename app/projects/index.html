@@ -10,7 +10,7 @@ description : Projects from Art-A-Hack, a program which incubates teams from a v
 
 		{% for edition in site.data.editions %}
 			{% unless edition.writeup == false %}
-				<h2>Art-A-Hack&#8482; {{ edition.name }}</h2>
+				{% include edition-name.html %}
 				<div class="grid">
 					{% assign projects_for_edition = site.projects | where: 'edition', edition.id %}
 					{% for project in projects_for_edition %}
