@@ -1,6 +1,7 @@
 - id: 2019-depthkit
   name: 2019 — Depthkit Workshop with Scatter
   host: ThoughtWorks Arts
+  writeup: false
 - id: 2018-cuny
   name: 2018 Special Edition — City University of New York
 - id: 2018-cyfest
