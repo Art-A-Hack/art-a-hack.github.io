@@ -89,7 +89,7 @@
 				renderer = new THREE.WebGLRenderer();
 				renderer.setPixelRatio( window.devicePixelRatio );
 				renderer.setSize( window.innerWidth, window.innerHeight );
-				document.body.appendChild( renderer.domElement );
+				document.getElementById("depth-here").appendChild( renderer.domElement );
 
 				// Setup scene
 				scene = new THREE.Scene();
@@ -193,9 +193,9 @@
 					default:
 						scene.updateMatrixWorld();
 
-						var v = new THREE.Vector3()
-						v.setFromMatrixPosition(character.matrixWorld);
-						console.log(v);
+						//var v = new THREE.Vector3()
+						//v.setFromMatrixPosition(character.matrixWorld);
+						//console.log(v);
 
 						return;
 				}
