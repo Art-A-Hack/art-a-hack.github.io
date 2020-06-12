@@ -23,7 +23,7 @@ Please make sure you are available to take part on the call-in dates for the key
 	<li>Group progress & review session #1 - To be scheduled</li>
 	<li>Group progress & review session #2 - To be scheduled</li>
 	<li>Group progress & review session #3 - To be scheduled</li>
-	<li>Look & learn sessions & co-working — flexible, to be scheduled with your team
+	<li>Look & learn sessions & co-working — flexible, to be scheduled with your team</li>
 	<li>Rehearsal - Early August</li>
 	<li>Performance - Mid to late August</li>
 </ul>
@@ -32,3 +32,15 @@ Please make sure you are available to take part on the call-in dates for the key
 To apply, fill out the application now for this themed Art-A-Hack. Please consider how your application might support or lead for the above named two dance performances, outlined above. 
 
 Describe a project idea you want to try, the ways you might imagine working with this data, and/or the skills you have to contribute. When we receive your applications, we will match you up with others to create teams. This is an ad-hoc process, and we can’t always match everybody to teams, but we work hard to create aligned teams and have had great results from this process in the past.
+
+<div>
+<a href="https://batterydance.org/"><img src="/images/sponsors/battery-dance.png" alt="Battery Dance" style="height: 130px; max-width: 230px; margin: 0 1.5em 1.5em 0;" /></a>
+
+<a href="https://www.state.gov/"><img src="/images/sponsors/state-dept.png" alt="U.S. State Department" style="height: 130px; max-width: 230px; margin: 0 1.5em 1.5em 0;" /></a>
+
+<a href="https://www.emotibit.com/"><img src="/images/sponsors/emotibit.png" alt="Emotibit" style="height: 130px; max-width: 230px; margin: 0 1.5em 1.5em 0;" /></a>
+
+<a href="https://alumni.state.gov/alumni-news/alumni-thematic-international-exchange-seminars-alumni-ties"><img src="/images/sponsors/alumni-ties.png" alt="Alumni Ties Thematic International Exchange Seminars" style="height: 130px; max-width: 400px; margin: 0 1.5em 1.5em 0;" /></a>
+
+<a href="https://www.worldlearning.org/"><img src="/images/sponsors/world-learning.png" alt="World Learning" style="height: 130px; max-width: 230px; margin: 0 1.5em 1.5em 0;" /></a>
+</div>
