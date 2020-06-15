@@ -15,7 +15,7 @@ The hack will culminate in a live streamed performance as part of the Battery Da
 
 To apply now, please read the Open Call below and fill out the application. We really want to work with you! The deadline for the call is Wednesday, June 24th.
 
-Please make sure you are available to take part on the call-in dates for the key remote sessions between July and August. 
+Please make sure you are available to take part on the call-in dates for the key remote sessions between July 7 and August 21. 
 
 <ul>
 	<li>Social & orientation - July 6</li>
