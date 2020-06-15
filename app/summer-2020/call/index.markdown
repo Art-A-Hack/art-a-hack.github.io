@@ -31,6 +31,8 @@ Please make sure you are available to take part on the call-in dates for the key
 ## How to apply
 To apply, fill out the application now for this themed Art-A-Hack. Please consider how your application might support or lead for the above named two dance performances, outlined above. 
 
+<div style="width: 100%; text-align: center; font-weight: bold;"><p><a style="font-size: 2.2em" href="https://docs.google.com/forms/d/e/1FAIpQLSdWCuyRw9gwGc3wp2STlPYFedshPBBlY0OKPtVDJJhTn3LRXw/viewform?usp=sf_link">Apply Now</a></p></div>
+
 Describe a project idea you want to try, the ways you might imagine working with this data, and/or the skills you have to contribute. When we receive your applications, we will match you up with others to create teams. This is an ad-hoc process, and we can’t always match everybody to teams, but we work hard to create aligned teams and have had great results from this process in the past.
 <br />
 <br />
