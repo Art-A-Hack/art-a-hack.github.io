@@ -19,6 +19,11 @@ How the biometric data is viewed, and what type of environment it distributes th
 
 Previous editions of Art-A-Hack have been in person, but this edition will take place fully online, and is open to international participation, though the focus will revolve around the dancer’s presence within the New York City EST time zone. We have set up a system to allow participants to read the biometric data of the dancers remotely, which can then be used to generate graphics, audio, lighting, VR, AR, drones or anything you can think of to augment and interact with the dancer’s performance.
 
+<figure>
+	<img src="/images/calls/summer-2020/emotibit.jpg" alt="An EmotiBit device broadcasting data" />
+	<figcaption>An EmotiBit device broadcasting data</figcaption>
+</figure>
+
 The hack will culminate in a live streamed performance as part of the Battery Dance Festival, one of the oldest and most important festivals that will take place in New York City on August 14-20, 2020.
 
 To apply now, please read the Open Call below and fill out the application. We really want to work with you! The deadline for the call is Wednesday, June 24th.
