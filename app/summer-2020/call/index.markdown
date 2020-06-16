@@ -8,7 +8,7 @@ image : /images/og/aah-2020.jpg
 ---
 Art-A-Hack is partnering with <a href="https://batterydance.org/battery-dance-festival/">Battery Dance Festival</a>, <a href="https://www.emotibit.com/">Emotibit</a>, and <a href="https://alumni.state.gov/alumni-news/alumni-thematic-international-exchange-seminars-alumni-ties">U.S. State Department Alumni TIES</a> / <a href="https://www.worldlearning.org/">World Learning</a> during this time of Covid-19 by using lockdown and isolation as catalysts to imagine interactive live performance in new ways.
 
-We will be working with two dancers from Battery Dance Company, Hussein Smko and Razan Stoian who will be wearing Emotibits, special wearable sensors that transmit biometric data live time. The dancers will perform in two separate studio spaces while Art-A-Hackers create with them over a network in virtual spaces, or in ways yet to be imagined.
+We will be working with two dancers from Battery Dance Company, Hussein Smko and Razvan Stoian who will be wearing Emotibits, special wearable sensors that transmit biometric data live time. The dancers will perform in two separate studio spaces while Art-A-Hackers create with them over a network in virtual spaces, or in ways yet to be imagined.
 
 <figure>
 	<img src="/images/calls/summer-2020/hussein-smko.jpg" alt="Hussein Smko" />
