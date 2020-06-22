@@ -55,6 +55,10 @@ Describe a project idea you want to try, the ways you might imagine working with
 
 <a href="https://www.emotibit.com/"><img src="/images/sponsors/emotibit.png" alt="Emotibit" style="height: 130px; max-width: 250px; margin: 0 1.5em 1.5em 0;" /></a>
 
+<a href="https://www.elektron.art/"><img src="/images/sponsors/elektron.png" alt="Elektron" style="max-width: 250px; margin: 1.5em 1.5em 1.5em 0;" /></a>
+
+<br />
+
 <a href="https://www.state.gov/"><img src="/images/sponsors/us-flag.png" alt="U.S. Flag" style="height: 100px; max-width: 230px; margin: 0 2.5em 1.5em 0;" /></a>
 
 <a href="https://www.state.gov/"><img src="/images/sponsors/state-dept.png" alt="U.S. State Department" style="height: 150px; max-width: 230px; margin: 0 1.5em 1.5em 0;" /></a>
