@@ -6,6 +6,8 @@ bodyclass : post
 description : Art-A-Hack is partnering with Battery Dance Festival, Emotibit, eˉlektron, and U.S. Fulbright Alumni Ties/World Learning during this time of COVID-19 by using lockdown and isolation as catalysts to imagine interactive live performance in new ways.
 image : /images/og/aah-2020.jpg
 ---
+<p class="highlight">Note: The deadline for this call has passed and submissions are no longer being accepted.</p>
+
 Art-A-Hack is partnering with <a href="https://batterydance.org/battery-dance-festival/">Battery Dance Festival</a>, <a href="https://www.emotibit.com/">Emotibit</a>, <a href="https://www.elektron.art/">eˉlektron</a> and <a href="https://alumni.state.gov/alumni-news/alumni-thematic-international-exchange-seminars-alumni-ties">U.S. State Department Alumni TIES</a> / <a href="https://www.worldlearning.org/">World Learning</a> during this time of COVID-19 by using lockdown and isolation as catalysts to imagine interactive live performance in new ways.
 
 We will be working with two dancers from Battery Dance Company, Hussein Smko and Razvan Stoian who will be wearing Emotibits, special wearable sensors that transmit biometric data live time. The dancers will perform in two separate studio spaces while Art-A-Hackers create with them over a network in virtual spaces, or in ways yet to be imagined.
