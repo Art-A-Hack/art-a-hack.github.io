@@ -31,6 +31,7 @@ Andy McWilliams
 <ul class="team-list" style="margin-top: 0; padding-top: 0">
 	<li>(Bryan) Tyler Parker</li>
 	<li>Dan Oved</li>
+	<li>JiaXuan Hon</li>
 	<li>Kat Sullivan</li>
 	<li>Mingna Li</li>
 	<li>Neve Parker</li>
