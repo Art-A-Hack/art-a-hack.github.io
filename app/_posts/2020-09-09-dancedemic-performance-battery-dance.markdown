@@ -41,4 +41,4 @@ The choreography was a study in contrasts: turbulence and calm, dark and light, 
 
 Smko’s team presented *Walk With Me*, an individual’s journey about finding mental strength and resilience in the face of adversity and chaos. Smko’s memories of growing up in wartime Iraqi Kurdistan formed the backbone of the piece. He also embodied the practice of a Ronin (a masterless Samurai) where, no matter the situation, one must find calmness from within and stay grounded.
 
-The biometrics read by the Emotibit worn on his forehead were represented visually in the form of changing multi-colored strokes that surrounded his body throughout the duration of the performance.
+The biometrics read by the EmotiBit worn on his forehead were represented visually in the form of changing multi-colored strokes that surrounded his body throughout the duration of the performance.
