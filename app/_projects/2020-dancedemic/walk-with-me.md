@@ -70,4 +70,6 @@ Neve Parker - NYC, USA
 Nina Mirhabibi - Orlando, Florida, USA  
 JiaXuan Hon - London, UK  
   
+Special thanks to Dan Oved - LA/NYC, USA  
+  
 *Art-A-Hack’s “DANCEDEMIC” was funded through an [Alumni TIES and World Learning](https://interactives.worldlearning.org/alumni-ties/) small grant from the [U.S. Department of State.](https://www.state.gov/)*
