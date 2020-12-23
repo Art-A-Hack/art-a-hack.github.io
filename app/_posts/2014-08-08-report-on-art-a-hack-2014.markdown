@@ -16,7 +16,7 @@ Where does Big Data meet fortune-telling? This team used public social media pro
 
 <h2><a href="/summer-2014/kinect-and-oculus-mashup">Oculus, Kinect and Extended Reality</a></h2>
 
-<div class="info large">Jason Levine &amp; Noah Pivick</div>
+<div class="info large">Jason Levine &amp; Noah Pivnick</div>
 
 There is an intimate connection between constructed virtual reality, and the reality that depth sensors reconstruct of the world. This team combined a Microsoft Kinect with an Oculus Rift, to see what the limitations and sweet spots were. They constructed their own kind of 'extended reality'.
 

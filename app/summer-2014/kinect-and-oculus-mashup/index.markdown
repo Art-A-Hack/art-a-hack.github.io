@@ -13,11 +13,11 @@ What happens when we create a virtual boundary that combines two levels of perce
 <figure>
 	<img src="/images/reports/summer-2014/2.jpg" alt="Mark Bolotin, Billy Keefe, Chantel" />
 	<figcaption>
-		Jason Levine &amp; Noah Pivick
+		Jason Levine &amp; Noah Pivnick
 	</figcaption>
 </figure>
 
-These were the questions Jason Levine and Noah Pivick addressed in their experiments mashing the Kinect depth sensor with the Oculus Rift.
+These were the questions Jason Levine and Noah Pivnick addressed in their experiments mashing the Kinect depth sensor with the Oculus Rift.
 
 This team searched for the limitations and sweet spots. They explored innovative ideas such as offering 'reverse views' of the world, and making subtle shifts in the representations of the world experienced by the viewer.
 
