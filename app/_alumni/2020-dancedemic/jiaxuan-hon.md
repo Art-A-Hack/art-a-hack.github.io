@@ -1,6 +1,6 @@
 ---
 name        : JiaXuan Hon
-occupation  : Software Developer & Singer
+occupation  : Software Developer
 
 links:
  - icon     : twitter
