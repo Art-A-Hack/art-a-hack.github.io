@@ -28,7 +28,7 @@ BeFantastic, with the support of the U.S. Embassy in Singapore, the Swiss Arts C
 
 Participants will have the opportunity to gain free training in climate, AI/ML and tech during the month of August, and to meet an international group of like-minded people to discuss potential next steps. Those who wish can then form teams during the month of September to develop prototypes and artworks, with the support of experienced mentors.
 
-<div style="width: 100%; text-align: center; margin: 2em 0 4em 0;"><a href="https://blrfantastic.files.wordpress.com/2021/06/bf-together-open-call-faq.pdf" style="font-size: 2.2em; font-weight: bold;">Read the FAQs</a><span style="font-size: 2.2em;"> and </span><a href="https://forms.gle/3517PXjtpXbGamqJ6" style="font-size: 2.2em; font-weight: bold;">Apply Now</a></div>
+<div style="width: 100%; text-align: center; margin: 2em 0 4em 0;"><a href="https://blrfantastic.files.wordpress.com/2021/06/bf-together-open-call-faq.pdf" style="font-size: 2.2em; font-weight: bold;">Read the FAQs</a><span style="font-size: 2.2em;">&nbsp;and&nbsp;</span><a href="https://forms.gle/3517PXjtpXbGamqJ6" style="font-size: 2.2em; font-weight: bold;">Apply Now</a></div>
 
 <br>
 
