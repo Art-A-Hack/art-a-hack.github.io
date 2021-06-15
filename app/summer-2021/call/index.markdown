@@ -19,12 +19,16 @@ ThoughtWorks Arts, along with its partners BeFantastic, the U.S. Embassy in Sing
 
 BeFantastic, with the support of the U.S. Embassy in Singapore, the Swiss Arts Council Pro Helvetia (New Delhi) and Goethe-Institut / Max Muller Bhavan (Bangalore), in partnership with ThoughtWorks Arts, (USA), Supernormal (Singapore), In The Wild (Singapore) and Dara.network (USA) invites participation in this ‘online makers festival’. 
 
-- Are you an artist, designer, or maker interested in including AI & ML technologies into your practice?
+Do any of the below apply to you?
+- Are you an artist, designer, or maker interested in learning about and including AI & ML technologies into your practice?
 - Do you have a technology background and do you want to understand creative thought processes?  
-- Are you a climate champion, expert, or community member who wants to help creative practitioners shape a new project?
+- Are you a climate champion, expert, community member or climate action enthusiast who would like to help creative practitioners shape a new project?
 - Are you a TechArtist or creative technologist, searching for new ways to apply your skills?
-- Do you have an experimental mindset, and a strong desire to collaborate with others across borders of discipline and geographies?
-- Do you have at least three years of experience in your field?
+- Do you have an experimental mindset, and a desire to collaborate with others across borders of discipline and geographies?
+
+If you have any of the above, and have at least three years of experience in one of these fields apply now or [register for the info session](https://befantastic.in/dialog/) to learn more.
+
+All you need for an application is a statement of purpose as to why you would like to experiment with tech or art. We have many years experience helping enthusiastic participants learn, discover and create, so apply now and let us guide you.
 
 Participants will have the opportunity to gain free training in climate, AI/ML and tech during the month of August, and to meet an international group of like-minded people to discuss potential next steps. Those who wish can then form teams during the month of September to develop prototypes and artworks, with the support of experienced mentors.
 
