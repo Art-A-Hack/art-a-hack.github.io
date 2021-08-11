@@ -6,6 +6,8 @@ bodyclass : post
 description : Art-A-Hack and BeFantastic announces its 2021 open call focusing on Singapore, Switzerland, India, Germany and the United States. We are calling for artists, designers, technologists and others to focus on the pressing issue of climate crisis.
 image : /images/og/bf-together-aah.jpg
 ---
+<p class="highlight">Note: The deadline for this call has passed and submissions are no longer being accepted.</p>
+
 *Art-A-Hack is collaborating with BeFantastic India, with the support of the U.S. Embassy in Singapore, the Swiss Arts Council Pro Helvetia (New Delhi), Goethe-Institut / Max Muller Bhavan (Bangalore), in partnership with Supernormal (Singapore), In The Wild (Singapore) and Dara.network (USA) to run a 2021 fellowship program exploring Artificial Intelligence (AI) & Machine Learning (ML), data & networks around the theme of the climate crisis.*
 
 <div>
