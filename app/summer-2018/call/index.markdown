@@ -37,7 +37,7 @@ Here's the deal: We are seeking coders, artists, scientists, makers and dreamers
 
 We will provide space, equipment, facilitation and advice, and a stellar showcase opportunity at the CUNY City Tech theater.
 
-During four weekends we will co-create on site at ThoughtWorks, Floor 15, 99 Madison Ave between E. 29 and E. 30th Street, New York 10016. There will be a pre-event social on June 7, as well as presenting finished prototypes at CUNY in July.
+During four weekends we will co-create on site at Thoughtworks, Floor 15, 99 Madison Ave between E. 29 and E. 30th Street, New York 10016. There will be a pre-event social on June 7, as well as presenting finished prototypes at CUNY in July.
 
 
 ## How to apply
@@ -123,14 +123,14 @@ Note: More is potentially available on request.
 This is just a partial list, and we will be adding more equipment before the start of Art-A-Hack. We look forward to hearing from you!
 
 **Andrew McWilliams**  
-Director [ThoughtWorks Arts Residency](https://thoughtworksarts.io)  
+Director [Thoughtworks Arts Residency](https://thoughtworksarts.io)  
 Director [Art-A-Hack](https://artahack.io)  
 President [Hardware Hack Lab](https://hardwarehacklab.io)  
 Web: [www.jahya.net](https://jahya.net/)  
 Contact: [andy@artahack.io](mailto:andy@artahack.io)
 
 **Ellen Pearlman**  
-Director [ThoughtWorks Arts Residency](https://thoughtworksarts.io)  
+Director [Thoughtworks Arts Residency](https://thoughtworksarts.io)  
 [Fulbright World Learning Specialist](https://fulbrightspecialist.worldlearning.org) in Media, Art and Technology   
 President [Art-A-Hack](https://artahack.io)  
 Director, [Volumetric Society of New York](https://meetup.com/volumetric/)  

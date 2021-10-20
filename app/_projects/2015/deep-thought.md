@@ -15,7 +15,7 @@ The Deep Thought team explored the translation of brainwaves into 3D sculpture.
 	<figcaption>Gathering data from a Muse headset</figcaption>
 </figure>
 
-The team used a Muse headset to record brainwave activity, and openFrameworks to render and manipulate the results. These renderings were 3D-printed and shown at the final presentation at ThoughtWorks.
+The team used a Muse headset to record brainwave activity, and openFrameworks to render and manipulate the results. These renderings were 3D-printed and shown at the final presentation at Thoughtworks.
 
 <figure>
 	<img src="/images/projects/2015/deep-thought/3d-sculpture.jpg" alt="A 3D-printed sculpture of mental data" />

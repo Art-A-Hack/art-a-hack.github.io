@@ -41,7 +41,7 @@ The VR experience places users in a scene from the other side of the equation. T
 
 The supplies that are ultimately sent are a mixture of essential and useless components based on the misconceptions of the both the marketing campaign and app users who are funding the project. Unfortunately, the initial task of producing access to clean water is negated by haphazard and time-consuming run arounds, and is ultimately unsolvable.
 
-The VR application was created using [HTC Vive](http://www.vive.com/), [Unity](https://unity3d.com/), custom C# code and the [Newton VR](http://www.vrinflux.com/newton-vr-physics-based-interaction-on-the-vive/) physics engine. The team created the application using hardware in the [ThoughtWorks VR lab](https://thoughtworksarts.io/blog/inside-our-brand-new-hack-lab/).
+The VR application was created using [HTC Vive](http://www.vive.com/), [Unity](https://unity3d.com/), custom C# code and the [Newton VR](http://www.vrinflux.com/newton-vr-physics-based-interaction-on-the-vive/) physics engine. The team created the application using hardware in the [Thoughtworks VR lab](https://thoughtworksarts.io/blog/inside-our-brand-new-hack-lab/).
 
 <figure>
 	<img src="/images/projects/2016/superficial-substantive/allie-leo.jpg" alt="Allie Quintano and Leonardo Malave" />

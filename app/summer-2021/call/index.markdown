@@ -17,9 +17,9 @@ image : /images/og/bf-together-aah.jpg
 ## Open Call for collaboration on the climate crisis
 Art-A-Hack and BeFantastic announces its 2021 open call focusing on Singapore, Switzerland, India, Germany and the United States. We are calling for artists, designers, technologists and others to focus on the pressing issue of climate crisis. Using Artificial Intelligence (AI) and Machine Learning (ML) as well of data and networks we aim to connect with a diverse group of global practitioners to create collaborative artwork.
 
-ThoughtWorks Arts, along with its partners BeFantastic, the U.S. Embassy in Singapore, the Swiss Arts Council Pro Helvetia (New Delhi) and the Goethe-Institute/Max Muller Bhavan (Banaglore) has formed an alliance with Supernormal (Singapore), In The Wild (Singapore) and Dara.network (USA).
+Thoughtworks Arts, along with its partners BeFantastic, the U.S. Embassy in Singapore, the Swiss Arts Council Pro Helvetia (New Delhi) and the Goethe-Institute/Max Muller Bhavan (Banaglore) has formed an alliance with Supernormal (Singapore), In The Wild (Singapore) and Dara.network (USA).
 
-BeFantastic, with the support of the U.S. Embassy in Singapore, the Swiss Arts Council Pro Helvetia (New Delhi) and Goethe-Institut / Max Muller Bhavan (Bangalore), in partnership with ThoughtWorks Arts, (USA), Supernormal (Singapore), In The Wild (Singapore) and Dara.network (USA) invites participation in this ‘online makers festival’. 
+BeFantastic, with the support of the U.S. Embassy in Singapore, the Swiss Arts Council Pro Helvetia (New Delhi) and Goethe-Institut / Max Muller Bhavan (Bangalore), in partnership with Thoughtworks Arts, (USA), Supernormal (Singapore), In The Wild (Singapore) and Dara.network (USA) invites participation in this ‘online makers festival’. 
 
 Do any of the below apply to you?
 - Are you an artist, designer, or maker interested in learning about and including AI & ML technologies into your practice?
@@ -52,6 +52,6 @@ Participants will have the opportunity to gain free training in climate, AI/ML a
 
 <a href="http://www.supernormal.sg"><img src="/images/sponsors/supernormal.png" style="max-width: 260px; margin: 0 3em 3em 0;" alt="Supernormal" /></a>
 
-<a href="http://thoughtworksarts.io/"><img src="/images/sponsors/thoughtworks-arts.png" alt="ThoughtWorks Arts" style="max-width: 360px; margin: 0 3em 3em 0;" /></a>
+<a href="http://thoughtworksarts.io/"><img src="/images/sponsors/thoughtworks-arts.png" alt="Thoughtworks Arts" style="max-width: 360px; margin: 0 3em 3em 0;" /></a>
 
 </div>

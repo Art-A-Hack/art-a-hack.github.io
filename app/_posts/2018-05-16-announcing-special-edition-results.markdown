@@ -3,7 +3,7 @@ title : Announcing Teams for Art-A-Hack Special Edition 2018
 ---
 We are pleased to announce the selected participants for Art-A-Hack Special Edition 2018. For this year's summer program we have divided teams into two parallel tracks, exploring issues of climate change, brain-computer interface and artificial intelligence.
 
-This special edition of Art-A-Hack is a partnership between <a href="https://www.thoughtworks.com/">ThoughtWorks</a>, <a href="http://www.meetup.com/volumetric/">The Volumetric Society</a>, the <a href="https://www.humanimpactsinstitute.org/">Human Impacts Institute</a> and the <a href="http://www.citytech.cuny.edu/">New York City College of Technology (City Tech)</a>. Each of these partners brings different areas of expertise to the table to help our teams.
+This special edition of Art-A-Hack is a partnership between <a href="https://www.thoughtworks.com/">Thoughtworks</a>, <a href="http://www.meetup.com/volumetric/">The Volumetric Society</a>, the <a href="https://www.humanimpactsinstitute.org/">Human Impacts Institute</a> and the <a href="http://www.citytech.cuny.edu/">New York City College of Technology (City Tech)</a>. Each of these partners brings different areas of expertise to the table to help our teams.
 
 <!--excerpt-ends-->
 

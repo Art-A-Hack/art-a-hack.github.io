@@ -3,7 +3,7 @@ title : Team Check-In from Week Three
 image : /images/og/2016-week-3-check-in.jpg
 ---
 
-At the halfway point of Art-A-Hack teams reach a critical point where they iterate on initial ideas. We’re checking in on the teams working out of the ThoughtWorks office this week to see what their projects look like now at this mid-point.
+At the halfway point of Art-A-Hack teams reach a critical point where they iterate on initial ideas. We’re checking in on the teams working out of the Thoughtworks office this week to see what their projects look like now at this mid-point.
 
 {% slider 4:3 %}
   ![Sonic Equations](/images/blog/2016/IMG_1358.jpg)
@@ -63,4 +63,4 @@ The Echoing Ego team is an interactive project with many moving parts like music
   ![Art-A-Hack](/images/blog/2016/IMG_1466.jpg)
 {% endslider %}
 
-Each day ends with presentations and demos from all teams working from both ThoughtWorks and the NYU location. It’s a testament to everyone’s hard work and dedication that everyone shared a working prototype and were cracking jokes while sharing them. 
+Each day ends with presentations and demos from all teams working from both Thoughtworks and the NYU location. It’s a testament to everyone’s hard work and dedication that everyone shared a working prototype and were cracking jokes while sharing them. 

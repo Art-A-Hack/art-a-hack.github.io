@@ -3,7 +3,7 @@ title : Teams Announced for Art-A-Hack 2016
 ---
 We are pleased to announce the selected participants for the Art-A-Hack 2016. Our participants this year are diverse, and come from backgrounds in art, technology, and a range of intersecting feilds.
 
-The 2016 season of Art-A-Hack is a partnership between <a href="https://www.thoughtworks.com/">ThoughtWorks</a>, <a href="http://www.meetup.com/volumetric/">The Volumetric Society</a> and <a href="http://engineering.nyu.edu/academics/programs/integrated-digital-media-ms">Integrated Digital Media</a> at the <a href="http://engineering.nyu.edu/">NYU Tandon School of Engineering</a>. Each of these partners brings different areas of expertise to the table to help our teams.
+The 2016 season of Art-A-Hack is a partnership between <a href="https://www.thoughtworks.com/">Thoughtworks</a>, <a href="http://www.meetup.com/volumetric/">The Volumetric Society</a> and <a href="http://engineering.nyu.edu/academics/programs/integrated-digital-media-ms">Integrated Digital Media</a> at the <a href="http://engineering.nyu.edu/">NYU Tandon School of Engineering</a>. Each of these partners brings different areas of expertise to the table to help our teams.
 
 <!--excerpt-ends-->
 

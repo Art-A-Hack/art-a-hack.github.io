@@ -8,7 +8,7 @@ The teams met and worked Saturday during our first co-working session of the 201
 	<iframe src="https://www.flickr.com/photos/125924023@N07/27022239474/in/set-72157667030823053/player/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 </figure>
 
-Half the teams were based at NYU Tandon, the other half at ThoughtWorks New York. We kept a live video feed running all day so that the teams could see each other working and feel part of the same collective.
+Half the teams were based at NYU Tandon, the other half at Thoughtworks New York. We kept a live video feed running all day so that the teams could see each other working and feel part of the same collective.
 
 <!--excerpt-ends-->
 

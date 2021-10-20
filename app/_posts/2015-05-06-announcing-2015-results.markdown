@@ -3,7 +3,7 @@ title : Announcing the 2015 Line-up for Art-A-Hack
 ---
 We are pleased to announce the selected participants for the 2015 edition of Art-A-Hack. The participants come from extremely diverse backgrounds with a wealth of complementary talents, ideas and skill sets in both art and technology.
 
-Besides partnering with The Volumetric Society and ThoughtWorks, the Metropolitan Museum of Art Media Lab is our newest partner in our endeavor "to come together to make something new."
+Besides partnering with The Volumetric Society and Thoughtworks, the Metropolitan Museum of Art Media Lab is our newest partner in our endeavor "to come together to make something new."
 
 <!--excerpt-ends-->
 

@@ -2,7 +2,7 @@
 title : Final Presentations for Art-A-Hack 2015
 image : /images/og/2015-presentations.jpg
 ---
-Our final presentations took place on July 11 2015 at ThoughtWorks. Besides friends and family, ThoughtWorks founder Roy Singham came by to see what our Art-A-Hackers had produced.
+Our final presentations took place on July 11 2015 at Thoughtworks. Besides friends and family, Thoughtworks founder Roy Singham came by to see what our Art-A-Hackers had produced.
 
 <figure class="video">
 	<iframe src="https://www.flickr.com/photos/125924023@N07/20668270598/in/set-72157657719916725/player/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
@@ -20,4 +20,4 @@ Many of our teams works have gone on to be shown in galleries around the country
 
 Thanks to all our wonderful participants for this year's fantastic show!
 
-We would like to thank our sponsors: ThoughtWorks, Microsoft, Origin Magazine, and the Metropolitan Museum of Art Media Lab.
+We would like to thank our sponsors: Thoughtworks, Microsoft, Origin Magazine, and the Metropolitan Museum of Art Media Lab.
