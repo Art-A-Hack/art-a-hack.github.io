@@ -23,7 +23,7 @@ However, everyone has a different journey. That journey, more than anything else
 
 The journey is into new territory - along the way there are false starts, experiments, learning, creativity, and problem-solving. These routes and the thinking behind them are important. They are often just as interesting, informative and useful as what is eventually produced.
 
-Some people have weekdays to work on their ideas outside of Art-A-Hack group sessions, others only have a few days in total. Some participants found themselves having to re-think their ideas from scratch, where others were able to free-wheel without planning too far ahead.
+Some people have Monday to Friday to work on their ideas outside of Art-A-Hack group sessions, others only have a few days in total. Some participants found themselves having to re-think their ideas from scratch, where others were able to free-wheel without planning too far ahead.
 
 Art-A-Hack has been encouraging people to talk about restrictions and restraints as well as ideas and prototypes. We encourage dialogue around how they responded, how they navigate, and their creative process.
 
