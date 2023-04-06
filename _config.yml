@@ -17,7 +17,7 @@ paginate: 7
 paginate_path: "/blog/page:num/"
 
 sass:
-  sass_dir: css
+  sass_dir: style
   style: compressed
 
 plugins:
