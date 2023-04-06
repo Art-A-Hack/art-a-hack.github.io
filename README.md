@@ -19,3 +19,5 @@ When you have made, previewed and committed your changes locally and are ready t
 ## Future
 
 The site backend could be improved by adding plugins to help with preprocessing, vendor prefixing, concatenating, minifying, and fingerprinting / cache-busting assets via [one method](https://github.com/envygeeks/jekyll-assets) or [another](https://mademistakes.com/articles/using-jekyll-2017/).
+
+The site could be opened up for editing by non-technical people using [prose.io](https://prose.io/) or [similar](https://github.com/planetjekyll/awesome-jekyll-editors), though this might require some testing and amendments to the site to properly support it.
