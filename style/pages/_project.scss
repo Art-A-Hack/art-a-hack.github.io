@@ -1,0 +1,114 @@
+#projects {
+	#members {
+		width: 100%;
+		background-color: rgba(51, 51, 51, 0.08);
+
+		ul.alumni {
+			padding-top: 9em;
+			padding-bottom: 3em;
+			list-style-type: none;
+			position: relative;
+			top: -0.1em;
+
+			li {
+				margin-bottom: 0.7rem;
+			}
+		}
+
+		figure {
+			width: 13.5em;
+		}
+
+		div {
+			width: 13.5em;
+			text-align: center;
+
+			h1 {
+				font-size: 1.4em;
+				font-weight: normal;
+			}
+		}
+
+		h2 {
+			font-size: 1.3rem;
+		}
+
+		p {
+			font-size: 1.1rem;
+		}
+	}
+
+	#members-short {
+		display: none;
+	}
+
+	.edition {
+		font-size: 1.1em;
+		font-weight: bold;
+		color: #afaeae;
+	}
+}
+
+.old-report {
+	width: 100%;
+	text-align: center;
+	margin: 0 0 2.4em 0;
+}
+
+@media (max-width: 1299px) {
+	#projects .edition {
+		padding: 0 0 0.1em 0;
+		position: relative;
+		top: -0.6em;
+	}
+}
+
+@media (max-width: 1099px) {
+	#projects .edition {
+		top: -0.8em;
+	}
+}
+
+@media (max-width: 899px) {
+	#projects {
+		#members-short {
+			display: block;
+			border-top: 2px solid #c6c6c6;
+			border-bottom: 2px solid #c6c6c6;
+			margin-bottom: 1.5em;
+			padding-bottom: 1em;
+			position: relative;
+			top: 0.6em;
+
+			p {
+				display: inline-block;
+				padding-bottom: 0;
+			}
+
+			ul.alumni {
+				display: inline;
+				list-style-type: none;
+
+				li {
+					display: inline;
+					margin: 0;
+					padding: 0;
+				}
+
+				li:after {
+					content: ',';
+				}
+
+				li:last-child:after {
+					content: '';
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 499px) {
+	#projects .edition {
+		font-size: 1em;
+	}
+}

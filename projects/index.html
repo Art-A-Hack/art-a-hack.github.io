@@ -1,0 +1,33 @@
+---
+title     : Projects
+bodyid    : projects
+bodyclass : grid-page
+description : Projects from Art-A-Hack, a program which incubates teams from a variety of disciplines including art, technology, hardware and software development, design, immersive environments, music, theater, animation, social justice and interactivity, to collaboratively create something new.
+---
+<main>
+	<article role="article" class="grid-container">
+		<h1>Art-A-Hack&trade; Projects</h1>
+
+		{% for edition in site.data.editions %}
+			{% unless edition.writeup == false %}
+				{% include edition-name.html %}
+				<div class="grid">
+					{% assign editionid = edition.id | downcase %}
+					{% assign projects_for_edition = site.projects | where_exp:"project","project.edition==editionid" %}
+					{% for project in projects_for_edition %}
+						<figure>
+							<a href="{{ project.url }}">
+								<img src="/images/projects/{{ edition.id }}/{{ project.projectid }}/{{ project.projectid }}.jpg" />
+								<figcaption>{{ project.title }}</figcaption>
+							</a>
+							<p>{{ project.teaser }}</p>
+						</figure>
+					{% endfor %}
+				</div>
+			{% endunless %}
+		{% endfor %}
+
+		<h1>Art-A-Hack&#8482; Summer 2014</h1>
+		<p class="old-report">Our inaugral Art-A-Hack&#8482; in 2014 is <a href="/summer-2014/report/">documented in this project report</a>.
+	</article>
+</main>
