@@ -9,7 +9,8 @@ This site bulds using [Jekyll](https://jekyllrb.com/) and is hosted on [Github P
 Use the site like any Jekyll site, for example to run the site locally:
 ```
 git clone https://github.com/Art-A-Hack/art-a-hack.github.io
-cd art-a-hack.github.io
+mv art-a-hack.github.io artahack.io
+cd artahack.io
 bundle exec jekyll serve
 ```
 
