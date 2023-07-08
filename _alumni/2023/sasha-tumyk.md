@@ -3,6 +3,6 @@ name: Sasha Tumyk
 occupation: 3D Designer
 
 links:
- - icon     : global
+ - icon     : globe
    url      : https://witho.art/
 ---

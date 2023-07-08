@@ -5,8 +5,8 @@ occupation: Professor, Artist
 links:
  - icon     : instagram
    url      : https://www.instagram.com/perneo/
- - icon     : global
+ - icon     : globe
    url      : https://ncchung.com/
- - icon     : global
+ - icon     : globe
    url      : https://cbml.science/
 ---

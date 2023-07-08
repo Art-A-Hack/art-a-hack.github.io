@@ -3,6 +3,10 @@ name: Ellen Pearlman
 occupation: Artist, Educator
 
 links:
- - icon     : global
-   url      : https://epmexico.wixsite.com/ellenpearlman
+ - icon     : twitter
+   url      : https://twitter.com/VolumetricEllen/
+ - icon     : globe
+   url      : https://epmexico.wixsite.com/ellenpearlman/
+ - icon     : linkedin
+   url      : https://www.linkedin.com/in/ellen-pearlman-4213241/
 ---
