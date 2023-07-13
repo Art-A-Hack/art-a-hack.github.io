@@ -29,13 +29,13 @@ layout: default
           <ul class="alumni">
             {% for member in sorted-members %}
               {% if member.lead %}
-                {% assign alum = site.alumni | where:"name", member.name | first %}
+                {% assign alum = site.alumni | where_exp:"item", "item.path contains page.edition" | where:"name", member.name | first %}
                 <li>{{ alum.name }}</li>
               {% endif %}
             {% endfor %}
             {% for member in sorted-members %}
               {% unless member.lead %}
-                {% assign alum = site.alumni | where:"name", member.name | first %}
+                {% assign alum = site.alumni | where_exp:"item", "item.path contains page.edition" | where:"name", member.name | first %}
                 <li>{{ alum.name }}</li>
               {% endunless %}
             {% endfor %}
@@ -53,7 +53,7 @@ layout: default
     <ul class="alumni">
       {% for member in sorted-members %}
         {% if member.lead %}
-          {% assign alum = site.alumni | where:"name", member.name | first %}
+          {% assign alum = site.alumni | where_exp:"item", "item.path contains page.edition" | where:"name", member.name | first %}
           <li>
             {% include alum.html %}
           </li>
@@ -61,7 +61,7 @@ layout: default
       {% endfor %}
       {% for member in sorted-members %}
         {% unless member.lead %}
-          {% assign alum = site.alumni | where:"name", member.name | first %}
+          {% assign alum = site.alumni | where_exp:"item", "item.path contains page.edition" | where:"name", member.name | first %}
           <li>
             {% include alum.html %}
           </li>
