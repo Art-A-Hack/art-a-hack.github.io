@@ -1,6 +1,6 @@
 ---
 name: Ellen Pearlman
-occupation: Artist, Educator
+occupation: Artist, Curator, Researcher
 
 links:
  - icon     : twitter

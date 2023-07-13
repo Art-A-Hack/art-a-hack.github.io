@@ -1,10 +1,11 @@
 ---
 title       : Steps for Digesting with a Torn-Open Belly
 teaser      : A Tour in 43 parts
-image       : /images/projects/2023/steps-for-digesting/steps-for-digesting.jpg
+image       : /images/projects/2023-warsawai/steps-for-digesting/steps-for-digesting.jpg
 
 members:
  - name     : Gabriel Bielawski
+   lead     : true
  - name     : Maciej Mehl
  - name     : Zuzanna Napora
  - name     : Gabriela Niechwiadomicz

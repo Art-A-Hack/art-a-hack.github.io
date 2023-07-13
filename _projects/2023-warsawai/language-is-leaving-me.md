@@ -1,12 +1,12 @@
 ---
 title       : Language Is Leaving Me
 teaser      : An AI Opera Of The Skin
-image       : /images/projects/2023/language-is-leaving-me/language-is-leaving-me.jpg
+image       : /images/projects/2023-warsawai/language-is-leaving-me/language-is-leaving-me.jpg
 
 members:
  - name     : Ellen Pearlman
+   lead     : true
  - name     : Zofia Mizgalewicz
- - name     : Sasha Tumyk
  - name     : Tony Vykhovanets
  - name     : Tomasz Grzymała
  - name     : Sefa Sagir
