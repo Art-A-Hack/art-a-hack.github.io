@@ -13,11 +13,21 @@ members:
  - name     : Bartosz Kaczmarek
  - name     : Paulina Wachnicka
 ---
-An interactive multimedia installation addressing the topic of cultural identity and the impact of its loss on the individual in the context of the technological revolution. The war in Ukraine and its accompanying information warfare raise questions about cultural identity, its roots, to what extent it belongs to us, and how of that identity is imposed on us.
+Polish folk culture, in danger of extinction after surviving WWII is again threatened by destructive foreign forces threatening our border. "On the existence of cultural identity" explores cultural annihilation and regeneration by synthesizing our own personalized Gods in an AI multimedia installation.
 
 <figure>
-  <img src="/images/projects/2023-warsawai/on-the-existence-of-cultural-identity/faces.jpg" alt="Caption" />
-  <figcaption>Caption</figcaption>
+  <img src="/images/projects/2023-warsawai/on-the-existence-of-cultural-identity/faces.jpg" alt="Participants left to right: Beata Bajno, Eryk Imos, Paulina Wachnicka and Kamil Błaszkiewicz" />
+  <figcaption>Participants left to right: Beata Bajno, Eryk Imos, Paulina Wachnicka and Kamil Błaszkiewicz</figcaption>
 </figure>
 
-The installation would be located in two dark rooms or segments (preferably the basement of the gallery). In the first, a photograph is taken of the entire figure of the person entering the first room. In addition, the person has to say something, so that their voice is recorded. The material thus taken is processed by two AI models - one language, the other visual. In the next room, the person sees a projection of themselves on a thin fabric, and hears their own voice, with which they can hold a conversation. The image morphs into figures of gods from different eras and cultures with the voice becoming increasingly authoritarian and robotic. In the final phase the image deforms and the voice no longer resembles any familiar person. 
+Using voice ML to synthesize an audience member’s voice into that of an imaged deity, stylized GANS developed from a customized image bank depict the participant’s image merging into that of mythical goddesses from the past, reflective of past memories of Polish folk culture.
+
+<figure>
+  <img src="/images/projects/2023-warsawai/on-the-existence-of-cultural-identity/god1.jpg" alt="One of the generated deities" />
+  <figcaption>One of the generated deities</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/projects/2023-warsawai/on-the-existence-of-cultural-identity/god2.jpg" alt="Another generated deity" />
+  <figcaption>Another generated deity</figcaption>
+</figure>
