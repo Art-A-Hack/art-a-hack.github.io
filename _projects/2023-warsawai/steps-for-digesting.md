@@ -42,4 +42,9 @@ The program was displayed as part of a larger art piece at [Jak Zapomnieć galle
   <figcaption>Closeup on the generated video</figcaption>
 </figure>
 
+<figure class="video">
+	<iframe width="1905" height="760" src="https://www.youtube.com/embed/H7Z0AybWCIM" title="Steps for Digesting with a Torn-Open Belly: A Tour in 43 Parts (2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
+<br />
+
 Art-A-Hack™ ’23 AI Art In A Time of War was supported by the [University of Warsaw Faculty of Mathematics, Informatics and Mechanics](https://www.mimuw.edu.pl/en) and [Fulbright Poland](https://fulbright.edu.pl/home/) 
