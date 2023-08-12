@@ -23,11 +23,11 @@ Polish folk culture, in danger of extinction after surviving WWII is again threa
 Using voice ML to synthesize an audience member’s voice into that of an imaged deity, stylized GANS developed from a customized image bank depict the participant’s image merging into that of mythical goddesses from the past, reflective of past memories of Polish folk culture.
 
 <figure>
-  <img src="/images/projects/2023-warsawai/on-the-existence-of-cultural-identity/god1.jpg" alt="One of the generated deities" />
-  <figcaption>One of the generated deities</figcaption>
+  <img src="/images/projects/2023-warsawai/on-the-existence-of-cultural-identity/god1.jpg" alt="One of the deities generated from a customized StyleGAN image data bank" />
+  <figcaption>One of the deities generated from a customized StyleGAN image data bank</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/projects/2023-warsawai/on-the-existence-of-cultural-identity/god2.jpg" alt="Another generated deity" />
-  <figcaption>Another generated deity</figcaption>
+  <img src="/images/projects/2023-warsawai/on-the-existence-of-cultural-identity/god2.jpg" alt="One of the deities generated from a customized StyleGAN image data bank" />
+  <figcaption>One of the deities generated from a customized StyleGAN image data bank</figcaption>
 </figure>

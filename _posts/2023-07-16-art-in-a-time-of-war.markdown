@@ -25,11 +25,11 @@ With the support of the [University of Warsaw, Faculty of Mathematics, Informati
 	<figcaption>Sefa Sagir and Wiktor Kraśnicki testing their handmade biosensor</figcaption>
 </figure>
 
-From March to June participants learned about AI, art, and strategies of collaboration to produce 3D animation as part of an installation, new modes of AI cinema and biometrics, and voice ML with projected GANS harnessing the skill sets and expertise of both students and professionals in computer science, physics, software development, 3D design, theater, visual art, cinematography and sound design. With the support of Art-A-Hack founder Ellen Pearlman participants were exposed to a broad range of current topics in AI to support their vision in presenting works dealing with the current crisis of the ongoing conflict with Russia.
+From March to June participants learned about AI, art, and strategies of collaboration to produce 3D animation as part of an installation, new modes of AI cinema and biometrics, and voice ML with projected GANS harnessing the skill sets and expertise of both students and professionals in computer science, physics, software development, 3D design, theater, visual art, cinematography and sound design. With the support of Art-A-Hack founder and Fulbright Scholar Ellen Pearlman participants were exposed to a broad range of current topics in AI to support their vision in presenting works dealing with the current crisis of the ongoing conflict with Russia.
 
 <figure class="no-border">
 	<img src="/images/blog/2023/Group2aFinal.jpeg" alt="Sketches for the Steps of Digesting installation" />
-	<figcaption>Sketches for the Steps of Digesting installation</figcaption>
+	<figcaption>Sketches by Gabriel Bielawski and Zuzanna Napora for the Steps of Digesting installation</figcaption>
 </figure>
 
 <figure class="no-border">

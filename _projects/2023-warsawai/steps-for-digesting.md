@@ -13,16 +13,16 @@ members:
 
 The team working on *Steps for Digesting with a Torn-Open Belly: A Tour in 43 Parts* was composed of artists, musicians, and programmers from Poland, Ukraine, and the United States, working collaboratively out of the [Faculty of Mathematics, Informatics and Mechanics](https://www.mimuw.edu.pl/en) at the [University of Warsaw](https://en.uw.edu.pl/). The project, existing at the intersection of memory studies, animation, and computer science, employed machine learning in a physically simulated 3D character and environment in order to develop a scenario exploring inherited trauma, movement, digital / physical space, and apocalypse.
 
-In the piece, a wolf-like character is inserted into an environment built from satellite height data of Węgrów, a town in Eastern Poland where the family of one of the team members is from, and where they were in hiding during the Second World War. The wolf must learn to walk from scratch while being pursued by other characters in the scene that are trying to catch it. Through this process the team hoped to explore how anxiety or trauma might manifest physically in an AI, and the possible applications of machine learning in emergent storytelling.
+In the piece, a wolf-like character is inserted into an environment built from satellite height data of Węgrów, a town in Eastern Poland where the family of one of the team members is from, and where their Jewish great unlce was in hiding during the Second World War. The wolf must learn to walk from scratch while being pursued by other characters in the scene that are trying to catch it. Through this process the team hoped to explore how anxiety or trauma might manifest physically in an AI, and the possible applications of AI, robotics and a 3D environment in emergent storytelling.
 
 <figure>
   <img src="/images/projects/2023-warsawai/steps-for-digesting/early-sketches.jpg" alt="Early sketches of the character" />
-  <figcaption>Early sketches of the character</figcaption>
+  <figcaption>Early sketches of the character by Gabriel Bielawski and Zuzanna Napora</figcaption>
 </figure>
 
 <figure>
   <img src="/images/projects/2023-warsawai/steps-for-digesting/dog-model.png" alt="Blender 3D model of the character" />
-  <figcaption>Blender 3D model of the character</figcaption>
+  <figcaption>Blender 3D model of the character by Zuzanna Napora and Maciej Mehl</figcaption>
 </figure>
 
 <figure>
@@ -34,12 +34,12 @@ The program was displayed as part of a larger art piece at [Jak Zapomnieć galle
 
 <figure>
   <img src="/images/projects/2023-warsawai/steps-for-digesting/exhibition2.jpg" alt="View of part of the exhibition" />
-  <figcaption>View of part of the exhibition</figcaption>
+  <figcaption>View of part of the exhibition at the <em>Jak Zapomnieć</em> gallery</figcaption>
 </figure>
 
 <figure>
   <img src="/images/projects/2023-warsawai/steps-for-digesting/exhibition1.jpg" alt="Closeup on the generated video" />
-  <figcaption>Closeup on the generated video</figcaption>
+  <figcaption>Closeup on the generated video at the <em>Jak Zapomnieć</em> gallery</figcaption>
 </figure>
 
 <figure class="video">
