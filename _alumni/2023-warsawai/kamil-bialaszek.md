@@ -1,5 +1,5 @@
 ---
-name: Kamil Błaszkiewicz
+name: Kamil Białaszek
 occupation: Theatre Director, Stage Artist
 
 links:
