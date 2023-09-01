@@ -1,0 +1,154 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Reflecting on Time and Space | Art-A-Hack</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Description" content="Report from Art-A-Hack, a program which incubates teams from a variety of disciplines including art, technology, hardware and software development, design, immersive environments, music, theater, animation, social justice and interactivity, to collaboratively create something new.">
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@art_a_hack" />
+    <meta name="twitter:creator" content="@art_a_hack" />
+    <meta property="og:url" content="https://artahack.io/summer-2014/reflecting-on-time/" />
+    <meta property="og:title" content="Reflecting on Time and Space | Art-A-Hack" />
+    <meta property="og:image" content="/images/og_default.jpg" />
+    <meta property="og:description" content="Report from Art-A-Hack, a program which incubates teams from a variety of disciplines including art, technology, hardware and software development, design, immersive environments, music, theater, animation, social justice and interactivity, to collaboratively create something new." />
+
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css" integrity="sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=" crossorigin="anonymous">
+    <link href="//fonts.googleapis.com/css?family=Raleway:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
+    <link rel="canonical" href="https://artahack.io/summer-2014/reflecting-on-time/">
+    <link href="/style/site.css" rel="stylesheet">
+
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv-printshiv.min.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" href="/images/favicon.png">
+  </head>
+  <body id="report" class="post">
+    
+      <header role="banner" class="main top">
+        <h1>
+          <a href="/">
+            <img class="logo" src="/images/artahack-logo-heart.jpg" alt="Art-A-Hack" />
+            <img class="text" src="/images/artahack-logo-text.jpg" alt="Art-A-Hack" />
+          </a>
+        </h1>
+        
+        <nav role="navigation">
+          <h2>Navigation</h2>
+          <a id="menu-button" href="#">
+            <i class="fa fa-bars"></i>
+            <i class="fa fa-times"></i>
+          </a>
+          <ul class="cta">
+            <li><a href="/about/" class="about">About</a></li>
+            <li><a href="/alumni/" class="alumni">Alumni</a></li>
+            <li><a href="/projects/" class="projects">Projects</a></li>
+            <li><a href="/blog/" class="blog">Blog</a></li>
+          </ul>
+        </nav>
+      </header>
+    
+    <div class="flex-row">
+  <main class="left">
+    <article role="article">
+      <header>
+        <h1>Reflecting on Time and Space</h1>
+        <div class="widgets">
+          <ul class="social simple">
+            <li>
+              <a href="http://twitter.com/share?text=Reflecting%20on%20Time%20and%20Space&amp;url=http://artahack.io/summer-2014/reflecting-on-time/&amp;via=art_a_hack"><i class="fa fa-twitter-square"></i></a>
+            </li>
+            <li>
+              <a href="http://www.facebook.com/sharer/sharer.php?title=Reflecting%20on%20Time%20and%20Space&amp;u=http://artahack.io/summer-2014/reflecting-on-time/"><i class="fa fa-facebook-square"></i></a>
+            </li>
+            <li>
+              <a href="http://www.tumblr.com/share?v=3&amp;t=Reflecting%20on%20Time%20and%20Space&amp;u=http://artahack.io/summer-2014/reflecting-on-time/"><i class="fa fa-tumblr-square"></i></a>
+            </li>
+          </ul>
+        </div>
+      </header>
+      <div class="post-content">
+        <h2>Reflecting on Time and Space</h2>
+
+<p>Olga Ast is a designer, author and interdisciplinary artist. Her practice investigates connections between space, time and information. Rolf Levenbach is an ex-teacher (ITP at NYU) and ex-computer tech support person (Bell Labs, Rutgers University, and the American Museum of Natural History).</p>
+
+<figure>
+	<img src="/images/reports/summer-2014/6.jpg" alt="Olga Ast and Rolf Levenbach" />
+	<figcaption>
+		Olga Ast and Rolf Levenbach
+	</figcaption>
+</figure>
+
+<p>The pair investigated some of Olga’s ideas on the emergence of the solar system using a simulation environment called NetLogo. Olga’s previous explorations into the nature of time were part of the background of the collaboration, an extension of many years of meeting at various art &amp; science events.</p>
+
+<p>Olga created a physical installation which subverted the intended purpose of human-motion detection and the light sensitive display hardware called ‘Octolively’. Ast noticed Octolively’s on-board sensors responded more vigorously to reflective physical surfaces than to the movement of human hands. She created an installation where different reflective materials and surfaces dangled in front of a wall-mounted Octolively, activating its lights as they swayed in the breeze.</p>
+
+<p>Both at Thoughtworks and outside, Olga and Rolf tried different methods of creating emergent behavior starting with a spiral of points, and adding other behaviors governing the survival of points and the clumping of points. NetLogo allows the adept modeler to use a variety of tools to do agent-based, pattern-based and mathematical modeling and develop particle systems, generative art, or cellular automata without the need for complicated libraries or APIs. Time can be modeled as continuous or by ‘tick’. NetLogo can also communicate with external hardware such as the GoGo Board or the Arduino. Rolf investigated the possibility of programming the OctoLively via an AVR programmer (which could be an Arduino), which would allow the use of the OctoLively as a gesture controller or a display device for NetLogo.</p>
+
+<h3>Technical Challenges</h3>
+
+<p>In the Octolively installation, many technical challenges were circumvented. This was not about creating a new ‘prototype’ with the Octolively but about investigating the properties and by-products of existing technology.</p>
+
+<p>NetLogo allows the easy use of user interface elements such as sliders to allow parameter manipulation in real time, and histograms or other plots to display global variables of interest. Even though they restricted themselves to a two-dimensional model (3-D NetLogo is available but an additional learning curve), it was hard to understand the structure of a world with hundreds of thousands of ‘agents’.</p>
+
+      </div>
+      <hr />
+    </article>
+  </main>
+  <section id="image" class="right">
+    <figure></figure>
+  </section>
+</div>
+    <section id="sponsors">
+      <header>
+        <h1>Program Partners</h1>
+      </header>
+      <ul>
+        <li class="small"><a href="http://www.thoughtworksarts.io"><img src="/images/sponsors/thoughtworks-arts.png" alt="Thoughtworks Arts" /></a></li>
+        <li><a href="http://engineering.nyu.edu/"><img src="/images/sponsors/tandon.png" alt="NYU Tandon School of Engineering" /></a></li>
+        <li><a href="http://www.microsoft.com"><img src="/images/sponsors/microsoft.png" alt="Microsoft" /></a></li>
+        <li><a href="http://www.oreilly.com/"><img src="/images/sponsors/oreilly.png" alt="O'Reilly" /></a></li>
+        <li class="vertical"><a href="http://www.meetup.com/volumetric"><img src="/images/sponsors/volumetric.png" alt="The Volumetric Society" /></a></li>
+        <li><a href="http://new.livestream.com/"><img src="/images/sponsors/livestream.png" alt="Livestream" /></a></li>
+        <li class="small"><a href="http://www.originmagazine.com/"><img src="/images/sponsors/origin.png" alt="Origin Magazine" /></a></li>
+        <li class="small"><a href="http://cyland.org/"><img src="/images/sponsors/cyland.png" alt="Cyland Media Art Lab" /></a></li>
+        <li class="small"><a href="http://www.citytech.cuny.edu/"><img src="/images/sponsors/city-tech.png" alt="NYC College of Technology, City Tech" /></a></li>
+        <li class="large"><a href="https://www.humanimpactsinstitute.org/"><img src="/images/sponsors/human-impacts-institute.png" alt="Human Impacts Institute" /></a></li>
+        <li class="small"><a href="https://batterydance.org/"><img src="/images/sponsors/battery-dance.png" alt="Battery Dance" /></a></li>
+        <li class="large"><a href="https://www.emotibit.com/"><img src="/images/sponsors/emotibit.png" alt="Emotibit" /></a></li>
+        <li class="small"><a href="https://www.elektron.art/"><img src="/images/sponsors/elektron.png" alt="eˉlektron" /></a></li>
+        <li class="large"><a href="https://www.state.gov/"><img src="/images/sponsors/state-dept.png" alt="U.S. State Department" /></a></li>
+        <li class="large"><a href="https://alumni.state.gov/alumni-news/alumni-thematic-international-exchange-seminars-alumni-ties"><img src="/images/sponsors/alumni-ties.png" alt="Alumni Ties Thematic International Exchange Seminars" /></a></li>
+        <li class="large"><a href="https://www.worldlearning.org/"><img src="/images/sponsors/world-learning.png" alt="World Learning" /></a></li>
+        <li class="large"><a href="https://www.goethe.de/"><img src="/images/sponsors/goethe-institut.png" alt="Goethe Institut" /></a></li>
+        <li class="large"><a href="https://sg.usembassy.gov/"><img src="/images/sponsors/us-embassy-singapore.png" alt="US Embassy Singapore" /></a></li>
+        <li class="small"><a href="https://www.weareinthewild.com/"><img src="/images/sponsors/in-the-wild.png" alt="In The Wild" /></a></li>
+        <li class="small"><a href="https://prohelvetia.ch/"><img src="/images/sponsors/prohelvetica.png" alt="Prohelvetica" /></a></li>
+        <li class="large"><a href="https://www.dara.network/"><img src="/images/sponsors/dara.png" alt="Dara Network" /></a></li>
+        <li class="small"><a href="http://www.supernormal.sg"><img src="/images/sponsors/supernormal.png" alt="Supernormal" /></a></li>
+        <li class="large"><a href="https://en.uw.edu.pl/"><img src="/images/sponsors/university-of-warsaw.png" alt="University of Warsaw" /></a></li>
+        <li class="large"><a href="https://www.mimuw.edu.pl/en"><img src="/images/sponsors/mimuw.jpg" alt="University of Warsaw, Faculty of Mathematics, Informatics and Mechanics" /></a></li>
+        <li class="small"><a href="https://fulbright.edu.pl/home/"><img src="/images/sponsors/fulbright-poland.png" alt="Fulbright Poland" /></a></li>
+      </ul>
+    </section>
+    <script src="/javascript/jquery.js"></script>
+    <script src="/javascript/site.js"></script>
+    <script src="/javascript/analytics.js"></script>
+  </body>
+</html>
