@@ -1,5 +1,5 @@
 ---
-name: Gabriela Niechwiadomicz
+name: Gabriela Niechwiadowicz
 occupation: Physicist, Programmer
 
 links:

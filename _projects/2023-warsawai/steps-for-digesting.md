@@ -8,7 +8,7 @@ members:
    lead     : true
  - name     : Maciej Mehl
  - name     : Zuzanna Napora
- - name     : Gabriela Niechwiadomicz
+ - name     : Gabriela Niechwiadowicz
 ---
 
 The team working on *Steps for Digesting with a Torn-Open Belly: A Tour in 43 Parts* was composed of artists, musicians, and programmers from Poland, Ukraine, and the United States, working collaboratively out of the [Faculty of Mathematics, Informatics and Mechanics](https://www.mimuw.edu.pl/en) at the [University of Warsaw](https://en.uw.edu.pl/). The project, existing at the intersection of memory studies, animation, and computer science, employed machine learning in a physically simulated 3D character and environment in order to develop a scenario exploring inherited trauma, movement, digital / physical space, and apocalypse.
